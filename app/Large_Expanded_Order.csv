@@ -1,0 +1,1009 @@
+Order Number,Ship From,Ship To,Commodity,Order Value,Weight (KG),Volume,Shipper Name,Shipper Address,Shipper Country,Consignee Country,Order Date,Required Delivery Date,Journey Type,Tax Percentage
+1,Singapore Warehouse,Wuxi Warehouse,Honey,50000,21000,34,YCH,8 Bulim Ave,Singapore,China,01-Feb-18,25-Feb-18,International,0.03
+2,Malaysia Warehouse,Shanghai Warehouse,Furniture,10000,20000,67,YCH,8 Bulim Ave,Malaysia,China,02-Feb-18,23-Feb-18,International,0.01
+3,Singapore Warehouse,Shanghai Warehouse,Paper plates,12000,20000,67,YCH,8 Bulim Ave,Singapore,China,03-Feb-18,23-Feb-18,International,0.01
+4,Singapore Warehouse,Shanghai Warehouse,Pharmaceutical drugs,800000,20,7,YCH,8 Bulim Ave,Singapore,China,04-Feb-18,24-Feb-18,International,0.1
+5,Wuxi Warehouse,Malaysia Warehouse,Cigarette,700000,5000,50,YCH,8 Bulim Ave,China,Malaysia,05-Feb-18,22-Feb-18,International,0.15
+6,Shanghai Warehouse,Singapore Warehouse,Apple,30000,25000,67,YCH,8 Bulim Ave,China,Singapore,06-Feb-18,23-Feb-18,International,0.01
+7,Malaysia Warehouse,Singapore Warehouse,Durian,10000,10000,34,YCH,8 Bulim Ave,Malaysia,Singapore,07-Feb-18,24-Feb-18,International,0.01
+8,Wuxi Warehouse,Shanghai Warehouse,Furniture,10000,20000,67,YCH,8 Bulim Ave,China,China,08-Feb-18,25-Feb-18,Domestic,0.0
+9,Wuxi Airport,Wuxi Warehouse,Electronics,19900,604,30,YCH,8 Bulim Ave,Singapore,Malaysia,01-Jan-24,11-Jan-24,Domestic,0.13504279285303272
+10,Shanghai Railway Station,Wuxi Airport,Pharmaceuticals,29798,4090,56,YCH,8 Bulim Ave,Malaysia,Malaysia,02-Jan-24,12-Jan-24,International,0.1066448007770469
+11,Wuxi Port,Singapore Railway Station,Furniture,8002,956,23,YCH,8 Bulim Ave,Malaysia,Singapore,03-Jan-24,13-Jan-24,Domestic,0.04231580320432744
+12,Shanghai Warehouse,Shanghai Port,Pharmaceuticals,42175,1441,18,YCH,8 Bulim Ave,China,Malaysia,04-Jan-24,14-Jan-24,International,0.10054597236698236
+13,Shanghai Railway Station,Malaysia Port,Pharmaceuticals,66017,2488,12,YCH,8 Bulim Ave,Singapore,China,05-Jan-24,15-Jan-24,International,0.08013860939582303
+14,Wuxi Warehouse,Malaysia Railway Station,Textiles,4787,4507,49,YCH,8 Bulim Ave,China,China,06-Jan-24,16-Jan-24,Domestic,0.09500258801571589
+15,Shanghai Airport,Singapore Airport,Pharmaceuticals,40496,4078,31,YCH,8 Bulim Ave,China,Singapore,07-Jan-24,17-Jan-24,International,0.061584138631948226
+16,Shanghai Airport,Shanghai Warehouse,Electronics,71376,3946,3,YCH,8 Bulim Ave,Singapore,China,08-Jan-24,18-Jan-24,Domestic,0.06500113031905845
+17,Singapore Airport,Wuxi Warehouse,Furniture,40662,1040,67,YCH,8 Bulim Ave,Malaysia,China,09-Jan-24,19-Jan-24,Domestic,0.11113072327358592
+18,Singapore Railway Station,Malaysia Warehouse,Pharmaceuticals,17489,463,90,YCH,8 Bulim Ave,Singapore,China,10-Jan-24,20-Jan-24,International,0.09437382198261213
+19,Wuxi Warehouse,Shanghai Port,Pharmaceuticals,78007,3852,14,YCH,8 Bulim Ave,Malaysia,Malaysia,11-Jan-24,21-Jan-24,Domestic,0.09671042746199002
+20,Malaysia Port,Malaysia Airport,Furniture,74649,1458,90,YCH,8 Bulim Ave,China,Singapore,12-Jan-24,22-Jan-24,International,0.0510069010937019
+21,Wuxi Airport,Wuxi Warehouse,Furniture,25426,4410,67,YCH,8 Bulim Ave,China,Singapore,13-Jan-24,23-Jan-24,Domestic,0.047215685249996996
+22,Wuxi Port,Wuxi Railway Station,Furniture,20054,1204,18,YCH,8 Bulim Ave,Malaysia,Singapore,14-Jan-24,24-Jan-24,Domestic,0.04489687628341891
+23,Shanghai Airport,Malaysia Warehouse,Electronics,24672,1429,68,YCH,8 Bulim Ave,China,Malaysia,15-Jan-24,25-Jan-24,International,0.013891591426733779
+24,Singapore Warehouse,Wuxi Warehouse,Furniture,81628,2586,45,YCH,8 Bulim Ave,China,China,16-Jan-24,26-Jan-24,International,0.0629543793949392
+25,Wuxi Airport,Singapore Warehouse,Textiles,77338,1013,59,YCH,8 Bulim Ave,Malaysia,China,17-Jan-24,27-Jan-24,Domestic,0.05700943693026477
+26,Malaysia Railway Station,Singapore Railway Station,Furniture,93349,1237,59,YCH,8 Bulim Ave,Singapore,Singapore,18-Jan-24,28-Jan-24,International,0.0340445886064282
+27,Shanghai Warehouse,Singapore Railway Station,Pharmaceuticals,37997,4148,91,YCH,8 Bulim Ave,Malaysia,Singapore,19-Jan-24,29-Jan-24,Domestic,0.026953776916287614
+28,Singapore Airport,Shanghai Port,Textiles,97653,66,38,YCH,8 Bulim Ave,Singapore,Malaysia,20-Jan-24,30-Jan-24,Domestic,0.10880145521872742
+29,Singapore Railway Station,Shanghai Railway Station,Textiles,42638,546,74,YCH,8 Bulim Ave,China,Malaysia,21-Jan-24,31-Jan-24,International,0.12738721917855708
+30,Shanghai Airport,Shanghai Airport,Electronics,85058,3358,22,YCH,8 Bulim Ave,Malaysia,Malaysia,22-Jan-24,01-Feb-24,Domestic,0.05409836426126914
+31,Malaysia Port,Singapore Warehouse,Electronics,54147,4850,72,YCH,8 Bulim Ave,China,Malaysia,23-Jan-24,02-Feb-24,Domestic,0.032980502192616744
+32,Wuxi Airport,Malaysia Airport,Electronics,80318,1296,28,YCH,8 Bulim Ave,China,Malaysia,24-Jan-24,03-Feb-24,International,0.09173012138642896
+33,Malaysia Airport,Singapore Railway Station,Furniture,85368,4891,21,YCH,8 Bulim Ave,China,Malaysia,25-Jan-24,04-Feb-24,International,0.14381522866400806
+34,Malaysia Airport,Malaysia Warehouse,Pharmaceuticals,32118,1996,53,YCH,8 Bulim Ave,Singapore,Malaysia,26-Jan-24,05-Feb-24,Domestic,0.060367554693421144
+35,Singapore Airport,Malaysia Railway Station,Furniture,42650,2131,31,YCH,8 Bulim Ave,Singapore,Singapore,27-Jan-24,06-Feb-24,International,0.14597090766558968
+36,Singapore Airport,Shanghai Warehouse,Furniture,3678,2651,50,YCH,8 Bulim Ave,China,China,28-Jan-24,07-Feb-24,Domestic,0.11108883602806861
+37,Malaysia Airport,Singapore Port,Pharmaceuticals,3425,3743,97,YCH,8 Bulim Ave,Malaysia,Singapore,29-Jan-24,08-Feb-24,International,0.04899637985448721
+38,Wuxi Warehouse,Malaysia Warehouse,Electronics,53351,3790,73,YCH,8 Bulim Ave,Malaysia,China,30-Jan-24,09-Feb-24,Domestic,0.14800914999354375
+39,Malaysia Port,Malaysia Port,Furniture,83588,1841,31,YCH,8 Bulim Ave,Malaysia,Malaysia,31-Jan-24,10-Feb-24,Domestic,0.1227062178998714
+40,Singapore Airport,Singapore Warehouse,Textiles,5826,2310,98,YCH,8 Bulim Ave,Singapore,China,01-Feb-24,11-Feb-24,International,0.01210933315061392
+41,Wuxi Airport,Shanghai Railway Station,Furniture,17054,800,46,YCH,8 Bulim Ave,Malaysia,China,02-Feb-24,12-Feb-24,Domestic,0.11488808584819427
+42,Wuxi Railway Station,Shanghai Railway Station,Electronics,40740,801,13,YCH,8 Bulim Ave,Malaysia,Malaysia,03-Feb-24,13-Feb-24,International,0.07989922522876827
+43,Wuxi Warehouse,Singapore Railway Station,Textiles,63760,737,15,YCH,8 Bulim Ave,Malaysia,Singapore,04-Feb-24,14-Feb-24,International,0.08018554662834253
+44,Malaysia Warehouse,Singapore Railway Station,Pharmaceuticals,19984,678,71,YCH,8 Bulim Ave,Singapore,Singapore,05-Feb-24,15-Feb-24,Domestic,0.09370120270603856
+45,Shanghai Port,Wuxi Warehouse,Electronics,88488,4005,50,YCH,8 Bulim Ave,China,Malaysia,06-Feb-24,16-Feb-24,Domestic,0.14465893613683614
+46,Malaysia Railway Station,Wuxi Port,Pharmaceuticals,63622,2000,79,YCH,8 Bulim Ave,China,China,07-Feb-24,17-Feb-24,International,0.06016594425265857
+47,Shanghai Railway Station,Singapore Port,Pharmaceuticals,18840,728,69,YCH,8 Bulim Ave,Malaysia,Malaysia,08-Feb-24,18-Feb-24,International,0.10548377510476348
+48,Shanghai Warehouse,Malaysia Warehouse,Pharmaceuticals,10440,3207,57,YCH,8 Bulim Ave,Malaysia,China,09-Feb-24,19-Feb-24,Domestic,0.09492926533272558
+49,Shanghai Port,Singapore Port,Textiles,54376,4207,52,YCH,8 Bulim Ave,China,China,10-Feb-24,20-Feb-24,International,0.07867629999942027
+50,Wuxi Airport,Singapore Railway Station,Electronics,13192,426,31,YCH,8 Bulim Ave,Singapore,China,11-Feb-24,21-Feb-24,Domestic,0.04496785726411266
+51,Shanghai Warehouse,Malaysia Warehouse,Electronics,17166,3394,56,YCH,8 Bulim Ave,China,Malaysia,12-Feb-24,22-Feb-24,Domestic,0.029818778564839263
+52,Wuxi Airport,Singapore Airport,Textiles,90725,2206,38,YCH,8 Bulim Ave,Malaysia,China,13-Feb-24,23-Feb-24,International,0.011708385054914183
+53,Wuxi Railway Station,Singapore Warehouse,Electronics,29119,3988,78,YCH,8 Bulim Ave,Singapore,Malaysia,14-Feb-24,24-Feb-24,Domestic,0.07280832687924464
+54,Shanghai Warehouse,Wuxi Warehouse,Pharmaceuticals,74657,4132,90,YCH,8 Bulim Ave,China,China,15-Feb-24,25-Feb-24,Domestic,0.02726217354173565
+55,Wuxi Port,Malaysia Airport,Textiles,66770,3894,27,YCH,8 Bulim Ave,Singapore,China,16-Feb-24,26-Feb-24,Domestic,0.12515189832398807
+56,Singapore Railway Station,Shanghai Port,Furniture,78440,4223,7,YCH,8 Bulim Ave,Singapore,Malaysia,17-Feb-24,27-Feb-24,Domestic,0.07687841105266197
+57,Shanghai Port,Shanghai Railway Station,Furniture,99344,2489,47,YCH,8 Bulim Ave,Malaysia,Singapore,18-Feb-24,28-Feb-24,International,0.05330838991051253
+58,Singapore Warehouse,Malaysia Warehouse,Textiles,74389,3801,64,YCH,8 Bulim Ave,Malaysia,Singapore,19-Feb-24,29-Feb-24,Domestic,0.14883771278604938
+59,Shanghai Port,Shanghai Airport,Pharmaceuticals,12440,2314,47,YCH,8 Bulim Ave,Malaysia,Singapore,20-Feb-24,01-Mar-24,Domestic,0.14729629359953647
+60,Wuxi Warehouse,Singapore Railway Station,Furniture,63199,2757,1,YCH,8 Bulim Ave,Singapore,Malaysia,21-Feb-24,02-Mar-24,International,0.0926000502371083
+61,Malaysia Port,Singapore Port,Textiles,21028,881,27,YCH,8 Bulim Ave,Malaysia,Singapore,22-Feb-24,03-Mar-24,Domestic,0.03455215317482237
+62,Singapore Railway Station,Wuxi Railway Station,Textiles,29231,213,26,YCH,8 Bulim Ave,Singapore,Malaysia,23-Feb-24,04-Mar-24,Domestic,0.0596449398621177
+63,Malaysia Airport,Malaysia Railway Station,Furniture,67493,976,97,YCH,8 Bulim Ave,China,Malaysia,24-Feb-24,05-Mar-24,Domestic,0.06605168623281805
+64,Shanghai Port,Shanghai Railway Station,Furniture,40442,4948,4,YCH,8 Bulim Ave,China,Singapore,25-Feb-24,06-Mar-24,Domestic,0.07230964019831475
+65,Singapore Railway Station,Singapore Railway Station,Electronics,40997,3723,22,YCH,8 Bulim Ave,China,China,26-Feb-24,07-Mar-24,Domestic,0.14529339384017523
+66,Singapore Warehouse,Shanghai Airport,Textiles,79179,1284,2,YCH,8 Bulim Ave,Malaysia,Singapore,27-Feb-24,08-Mar-24,International,0.07266299790516198
+67,Malaysia Airport,Singapore Warehouse,Pharmaceuticals,54974,1907,45,YCH,8 Bulim Ave,Malaysia,Malaysia,28-Feb-24,09-Mar-24,International,0.1130738961123741
+68,Shanghai Railway Station,Shanghai Railway Station,Textiles,1632,4151,89,YCH,8 Bulim Ave,Singapore,Malaysia,29-Feb-24,10-Mar-24,International,0.1262295303458169
+69,Malaysia Warehouse,Wuxi Airport,Pharmaceuticals,29612,1519,76,YCH,8 Bulim Ave,China,Malaysia,01-Mar-24,11-Mar-24,International,0.07038389338963277
+70,Wuxi Airport,Shanghai Port,Electronics,29463,753,35,YCH,8 Bulim Ave,China,Singapore,02-Mar-24,12-Mar-24,Domestic,0.12489308175611423
+71,Singapore Airport,Singapore Railway Station,Textiles,64290,2393,32,YCH,8 Bulim Ave,Malaysia,Malaysia,03-Mar-24,13-Mar-24,International,0.06151952058106884
+72,Malaysia Warehouse,Shanghai Port,Pharmaceuticals,74852,3726,41,YCH,8 Bulim Ave,Singapore,China,04-Mar-24,14-Mar-24,International,0.1498268868793063
+73,Malaysia Warehouse,Wuxi Airport,Electronics,95163,2074,32,YCH,8 Bulim Ave,China,Malaysia,05-Mar-24,15-Mar-24,Domestic,0.03039619527472786
+74,Malaysia Railway Station,Malaysia Railway Station,Textiles,51164,892,32,YCH,8 Bulim Ave,Singapore,Malaysia,06-Mar-24,16-Mar-24,Domestic,0.14096785634783188
+75,Wuxi Warehouse,Shanghai Port,Furniture,36460,1342,26,YCH,8 Bulim Ave,Singapore,Malaysia,07-Mar-24,17-Mar-24,International,0.0861855593987232
+76,Singapore Railway Station,Shanghai Railway Station,Textiles,77473,1757,28,YCH,8 Bulim Ave,Singapore,China,08-Mar-24,18-Mar-24,Domestic,0.13604739397692386
+77,Singapore Port,Malaysia Railway Station,Pharmaceuticals,28865,4966,55,YCH,8 Bulim Ave,Malaysia,China,09-Mar-24,19-Mar-24,International,0.12605555246684588
+78,Singapore Airport,Shanghai Port,Furniture,80816,55,67,YCH,8 Bulim Ave,China,China,10-Mar-24,20-Mar-24,International,0.10639414597584353
+79,Wuxi Railway Station,Shanghai Warehouse,Textiles,74946,1172,53,YCH,8 Bulim Ave,Singapore,China,11-Mar-24,21-Mar-24,Domestic,0.0226167077047361
+80,Shanghai Port,Wuxi Airport,Textiles,61706,1454,89,YCH,8 Bulim Ave,China,China,12-Mar-24,22-Mar-24,International,0.1344736809278805
+81,Malaysia Port,Singapore Airport,Electronics,37811,3499,73,YCH,8 Bulim Ave,Malaysia,China,13-Mar-24,23-Mar-24,Domestic,0.010265878290282875
+82,Malaysia Warehouse,Singapore Port,Pharmaceuticals,74680,3281,9,YCH,8 Bulim Ave,China,Malaysia,14-Mar-24,24-Mar-24,International,0.013137466253716932
+83,Singapore Warehouse,Wuxi Airport,Textiles,87344,2846,54,YCH,8 Bulim Ave,China,China,15-Mar-24,25-Mar-24,Domestic,0.04013557676309937
+84,Wuxi Port,Wuxi Airport,Furniture,18660,1686,34,YCH,8 Bulim Ave,China,China,16-Mar-24,26-Mar-24,Domestic,0.14342837109787884
+85,Malaysia Port,Shanghai Warehouse,Pharmaceuticals,5541,4182,14,YCH,8 Bulim Ave,Malaysia,China,17-Mar-24,27-Mar-24,International,0.020671995113462238
+86,Singapore Airport,Wuxi Port,Electronics,38693,4914,17,YCH,8 Bulim Ave,Malaysia,Singapore,18-Mar-24,28-Mar-24,International,0.06905501599695352
+87,Shanghai Airport,Wuxi Airport,Electronics,82354,2939,48,YCH,8 Bulim Ave,China,China,19-Mar-24,29-Mar-24,Domestic,0.036201110822952846
+88,Wuxi Railway Station,Singapore Airport,Pharmaceuticals,15633,3777,41,YCH,8 Bulim Ave,Singapore,Singapore,20-Mar-24,30-Mar-24,Domestic,0.12458862303485652
+89,Wuxi Port,Wuxi Warehouse,Electronics,77766,3796,11,YCH,8 Bulim Ave,Malaysia,Singapore,21-Mar-24,31-Mar-24,Domestic,0.10781080719020356
+90,Shanghai Warehouse,Shanghai Airport,Pharmaceuticals,67100,759,85,YCH,8 Bulim Ave,China,Singapore,22-Mar-24,01-Apr-24,Domestic,0.030095363012988242
+91,Malaysia Airport,Shanghai Warehouse,Electronics,10864,4549,67,YCH,8 Bulim Ave,Malaysia,China,23-Mar-24,02-Apr-24,Domestic,0.12435832601085431
+92,Singapore Port,Wuxi Airport,Pharmaceuticals,73000,1733,88,YCH,8 Bulim Ave,Singapore,Singapore,24-Mar-24,03-Apr-24,Domestic,0.09436365529468467
+93,Wuxi Warehouse,Shanghai Port,Textiles,7328,1906,80,YCH,8 Bulim Ave,Singapore,Singapore,25-Mar-24,04-Apr-24,International,0.13906807933166385
+94,Shanghai Port,Singapore Port,Furniture,9965,3812,18,YCH,8 Bulim Ave,Malaysia,Malaysia,26-Mar-24,05-Apr-24,Domestic,0.09977126796154408
+95,Malaysia Port,Singapore Airport,Furniture,80918,2273,84,YCH,8 Bulim Ave,Malaysia,Singapore,27-Mar-24,06-Apr-24,Domestic,0.02666972839036047
+96,Singapore Railway Station,Malaysia Airport,Furniture,14550,267,79,YCH,8 Bulim Ave,Malaysia,China,28-Mar-24,07-Apr-24,Domestic,0.11494502859356401
+97,Wuxi Warehouse,Wuxi Railway Station,Textiles,93866,297,26,YCH,8 Bulim Ave,Singapore,Singapore,29-Mar-24,08-Apr-24,International,0.05844935896898998
+98,Malaysia Railway Station,Shanghai Airport,Textiles,14264,3963,51,YCH,8 Bulim Ave,China,China,30-Mar-24,09-Apr-24,Domestic,0.08797017484997749
+99,Wuxi Port,Shanghai Warehouse,Pharmaceuticals,52956,3783,12,YCH,8 Bulim Ave,China,Malaysia,31-Mar-24,10-Apr-24,Domestic,0.04917959062998287
+100,Singapore Airport,Malaysia Warehouse,Pharmaceuticals,86391,2106,19,YCH,8 Bulim Ave,Malaysia,Singapore,01-Apr-24,11-Apr-24,International,0.028918554500867194
+101,Singapore Port,Wuxi Airport,Furniture,56054,1749,67,YCH,8 Bulim Ave,Singapore,China,02-Apr-24,12-Apr-24,Domestic,0.1386726895979842
+102,Malaysia Port,Wuxi Port,Furniture,96681,3811,82,YCH,8 Bulim Ave,Singapore,Singapore,03-Apr-24,13-Apr-24,International,0.02502039859966236
+103,Shanghai Warehouse,Singapore Railway Station,Pharmaceuticals,18659,815,10,YCH,8 Bulim Ave,Singapore,Malaysia,04-Apr-24,14-Apr-24,International,0.12056420405461428
+104,Singapore Port,Shanghai Airport,Furniture,11857,2766,47,YCH,8 Bulim Ave,China,Singapore,05-Apr-24,15-Apr-24,International,0.09171132123635146
+105,Shanghai Port,Malaysia Warehouse,Electronics,17199,2298,79,YCH,8 Bulim Ave,Malaysia,Malaysia,06-Apr-24,16-Apr-24,Domestic,0.029072364760834718
+106,Singapore Airport,Malaysia Warehouse,Furniture,98337,3140,79,YCH,8 Bulim Ave,Singapore,Singapore,07-Apr-24,17-Apr-24,International,0.14493923660928035
+107,Wuxi Railway Station,Shanghai Warehouse,Pharmaceuticals,13554,1445,77,YCH,8 Bulim Ave,Singapore,China,08-Apr-24,18-Apr-24,Domestic,0.0900064392279245
+108,Singapore Railway Station,Wuxi Railway Station,Furniture,39344,2411,99,YCH,8 Bulim Ave,China,China,09-Apr-24,19-Apr-24,International,0.13631595475015443
+109,Malaysia Airport,Wuxi Airport,Textiles,46077,4507,14,YCH,8 Bulim Ave,Malaysia,Singapore,10-Apr-24,20-Apr-24,International,0.03438412041384218
+110,Singapore Warehouse,Malaysia Warehouse,Textiles,15274,2767,96,YCH,8 Bulim Ave,China,Singapore,11-Apr-24,21-Apr-24,Domestic,0.13968620825696426
+111,Wuxi Port,Shanghai Warehouse,Furniture,7879,520,72,YCH,8 Bulim Ave,Malaysia,Singapore,12-Apr-24,22-Apr-24,International,0.04847189198305241
+112,Wuxi Railway Station,Malaysia Port,Furniture,68212,317,58,YCH,8 Bulim Ave,China,Malaysia,13-Apr-24,23-Apr-24,International,0.12918145731913766
+113,Singapore Airport,Malaysia Warehouse,Furniture,55438,1074,9,YCH,8 Bulim Ave,Malaysia,Singapore,14-Apr-24,24-Apr-24,Domestic,0.11440864974101565
+114,Singapore Port,Wuxi Railway Station,Pharmaceuticals,41370,3691,14,YCH,8 Bulim Ave,Malaysia,Malaysia,15-Apr-24,25-Apr-24,Domestic,0.03869898798610713
+115,Wuxi Warehouse,Wuxi Port,Electronics,26879,2338,6,YCH,8 Bulim Ave,Singapore,China,16-Apr-24,26-Apr-24,Domestic,0.13365528925398953
+116,Wuxi Railway Station,Malaysia Warehouse,Furniture,76914,1863,28,YCH,8 Bulim Ave,Singapore,Malaysia,17-Apr-24,27-Apr-24,International,0.10969979713741791
+117,Wuxi Port,Shanghai Airport,Electronics,90980,2936,13,YCH,8 Bulim Ave,Singapore,China,18-Apr-24,28-Apr-24,International,0.028558048924755317
+118,Singapore Port,Shanghai Railway Station,Pharmaceuticals,35490,3504,3,YCH,8 Bulim Ave,Malaysia,Malaysia,19-Apr-24,29-Apr-24,Domestic,0.024042887684897256
+119,Singapore Port,Wuxi Port,Furniture,19178,4939,94,YCH,8 Bulim Ave,China,Singapore,20-Apr-24,30-Apr-24,International,0.10624436519018181
+120,Malaysia Airport,Shanghai Airport,Furniture,41018,1045,9,YCH,8 Bulim Ave,Singapore,Singapore,21-Apr-24,01-May-24,International,0.06281726531648305
+121,Shanghai Railway Station,Wuxi Airport,Textiles,19211,562,17,YCH,8 Bulim Ave,China,Malaysia,22-Apr-24,02-May-24,International,0.1423879552469089
+122,Malaysia Airport,Malaysia Railway Station,Furniture,26701,456,86,YCH,8 Bulim Ave,China,China,23-Apr-24,03-May-24,Domestic,0.06289119507870235
+123,Singapore Warehouse,Shanghai Railway Station,Furniture,65502,2488,11,YCH,8 Bulim Ave,Singapore,China,24-Apr-24,04-May-24,Domestic,0.0515254281625446
+124,Malaysia Railway Station,Singapore Airport,Textiles,35929,306,27,YCH,8 Bulim Ave,Malaysia,Singapore,25-Apr-24,05-May-24,International,0.05976539382437015
+125,Singapore Warehouse,Shanghai Railway Station,Textiles,40587,1653,14,YCH,8 Bulim Ave,Malaysia,Singapore,26-Apr-24,06-May-24,International,0.1327020026039148
+126,Wuxi Railway Station,Malaysia Railway Station,Textiles,65755,3372,45,YCH,8 Bulim Ave,Malaysia,Malaysia,27-Apr-24,07-May-24,Domestic,0.14499720142656985
+127,Singapore Warehouse,Singapore Railway Station,Electronics,6082,256,78,YCH,8 Bulim Ave,China,China,28-Apr-24,08-May-24,Domestic,0.11711747979718261
+128,Shanghai Port,Shanghai Warehouse,Furniture,45820,3954,20,YCH,8 Bulim Ave,Malaysia,China,29-Apr-24,09-May-24,Domestic,0.03243193707940156
+129,Wuxi Railway Station,Shanghai Port,Textiles,16450,2208,53,YCH,8 Bulim Ave,China,Singapore,30-Apr-24,10-May-24,International,0.10109208614451834
+130,Wuxi Warehouse,Singapore Port,Furniture,84598,1584,28,YCH,8 Bulim Ave,Singapore,China,01-May-24,11-May-24,Domestic,0.06956225803716189
+131,Singapore Railway Station,Wuxi Airport,Pharmaceuticals,70001,2371,27,YCH,8 Bulim Ave,Singapore,China,02-May-24,12-May-24,International,0.027408528295585072
+132,Shanghai Railway Station,Wuxi Railway Station,Electronics,73930,3610,72,YCH,8 Bulim Ave,Singapore,Malaysia,03-May-24,13-May-24,Domestic,0.07944756271040064
+133,Malaysia Airport,Malaysia Airport,Electronics,85294,2065,2,YCH,8 Bulim Ave,Malaysia,Singapore,04-May-24,14-May-24,Domestic,0.11900409001203917
+134,Wuxi Railway Station,Singapore Warehouse,Textiles,85411,1547,67,YCH,8 Bulim Ave,Malaysia,China,05-May-24,15-May-24,Domestic,0.014624174760450477
+135,Wuxi Port,Singapore Warehouse,Electronics,3625,2789,40,YCH,8 Bulim Ave,China,China,06-May-24,16-May-24,Domestic,0.042435646508186965
+136,Singapore Port,Wuxi Railway Station,Pharmaceuticals,51951,3185,96,YCH,8 Bulim Ave,Singapore,China,07-May-24,17-May-24,International,0.09501187671295655
+137,Wuxi Port,Malaysia Airport,Pharmaceuticals,9282,158,59,YCH,8 Bulim Ave,China,China,08-May-24,18-May-24,International,0.05776702172888322
+138,Wuxi Railway Station,Malaysia Railway Station,Textiles,34235,1329,37,YCH,8 Bulim Ave,China,Malaysia,09-May-24,19-May-24,International,0.13607479199098582
+139,Shanghai Port,Malaysia Railway Station,Textiles,75930,2220,96,YCH,8 Bulim Ave,Singapore,Singapore,10-May-24,20-May-24,International,0.105446856342669
+140,Shanghai Railway Station,Singapore Airport,Textiles,71905,3781,23,YCH,8 Bulim Ave,Malaysia,China,11-May-24,21-May-24,International,0.12331953508357457
+141,Shanghai Port,Shanghai Warehouse,Electronics,44103,182,82,YCH,8 Bulim Ave,China,China,12-May-24,22-May-24,International,0.12333314324182218
+142,Singapore Warehouse,Wuxi Railway Station,Textiles,58760,4124,65,YCH,8 Bulim Ave,Singapore,China,13-May-24,23-May-24,Domestic,0.12487920593873637
+143,Singapore Airport,Wuxi Warehouse,Furniture,17170,1166,6,YCH,8 Bulim Ave,Singapore,China,14-May-24,24-May-24,International,0.01947964180779975
+144,Shanghai Warehouse,Wuxi Airport,Furniture,23683,3817,51,YCH,8 Bulim Ave,China,Singapore,15-May-24,25-May-24,International,0.04378536409907623
+145,Malaysia Port,Shanghai Airport,Textiles,86540,3821,81,YCH,8 Bulim Ave,Malaysia,China,16-May-24,26-May-24,International,0.11807233670728179
+146,Wuxi Warehouse,Singapore Railway Station,Textiles,95764,3692,80,YCH,8 Bulim Ave,Malaysia,Singapore,17-May-24,27-May-24,International,0.1092846574742023
+147,Wuxi Railway Station,Shanghai Railway Station,Furniture,89226,1844,79,YCH,8 Bulim Ave,Singapore,Singapore,18-May-24,28-May-24,International,0.08190180139321486
+148,Wuxi Warehouse,Wuxi Port,Electronics,97790,1262,18,YCH,8 Bulim Ave,Malaysia,Malaysia,19-May-24,29-May-24,Domestic,0.02615213287253452
+149,Wuxi Railway Station,Shanghai Railway Station,Electronics,70350,3890,16,YCH,8 Bulim Ave,Singapore,Singapore,20-May-24,30-May-24,Domestic,0.033063293812161415
+150,Malaysia Port,Malaysia Port,Electronics,60625,380,50,YCH,8 Bulim Ave,Singapore,Singapore,21-May-24,31-May-24,Domestic,0.10354173881235863
+151,Malaysia Railway Station,Shanghai Airport,Textiles,73058,3922,26,YCH,8 Bulim Ave,China,Malaysia,22-May-24,01-Jun-24,Domestic,0.07862067564538112
+152,Malaysia Port,Malaysia Airport,Furniture,1002,3475,33,YCH,8 Bulim Ave,China,Malaysia,23-May-24,02-Jun-24,Domestic,0.043105853194133646
+153,Singapore Airport,Malaysia Port,Furniture,85501,201,99,YCH,8 Bulim Ave,Singapore,China,24-May-24,03-Jun-24,Domestic,0.06165009691132836
+154,Shanghai Warehouse,Malaysia Airport,Pharmaceuticals,21031,3119,86,YCH,8 Bulim Ave,China,China,25-May-24,04-Jun-24,Domestic,0.11605254887191664
+155,Malaysia Railway Station,Wuxi Warehouse,Furniture,71099,438,33,YCH,8 Bulim Ave,China,Singapore,26-May-24,05-Jun-24,International,0.10619018020927551
+156,Wuxi Warehouse,Shanghai Airport,Furniture,87221,295,95,YCH,8 Bulim Ave,Singapore,Singapore,27-May-24,06-Jun-24,International,0.04881450443235013
+157,Wuxi Warehouse,Malaysia Port,Electronics,31443,2089,77,YCH,8 Bulim Ave,Singapore,Singapore,28-May-24,07-Jun-24,International,0.11844748401624633
+158,Wuxi Warehouse,Wuxi Railway Station,Furniture,26866,1416,57,YCH,8 Bulim Ave,Malaysia,Singapore,29-May-24,08-Jun-24,Domestic,0.14462645001187718
+159,Singapore Airport,Shanghai Warehouse,Furniture,43843,646,33,YCH,8 Bulim Ave,Malaysia,Malaysia,30-May-24,09-Jun-24,International,0.12245408051734984
+160,Wuxi Railway Station,Wuxi Warehouse,Pharmaceuticals,78102,3105,32,YCH,8 Bulim Ave,Malaysia,Singapore,31-May-24,10-Jun-24,International,0.13211933154293237
+161,Shanghai Port,Malaysia Port,Electronics,24936,3689,67,YCH,8 Bulim Ave,Singapore,China,01-Jun-24,11-Jun-24,International,0.1059707383714048
+162,Wuxi Railway Station,Shanghai Railway Station,Furniture,2780,1410,42,YCH,8 Bulim Ave,Malaysia,China,02-Jun-24,12-Jun-24,Domestic,0.07118745114993472
+163,Malaysia Railway Station,Wuxi Railway Station,Furniture,37925,972,92,YCH,8 Bulim Ave,Malaysia,Singapore,03-Jun-24,13-Jun-24,International,0.024997287381053897
+164,Shanghai Warehouse,Malaysia Warehouse,Furniture,59581,1308,80,YCH,8 Bulim Ave,Malaysia,China,04-Jun-24,14-Jun-24,International,0.12135624956947438
+165,Singapore Warehouse,Shanghai Airport,Textiles,20234,2838,54,YCH,8 Bulim Ave,Malaysia,Singapore,05-Jun-24,15-Jun-24,Domestic,0.04229096406221541
+166,Wuxi Railway Station,Singapore Port,Furniture,42313,28,97,YCH,8 Bulim Ave,China,China,06-Jun-24,16-Jun-24,International,0.05492624882718604
+167,Malaysia Railway Station,Singapore Port,Furniture,20428,591,61,YCH,8 Bulim Ave,Singapore,Singapore,07-Jun-24,17-Jun-24,Domestic,0.013090338715185751
+168,Singapore Port,Singapore Airport,Pharmaceuticals,62164,3568,65,YCH,8 Bulim Ave,Singapore,China,08-Jun-24,18-Jun-24,Domestic,0.09628019053137347
+169,Malaysia Warehouse,Singapore Railway Station,Furniture,29932,4849,32,YCH,8 Bulim Ave,China,Malaysia,09-Jun-24,19-Jun-24,International,0.1433681788356457
+170,Wuxi Warehouse,Wuxi Port,Pharmaceuticals,57081,4946,78,YCH,8 Bulim Ave,China,Malaysia,10-Jun-24,20-Jun-24,Domestic,0.12370968967274498
+171,Malaysia Warehouse,Malaysia Port,Electronics,20138,951,67,YCH,8 Bulim Ave,Singapore,Singapore,11-Jun-24,21-Jun-24,Domestic,0.03939924091955747
+172,Shanghai Railway Station,Shanghai Port,Electronics,5068,1542,34,YCH,8 Bulim Ave,Malaysia,Singapore,12-Jun-24,22-Jun-24,Domestic,0.015832951807908217
+173,Singapore Railway Station,Wuxi Railway Station,Pharmaceuticals,42566,1814,39,YCH,8 Bulim Ave,China,China,13-Jun-24,23-Jun-24,International,0.03238047021316868
+174,Wuxi Warehouse,Wuxi Airport,Electronics,53684,2063,68,YCH,8 Bulim Ave,Malaysia,Singapore,14-Jun-24,24-Jun-24,International,0.01900784415388837
+175,Wuxi Warehouse,Malaysia Railway Station,Pharmaceuticals,5051,2457,22,YCH,8 Bulim Ave,Malaysia,Singapore,15-Jun-24,25-Jun-24,International,0.07260508932363947
+176,Wuxi Warehouse,Singapore Airport,Electronics,69371,3190,60,YCH,8 Bulim Ave,Malaysia,Singapore,16-Jun-24,26-Jun-24,International,0.1456082724969825
+177,Wuxi Warehouse,Malaysia Warehouse,Pharmaceuticals,41886,4573,74,YCH,8 Bulim Ave,Singapore,Malaysia,17-Jun-24,27-Jun-24,International,0.1311602922594335
+178,Wuxi Warehouse,Wuxi Railway Station,Pharmaceuticals,58209,325,61,YCH,8 Bulim Ave,Singapore,Malaysia,18-Jun-24,28-Jun-24,Domestic,0.1137930413075754
+179,Singapore Warehouse,Singapore Airport,Textiles,57458,469,20,YCH,8 Bulim Ave,Singapore,China,19-Jun-24,29-Jun-24,International,0.06336441051318244
+180,Wuxi Warehouse,Malaysia Port,Electronics,76454,272,59,YCH,8 Bulim Ave,Singapore,Singapore,20-Jun-24,30-Jun-24,International,0.06762432787372437
+181,Shanghai Warehouse,Wuxi Railway Station,Textiles,97382,2984,42,YCH,8 Bulim Ave,Singapore,China,21-Jun-24,01-Jul-24,Domestic,0.11725758985283355
+182,Wuxi Airport,Shanghai Railway Station,Furniture,41399,436,51,YCH,8 Bulim Ave,China,China,22-Jun-24,02-Jul-24,International,0.022484672136267037
+183,Singapore Airport,Shanghai Warehouse,Pharmaceuticals,94044,1096,2,YCH,8 Bulim Ave,Malaysia,Malaysia,23-Jun-24,03-Jul-24,International,0.1275129473163161
+184,Wuxi Port,Wuxi Railway Station,Electronics,42152,3643,32,YCH,8 Bulim Ave,China,Malaysia,24-Jun-24,04-Jul-24,International,0.13394005148419535
+185,Singapore Warehouse,Singapore Port,Electronics,21484,4223,2,YCH,8 Bulim Ave,Singapore,China,25-Jun-24,05-Jul-24,International,0.03255755458199445
+186,Shanghai Warehouse,Singapore Warehouse,Furniture,39599,559,61,YCH,8 Bulim Ave,Malaysia,Singapore,26-Jun-24,06-Jul-24,Domestic,0.09852342106302173
+187,Malaysia Warehouse,Singapore Warehouse,Textiles,42651,4388,22,YCH,8 Bulim Ave,Malaysia,Singapore,27-Jun-24,07-Jul-24,Domestic,0.12462651451627842
+188,Malaysia Railway Station,Wuxi Warehouse,Electronics,44947,2605,55,YCH,8 Bulim Ave,China,Singapore,28-Jun-24,08-Jul-24,International,0.05954494499801449
+189,Shanghai Warehouse,Shanghai Airport,Electronics,61873,2284,13,YCH,8 Bulim Ave,Singapore,Singapore,29-Jun-24,09-Jul-24,Domestic,0.07375130666430979
+190,Malaysia Railway Station,Singapore Port,Textiles,21138,3499,98,YCH,8 Bulim Ave,China,Singapore,30-Jun-24,10-Jul-24,Domestic,0.12959254911700574
+191,Shanghai Railway Station,Singapore Port,Furniture,6591,4861,30,YCH,8 Bulim Ave,China,China,01-Jul-24,11-Jul-24,International,0.03431143875550237
+192,Shanghai Airport,Shanghai Warehouse,Furniture,1815,1527,29,YCH,8 Bulim Ave,Malaysia,China,02-Jul-24,12-Jul-24,Domestic,0.10381301098335602
+193,Shanghai Port,Singapore Airport,Pharmaceuticals,21522,95,57,YCH,8 Bulim Ave,China,Singapore,03-Jul-24,13-Jul-24,Domestic,0.0235099152936913
+194,Wuxi Railway Station,Singapore Railway Station,Pharmaceuticals,61753,1784,20,YCH,8 Bulim Ave,Singapore,Singapore,04-Jul-24,14-Jul-24,Domestic,0.028863989741276963
+195,Singapore Airport,Wuxi Airport,Electronics,85278,3074,81,YCH,8 Bulim Ave,Malaysia,China,05-Jul-24,15-Jul-24,International,0.02812272451089217
+196,Singapore Port,Singapore Airport,Textiles,63456,2532,53,YCH,8 Bulim Ave,Malaysia,Malaysia,06-Jul-24,16-Jul-24,Domestic,0.011864856856769997
+197,Singapore Railway Station,Wuxi Port,Electronics,13954,3638,85,YCH,8 Bulim Ave,Singapore,Malaysia,07-Jul-24,17-Jul-24,International,0.03082318266640203
+198,Wuxi Railway Station,Wuxi Airport,Pharmaceuticals,73782,1867,12,YCH,8 Bulim Ave,Singapore,Malaysia,08-Jul-24,18-Jul-24,International,0.019412465231128818
+199,Singapore Port,Wuxi Railway Station,Pharmaceuticals,80161,3502,58,YCH,8 Bulim Ave,Singapore,Malaysia,09-Jul-24,19-Jul-24,International,0.12351430699158666
+200,Wuxi Airport,Shanghai Railway Station,Furniture,60564,4605,55,YCH,8 Bulim Ave,China,China,10-Jul-24,20-Jul-24,Domestic,0.12551232518972047
+201,Singapore Airport,Shanghai Railway Station,Furniture,79646,1093,19,YCH,8 Bulim Ave,Malaysia,Singapore,11-Jul-24,21-Jul-24,Domestic,0.09937069388115387
+202,Malaysia Port,Malaysia Airport,Textiles,90554,3857,58,YCH,8 Bulim Ave,Malaysia,Singapore,12-Jul-24,22-Jul-24,International,0.08486946313499111
+203,Shanghai Airport,Wuxi Airport,Textiles,96340,2729,29,YCH,8 Bulim Ave,Malaysia,Singapore,13-Jul-24,23-Jul-24,Domestic,0.042470033113327824
+204,Singapore Warehouse,Malaysia Railway Station,Textiles,56666,1761,34,YCH,8 Bulim Ave,China,Singapore,14-Jul-24,24-Jul-24,Domestic,0.14013917782288485
+205,Shanghai Warehouse,Shanghai Warehouse,Pharmaceuticals,77014,3353,22,YCH,8 Bulim Ave,Malaysia,Singapore,15-Jul-24,25-Jul-24,International,0.0873314392568903
+206,Singapore Airport,Singapore Airport,Furniture,7752,1365,71,YCH,8 Bulim Ave,Singapore,Singapore,16-Jul-24,26-Jul-24,International,0.011141500469084997
+207,Singapore Warehouse,Malaysia Airport,Electronics,53738,3664,62,YCH,8 Bulim Ave,Malaysia,China,17-Jul-24,27-Jul-24,International,0.06325645297625702
+208,Wuxi Railway Station,Malaysia Airport,Pharmaceuticals,30934,2390,31,YCH,8 Bulim Ave,Singapore,China,18-Jul-24,28-Jul-24,Domestic,0.02354536695779172
+209,Shanghai Warehouse,Wuxi Railway Station,Textiles,19497,1900,9,YCH,8 Bulim Ave,China,China,19-Jul-24,29-Jul-24,International,0.10623403361503958
+210,Malaysia Port,Malaysia Railway Station,Textiles,84827,2350,82,YCH,8 Bulim Ave,China,China,20-Jul-24,30-Jul-24,Domestic,0.12113829154341636
+211,Singapore Warehouse,Singapore Warehouse,Textiles,47324,2465,47,YCH,8 Bulim Ave,Malaysia,Malaysia,21-Jul-24,31-Jul-24,International,0.017550035824921956
+212,Malaysia Port,Wuxi Airport,Textiles,70939,2933,60,YCH,8 Bulim Ave,Malaysia,Singapore,22-Jul-24,01-Aug-24,Domestic,0.1306867992880452
+213,Malaysia Warehouse,Malaysia Railway Station,Textiles,82499,1661,88,YCH,8 Bulim Ave,Malaysia,Singapore,23-Jul-24,02-Aug-24,Domestic,0.08521040306180114
+214,Malaysia Airport,Singapore Warehouse,Furniture,81765,2394,87,YCH,8 Bulim Ave,China,China,24-Jul-24,03-Aug-24,Domestic,0.10487839243036853
+215,Malaysia Port,Shanghai Airport,Furniture,47001,3484,64,YCH,8 Bulim Ave,Malaysia,Malaysia,25-Jul-24,04-Aug-24,International,0.0879550713467502
+216,Wuxi Warehouse,Malaysia Port,Pharmaceuticals,70001,3901,97,YCH,8 Bulim Ave,Malaysia,Malaysia,26-Jul-24,05-Aug-24,International,0.13182316440085942
+217,Wuxi Railway Station,Shanghai Airport,Textiles,72535,594,93,YCH,8 Bulim Ave,Malaysia,Singapore,27-Jul-24,06-Aug-24,Domestic,0.013079191007950044
+218,Wuxi Railway Station,Singapore Port,Electronics,90690,1452,58,YCH,8 Bulim Ave,Malaysia,China,28-Jul-24,07-Aug-24,Domestic,0.12386542386613865
+219,Singapore Warehouse,Singapore Port,Pharmaceuticals,3583,4147,84,YCH,8 Bulim Ave,Singapore,China,29-Jul-24,08-Aug-24,International,0.02355116612922243
+220,Malaysia Airport,Malaysia Warehouse,Furniture,99750,461,26,YCH,8 Bulim Ave,China,Malaysia,30-Jul-24,09-Aug-24,Domestic,0.031209049456251074
+221,Shanghai Airport,Singapore Airport,Textiles,60234,354,6,YCH,8 Bulim Ave,China,Singapore,31-Jul-24,10-Aug-24,International,0.10545570706827431
+222,Malaysia Airport,Shanghai Airport,Electronics,21706,1269,4,YCH,8 Bulim Ave,China,Singapore,01-Aug-24,11-Aug-24,Domestic,0.030580462074773135
+223,Malaysia Railway Station,Singapore Airport,Furniture,81586,2416,58,YCH,8 Bulim Ave,China,Singapore,02-Aug-24,12-Aug-24,Domestic,0.06451437819697187
+224,Shanghai Railway Station,Wuxi Airport,Furniture,77447,3234,87,YCH,8 Bulim Ave,Singapore,Singapore,03-Aug-24,13-Aug-24,Domestic,0.06212119089975117
+225,Singapore Airport,Wuxi Airport,Textiles,22036,2967,46,YCH,8 Bulim Ave,Malaysia,Singapore,04-Aug-24,14-Aug-24,International,0.03779144748025813
+226,Singapore Railway Station,Singapore Port,Textiles,56720,3127,4,YCH,8 Bulim Ave,China,Singapore,05-Aug-24,15-Aug-24,Domestic,0.14808254856303252
+227,Malaysia Airport,Singapore Port,Textiles,50462,3692,37,YCH,8 Bulim Ave,China,China,06-Aug-24,16-Aug-24,Domestic,0.14124211024625172
+228,Singapore Port,Malaysia Port,Electronics,62124,760,53,YCH,8 Bulim Ave,China,Malaysia,07-Aug-24,17-Aug-24,Domestic,0.07894833664519095
+229,Wuxi Port,Malaysia Airport,Electronics,84473,1794,37,YCH,8 Bulim Ave,Malaysia,Malaysia,08-Aug-24,18-Aug-24,International,0.10924058379228899
+230,Wuxi Warehouse,Singapore Port,Pharmaceuticals,89868,2524,18,YCH,8 Bulim Ave,Singapore,China,09-Aug-24,19-Aug-24,Domestic,0.05429177503619574
+231,Shanghai Railway Station,Wuxi Railway Station,Pharmaceuticals,1642,474,82,YCH,8 Bulim Ave,Singapore,Singapore,10-Aug-24,20-Aug-24,Domestic,0.1039631408901525
+232,Wuxi Port,Singapore Warehouse,Furniture,12839,3078,10,YCH,8 Bulim Ave,Singapore,China,11-Aug-24,21-Aug-24,Domestic,0.08466329183538532
+233,Singapore Port,Shanghai Warehouse,Textiles,29454,3322,81,YCH,8 Bulim Ave,Malaysia,China,12-Aug-24,22-Aug-24,International,0.08419790975623374
+234,Singapore Warehouse,Wuxi Railway Station,Pharmaceuticals,40623,3872,42,YCH,8 Bulim Ave,Malaysia,China,13-Aug-24,23-Aug-24,Domestic,0.05058006925700647
+235,Shanghai Airport,Shanghai Warehouse,Pharmaceuticals,80655,2499,32,YCH,8 Bulim Ave,Singapore,Malaysia,14-Aug-24,24-Aug-24,International,0.1463158356295902
+236,Malaysia Railway Station,Singapore Port,Electronics,33513,4741,44,YCH,8 Bulim Ave,Malaysia,China,15-Aug-24,25-Aug-24,Domestic,0.1323514063617126
+237,Wuxi Port,Singapore Warehouse,Pharmaceuticals,6260,168,12,YCH,8 Bulim Ave,China,China,16-Aug-24,26-Aug-24,International,0.041842110944499675
+238,Shanghai Railway Station,Shanghai Airport,Pharmaceuticals,82005,309,5,YCH,8 Bulim Ave,China,China,17-Aug-24,27-Aug-24,International,0.05032919079802605
+239,Malaysia Airport,Malaysia Airport,Electronics,93036,1964,48,YCH,8 Bulim Ave,Singapore,China,18-Aug-24,28-Aug-24,International,0.033561550763492085
+240,Singapore Airport,Shanghai Port,Textiles,86556,4937,22,YCH,8 Bulim Ave,Singapore,China,19-Aug-24,29-Aug-24,International,0.029996543169709726
+241,Singapore Airport,Malaysia Warehouse,Textiles,75780,3421,34,YCH,8 Bulim Ave,China,Malaysia,20-Aug-24,30-Aug-24,International,0.0448202687971359
+242,Singapore Railway Station,Malaysia Port,Textiles,28161,2681,42,YCH,8 Bulim Ave,China,China,21-Aug-24,31-Aug-24,International,0.12182613156816977
+243,Singapore Warehouse,Singapore Railway Station,Electronics,91050,4429,35,YCH,8 Bulim Ave,China,Malaysia,22-Aug-24,01-Sep-24,Domestic,0.044499110338307425
+244,Malaysia Railway Station,Singapore Railway Station,Furniture,73782,3214,3,YCH,8 Bulim Ave,Malaysia,Singapore,23-Aug-24,02-Sep-24,Domestic,0.06487123421977027
+245,Malaysia Port,Malaysia Port,Textiles,82297,700,83,YCH,8 Bulim Ave,Singapore,Malaysia,24-Aug-24,03-Sep-24,International,0.10925481390391582
+246,Wuxi Airport,Shanghai Port,Textiles,82217,1880,86,YCH,8 Bulim Ave,Malaysia,Singapore,25-Aug-24,04-Sep-24,Domestic,0.06975509803904756
+247,Wuxi Port,Malaysia Port,Pharmaceuticals,43315,3769,60,YCH,8 Bulim Ave,Singapore,Singapore,26-Aug-24,05-Sep-24,International,0.0443642759727468
+248,Singapore Warehouse,Singapore Port,Pharmaceuticals,80161,2660,26,YCH,8 Bulim Ave,China,China,27-Aug-24,06-Sep-24,International,0.0675462688878485
+249,Malaysia Warehouse,Singapore Port,Pharmaceuticals,33822,2691,42,YCH,8 Bulim Ave,China,Malaysia,28-Aug-24,07-Sep-24,Domestic,0.03288607692029221
+250,Malaysia Airport,Wuxi Port,Furniture,13462,3951,90,YCH,8 Bulim Ave,China,China,29-Aug-24,08-Sep-24,International,0.010967944587537304
+251,Shanghai Railway Station,Shanghai Airport,Furniture,47888,503,80,YCH,8 Bulim Ave,Malaysia,Malaysia,30-Aug-24,09-Sep-24,Domestic,0.058872139783580864
+252,Malaysia Airport,Shanghai Railway Station,Electronics,65282,699,75,YCH,8 Bulim Ave,Malaysia,China,31-Aug-24,10-Sep-24,International,0.011348219089025582
+253,Wuxi Warehouse,Shanghai Port,Electronics,95446,322,38,YCH,8 Bulim Ave,Singapore,China,01-Sep-24,11-Sep-24,Domestic,0.12358697558945077
+254,Malaysia Warehouse,Wuxi Airport,Pharmaceuticals,11416,886,79,YCH,8 Bulim Ave,China,Singapore,02-Sep-24,12-Sep-24,International,0.13318752993063365
+255,Shanghai Railway Station,Malaysia Railway Station,Electronics,56177,951,57,YCH,8 Bulim Ave,Malaysia,Singapore,03-Sep-24,13-Sep-24,International,0.14515347787129865
+256,Shanghai Airport,Shanghai Warehouse,Textiles,43694,506,22,YCH,8 Bulim Ave,Singapore,Malaysia,04-Sep-24,14-Sep-24,International,0.0507878013244827
+257,Singapore Warehouse,Shanghai Warehouse,Electronics,35104,671,13,YCH,8 Bulim Ave,Singapore,China,05-Sep-24,15-Sep-24,Domestic,0.12350814005297692
+258,Malaysia Airport,Shanghai Railway Station,Pharmaceuticals,25785,2696,82,YCH,8 Bulim Ave,Malaysia,Singapore,06-Sep-24,16-Sep-24,Domestic,0.04041560495868065
+259,Malaysia Railway Station,Singapore Airport,Electronics,4355,2204,44,YCH,8 Bulim Ave,Malaysia,Malaysia,07-Sep-24,17-Sep-24,International,0.029631962765112832
+260,Shanghai Railway Station,Shanghai Warehouse,Furniture,95554,2550,3,YCH,8 Bulim Ave,China,Malaysia,08-Sep-24,18-Sep-24,International,0.07088272340324107
+261,Malaysia Airport,Wuxi Airport,Electronics,2179,2707,60,YCH,8 Bulim Ave,Malaysia,Singapore,09-Sep-24,19-Sep-24,Domestic,0.0262842948281291
+262,Shanghai Airport,Wuxi Airport,Textiles,15522,2877,6,YCH,8 Bulim Ave,China,Malaysia,10-Sep-24,20-Sep-24,Domestic,0.10512322007644338
+263,Wuxi Warehouse,Malaysia Railway Station,Furniture,46598,1205,77,YCH,8 Bulim Ave,China,Malaysia,11-Sep-24,21-Sep-24,Domestic,0.018452334263712247
+264,Singapore Warehouse,Singapore Airport,Pharmaceuticals,27010,4848,77,YCH,8 Bulim Ave,Malaysia,China,12-Sep-24,22-Sep-24,Domestic,0.049846152169539325
+265,Wuxi Warehouse,Shanghai Port,Electronics,94097,4943,22,YCH,8 Bulim Ave,China,China,13-Sep-24,23-Sep-24,International,0.10921366698544961
+266,Malaysia Port,Wuxi Railway Station,Pharmaceuticals,11240,568,20,YCH,8 Bulim Ave,China,China,14-Sep-24,24-Sep-24,Domestic,0.07653080667812719
+267,Singapore Port,Wuxi Airport,Electronics,86342,224,74,YCH,8 Bulim Ave,Singapore,China,15-Sep-24,25-Sep-24,International,0.10222037015679425
+268,Shanghai Airport,Shanghai Airport,Textiles,91779,2708,23,YCH,8 Bulim Ave,Malaysia,China,16-Sep-24,26-Sep-24,Domestic,0.03202987303516493
+269,Malaysia Warehouse,Wuxi Railway Station,Electronics,9223,384,22,YCH,8 Bulim Ave,Singapore,Malaysia,17-Sep-24,27-Sep-24,International,0.11603919403579652
+270,Shanghai Airport,Shanghai Airport,Pharmaceuticals,11911,4578,57,YCH,8 Bulim Ave,Malaysia,Malaysia,18-Sep-24,28-Sep-24,Domestic,0.11777509512455306
+271,Wuxi Railway Station,Shanghai Airport,Pharmaceuticals,58826,2633,65,YCH,8 Bulim Ave,Singapore,Singapore,19-Sep-24,29-Sep-24,International,0.09730570989404844
+272,Singapore Airport,Malaysia Warehouse,Textiles,84074,2543,17,YCH,8 Bulim Ave,Malaysia,Malaysia,20-Sep-24,30-Sep-24,International,0.09694604399598378
+273,Singapore Warehouse,Wuxi Port,Electronics,69092,4132,13,YCH,8 Bulim Ave,China,Singapore,21-Sep-24,01-Oct-24,International,0.061368235658676516
+274,Wuxi Airport,Shanghai Railway Station,Pharmaceuticals,62206,3209,7,YCH,8 Bulim Ave,Singapore,Singapore,22-Sep-24,02-Oct-24,International,0.09320065860210722
+275,Shanghai Railway Station,Singapore Airport,Pharmaceuticals,7658,4790,30,YCH,8 Bulim Ave,Singapore,Singapore,23-Sep-24,03-Oct-24,International,0.11179585561927366
+276,Malaysia Port,Wuxi Warehouse,Electronics,29885,4347,31,YCH,8 Bulim Ave,China,China,24-Sep-24,04-Oct-24,International,0.05746585187724841
+277,Singapore Port,Shanghai Railway Station,Pharmaceuticals,42184,931,15,YCH,8 Bulim Ave,Malaysia,Singapore,25-Sep-24,05-Oct-24,International,0.04604975529449178
+278,Wuxi Warehouse,Malaysia Airport,Textiles,2267,3108,5,YCH,8 Bulim Ave,China,Malaysia,26-Sep-24,06-Oct-24,Domestic,0.13392045800028646
+279,Singapore Port,Singapore Warehouse,Pharmaceuticals,97482,3020,93,YCH,8 Bulim Ave,China,China,27-Sep-24,07-Oct-24,Domestic,0.07448898647491202
+280,Singapore Railway Station,Malaysia Railway Station,Pharmaceuticals,83757,872,30,YCH,8 Bulim Ave,Singapore,China,28-Sep-24,08-Oct-24,International,0.08904230944880485
+281,Wuxi Warehouse,Malaysia Warehouse,Electronics,29310,2676,80,YCH,8 Bulim Ave,China,Malaysia,29-Sep-24,09-Oct-24,Domestic,0.10938249428543173
+282,Singapore Port,Shanghai Airport,Furniture,29507,3220,50,YCH,8 Bulim Ave,Singapore,China,30-Sep-24,10-Oct-24,International,0.10989632364604629
+283,Shanghai Airport,Malaysia Railway Station,Furniture,13281,2936,13,YCH,8 Bulim Ave,China,Malaysia,01-Oct-24,11-Oct-24,International,0.14916764045378555
+284,Wuxi Railway Station,Wuxi Railway Station,Pharmaceuticals,49035,3891,25,YCH,8 Bulim Ave,Malaysia,Singapore,02-Oct-24,12-Oct-24,Domestic,0.1452769335763082
+285,Shanghai Airport,Shanghai Warehouse,Electronics,53322,3178,71,YCH,8 Bulim Ave,Singapore,Malaysia,03-Oct-24,13-Oct-24,Domestic,0.010969631396002537
+286,Shanghai Warehouse,Malaysia Railway Station,Pharmaceuticals,99043,4158,44,YCH,8 Bulim Ave,Malaysia,China,04-Oct-24,14-Oct-24,Domestic,0.04885250311778941
+287,Shanghai Port,Wuxi Warehouse,Pharmaceuticals,82743,167,70,YCH,8 Bulim Ave,China,Malaysia,05-Oct-24,15-Oct-24,International,0.021440153730074765
+288,Singapore Airport,Shanghai Railway Station,Furniture,96410,2686,53,YCH,8 Bulim Ave,Singapore,China,06-Oct-24,16-Oct-24,International,0.0941110924573742
+289,Wuxi Port,Shanghai Railway Station,Electronics,41101,1997,57,YCH,8 Bulim Ave,Singapore,China,07-Oct-24,17-Oct-24,International,0.07638133571028159
+290,Malaysia Port,Shanghai Port,Furniture,25138,2084,3,YCH,8 Bulim Ave,Singapore,China,08-Oct-24,18-Oct-24,International,0.08219181405081577
+291,Singapore Warehouse,Singapore Warehouse,Furniture,50113,1984,78,YCH,8 Bulim Ave,Malaysia,China,09-Oct-24,19-Oct-24,Domestic,0.03718720614412834
+292,Shanghai Warehouse,Wuxi Railway Station,Pharmaceuticals,90628,2972,27,YCH,8 Bulim Ave,Malaysia,Singapore,10-Oct-24,20-Oct-24,International,0.10960012953434335
+293,Shanghai Railway Station,Wuxi Railway Station,Pharmaceuticals,53408,3167,94,YCH,8 Bulim Ave,Malaysia,Singapore,11-Oct-24,21-Oct-24,International,0.11735339251612506
+294,Shanghai Warehouse,Singapore Warehouse,Pharmaceuticals,53645,1566,90,YCH,8 Bulim Ave,Singapore,Singapore,12-Oct-24,22-Oct-24,Domestic,0.11125821790105983
+295,Malaysia Warehouse,Shanghai Warehouse,Furniture,47518,2786,74,YCH,8 Bulim Ave,China,Singapore,13-Oct-24,23-Oct-24,Domestic,0.14731726831323635
+296,Wuxi Port,Malaysia Airport,Pharmaceuticals,18602,369,34,YCH,8 Bulim Ave,China,Singapore,14-Oct-24,24-Oct-24,International,0.13867353950183142
+297,Malaysia Port,Wuxi Airport,Furniture,74647,2540,31,YCH,8 Bulim Ave,China,Malaysia,15-Oct-24,25-Oct-24,Domestic,0.07673482952961518
+298,Wuxi Port,Shanghai Warehouse,Textiles,70817,50,97,YCH,8 Bulim Ave,Malaysia,Malaysia,16-Oct-24,26-Oct-24,International,0.06469962124715929
+299,Malaysia Port,Shanghai Port,Textiles,95890,1348,39,YCH,8 Bulim Ave,Singapore,Malaysia,17-Oct-24,27-Oct-24,International,0.067175250811087
+300,Malaysia Airport,Singapore Warehouse,Textiles,14227,2236,71,YCH,8 Bulim Ave,China,China,18-Oct-24,28-Oct-24,Domestic,0.0616580265551575
+301,Wuxi Railway Station,Singapore Warehouse,Electronics,53615,1379,89,YCH,8 Bulim Ave,Singapore,Malaysia,19-Oct-24,29-Oct-24,International,0.14264650199037038
+302,Wuxi Airport,Wuxi Railway Station,Pharmaceuticals,78091,4143,83,YCH,8 Bulim Ave,China,Malaysia,20-Oct-24,30-Oct-24,International,0.052448771775941774
+303,Shanghai Warehouse,Singapore Airport,Furniture,60727,868,81,YCH,8 Bulim Ave,China,China,21-Oct-24,31-Oct-24,Domestic,0.1241871965483677
+304,Malaysia Warehouse,Wuxi Warehouse,Pharmaceuticals,87546,1680,42,YCH,8 Bulim Ave,Singapore,Singapore,22-Oct-24,01-Nov-24,Domestic,0.03053043202235676
+305,Wuxi Port,Malaysia Railway Station,Pharmaceuticals,93576,4078,58,YCH,8 Bulim Ave,China,Malaysia,23-Oct-24,02-Nov-24,Domestic,0.06398653570321498
+306,Wuxi Warehouse,Malaysia Warehouse,Furniture,13451,1411,57,YCH,8 Bulim Ave,China,Malaysia,24-Oct-24,03-Nov-24,International,0.01751210472561151
+307,Wuxi Railway Station,Singapore Warehouse,Pharmaceuticals,77456,1933,80,YCH,8 Bulim Ave,China,Malaysia,25-Oct-24,04-Nov-24,International,0.08247795032069173
+308,Shanghai Warehouse,Singapore Airport,Textiles,11436,4320,36,YCH,8 Bulim Ave,Singapore,Malaysia,26-Oct-24,05-Nov-24,International,0.05052934124307417
+309,Wuxi Railway Station,Singapore Port,Electronics,94488,3416,88,YCH,8 Bulim Ave,Malaysia,Malaysia,27-Oct-24,06-Nov-24,Domestic,0.1487325935175122
+310,Shanghai Railway Station,Malaysia Warehouse,Furniture,35150,2219,41,YCH,8 Bulim Ave,Malaysia,China,28-Oct-24,07-Nov-24,International,0.026407456361530586
+311,Malaysia Warehouse,Singapore Airport,Furniture,32694,2253,72,YCH,8 Bulim Ave,China,Singapore,29-Oct-24,08-Nov-24,Domestic,0.12214152199186654
+312,Shanghai Railway Station,Wuxi Port,Electronics,95013,3150,58,YCH,8 Bulim Ave,Singapore,China,30-Oct-24,09-Nov-24,Domestic,0.1330086770501047
+313,Singapore Port,Malaysia Airport,Furniture,91456,589,48,YCH,8 Bulim Ave,China,China,31-Oct-24,10-Nov-24,International,0.034317789172096734
+314,Malaysia Railway Station,Singapore Port,Textiles,63664,3966,54,YCH,8 Bulim Ave,Malaysia,China,01-Nov-24,11-Nov-24,Domestic,0.017703963840835103
+315,Singapore Warehouse,Wuxi Railway Station,Electronics,33611,718,19,YCH,8 Bulim Ave,China,China,02-Nov-24,12-Nov-24,International,0.08309387675371613
+316,Singapore Railway Station,Wuxi Railway Station,Pharmaceuticals,68995,1136,31,YCH,8 Bulim Ave,Malaysia,China,03-Nov-24,13-Nov-24,International,0.05450867930425319
+317,Wuxi Airport,Shanghai Warehouse,Electronics,9544,2335,50,YCH,8 Bulim Ave,Malaysia,China,04-Nov-24,14-Nov-24,Domestic,0.07485315779093064
+318,Shanghai Port,Singapore Port,Textiles,53258,3490,22,YCH,8 Bulim Ave,Malaysia,Singapore,05-Nov-24,15-Nov-24,International,0.13247826982277605
+319,Wuxi Railway Station,Shanghai Warehouse,Pharmaceuticals,25468,767,17,YCH,8 Bulim Ave,Malaysia,China,06-Nov-24,16-Nov-24,International,0.07834315185783247
+320,Wuxi Warehouse,Shanghai Warehouse,Pharmaceuticals,93463,4549,98,YCH,8 Bulim Ave,China,Singapore,07-Nov-24,17-Nov-24,Domestic,0.08511231142151313
+321,Wuxi Warehouse,Singapore Port,Pharmaceuticals,16472,1657,74,YCH,8 Bulim Ave,China,Malaysia,08-Nov-24,18-Nov-24,International,0.04173404589267682
+322,Singapore Airport,Malaysia Warehouse,Pharmaceuticals,56196,3132,12,YCH,8 Bulim Ave,Singapore,Singapore,09-Nov-24,19-Nov-24,Domestic,0.08195880643034492
+323,Malaysia Railway Station,Wuxi Airport,Textiles,73533,848,7,YCH,8 Bulim Ave,Singapore,Singapore,10-Nov-24,20-Nov-24,International,0.04493319145930167
+324,Shanghai Port,Malaysia Airport,Furniture,30683,1486,99,YCH,8 Bulim Ave,Malaysia,Singapore,11-Nov-24,21-Nov-24,International,0.11735921921073558
+325,Wuxi Railway Station,Singapore Airport,Pharmaceuticals,1918,946,20,YCH,8 Bulim Ave,Singapore,Singapore,12-Nov-24,22-Nov-24,Domestic,0.10020110818455352
+326,Wuxi Port,Malaysia Railway Station,Electronics,1426,667,30,YCH,8 Bulim Ave,China,China,13-Nov-24,23-Nov-24,Domestic,0.09508298785547167
+327,Wuxi Airport,Shanghai Railway Station,Electronics,99334,2024,79,YCH,8 Bulim Ave,China,Malaysia,14-Nov-24,24-Nov-24,International,0.05189557070958338
+328,Singapore Airport,Singapore Railway Station,Furniture,24670,2241,32,YCH,8 Bulim Ave,Malaysia,Singapore,15-Nov-24,25-Nov-24,Domestic,0.059304217784399135
+329,Singapore Airport,Shanghai Railway Station,Electronics,94471,344,19,YCH,8 Bulim Ave,Singapore,China,16-Nov-24,26-Nov-24,Domestic,0.1453854256742269
+330,Shanghai Railway Station,Wuxi Port,Electronics,95670,3949,99,YCH,8 Bulim Ave,China,China,17-Nov-24,27-Nov-24,International,0.11667946761722059
+331,Shanghai Port,Shanghai Port,Textiles,14566,2369,55,YCH,8 Bulim Ave,China,Singapore,18-Nov-24,28-Nov-24,International,0.035528785446421254
+332,Wuxi Warehouse,Singapore Airport,Furniture,33366,4125,26,YCH,8 Bulim Ave,Malaysia,China,19-Nov-24,29-Nov-24,International,0.11861719896256427
+333,Shanghai Warehouse,Singapore Warehouse,Electronics,89466,4274,73,YCH,8 Bulim Ave,Singapore,Singapore,20-Nov-24,30-Nov-24,Domestic,0.12732964076931533
+334,Wuxi Railway Station,Shanghai Railway Station,Pharmaceuticals,33700,1273,12,YCH,8 Bulim Ave,Singapore,Singapore,21-Nov-24,01-Dec-24,Domestic,0.10815217301387864
+335,Shanghai Warehouse,Singapore Railway Station,Pharmaceuticals,59527,801,50,YCH,8 Bulim Ave,China,Malaysia,22-Nov-24,02-Dec-24,Domestic,0.015706016287200735
+336,Singapore Port,Shanghai Railway Station,Textiles,49204,3906,1,YCH,8 Bulim Ave,Malaysia,China,23-Nov-24,03-Dec-24,International,0.09257701398114349
+337,Wuxi Port,Malaysia Airport,Furniture,82461,2870,87,YCH,8 Bulim Ave,Singapore,Singapore,24-Nov-24,04-Dec-24,International,0.05525782489673173
+338,Wuxi Port,Malaysia Railway Station,Textiles,81913,4795,91,YCH,8 Bulim Ave,Singapore,Singapore,25-Nov-24,05-Dec-24,Domestic,0.12035603393260318
+339,Shanghai Airport,Malaysia Warehouse,Furniture,38546,4219,6,YCH,8 Bulim Ave,Malaysia,Singapore,26-Nov-24,06-Dec-24,Domestic,0.03590301792194614
+340,Singapore Port,Shanghai Warehouse,Furniture,8558,2552,85,YCH,8 Bulim Ave,China,Singapore,27-Nov-24,07-Dec-24,International,0.0774180462688774
+341,Shanghai Railway Station,Malaysia Port,Furniture,39474,4580,56,YCH,8 Bulim Ave,China,China,28-Nov-24,08-Dec-24,International,0.09715730977989544
+342,Singapore Airport,Wuxi Warehouse,Furniture,9034,2143,59,YCH,8 Bulim Ave,Malaysia,Malaysia,29-Nov-24,09-Dec-24,Domestic,0.14709706148014046
+343,Singapore Railway Station,Shanghai Airport,Textiles,64837,4880,62,YCH,8 Bulim Ave,Malaysia,Malaysia,30-Nov-24,10-Dec-24,International,0.03669132648774092
+344,Shanghai Port,Singapore Port,Textiles,86458,2358,80,YCH,8 Bulim Ave,China,China,01-Dec-24,11-Dec-24,International,0.09438015761225309
+345,Wuxi Warehouse,Shanghai Port,Furniture,27118,2676,98,YCH,8 Bulim Ave,Singapore,Malaysia,02-Dec-24,12-Dec-24,International,0.0554389557773319
+346,Malaysia Warehouse,Wuxi Railway Station,Pharmaceuticals,49688,2495,73,YCH,8 Bulim Ave,Singapore,Malaysia,03-Dec-24,13-Dec-24,International,0.09856982434920863
+347,Singapore Railway Station,Singapore Port,Electronics,62399,2190,21,YCH,8 Bulim Ave,China,Malaysia,04-Dec-24,14-Dec-24,Domestic,0.14704093421166906
+348,Wuxi Warehouse,Wuxi Airport,Furniture,2080,2037,63,YCH,8 Bulim Ave,Singapore,Malaysia,05-Dec-24,15-Dec-24,Domestic,0.10421439320987641
+349,Shanghai Railway Station,Malaysia Airport,Electronics,49568,1442,16,YCH,8 Bulim Ave,China,Malaysia,06-Dec-24,16-Dec-24,International,0.061147337023362607
+350,Malaysia Railway Station,Wuxi Railway Station,Pharmaceuticals,90195,863,2,YCH,8 Bulim Ave,Malaysia,Singapore,07-Dec-24,17-Dec-24,International,0.1430638839203599
+351,Malaysia Warehouse,Wuxi Railway Station,Pharmaceuticals,71217,2797,93,YCH,8 Bulim Ave,China,Malaysia,08-Dec-24,18-Dec-24,International,0.0375165926800032
+352,Wuxi Airport,Wuxi Airport,Electronics,9483,1326,95,YCH,8 Bulim Ave,Malaysia,Singapore,09-Dec-24,19-Dec-24,Domestic,0.12351594269956287
+353,Shanghai Railway Station,Shanghai Airport,Pharmaceuticals,3801,4058,81,YCH,8 Bulim Ave,Singapore,Malaysia,10-Dec-24,20-Dec-24,International,0.09207023024575338
+354,Singapore Warehouse,Singapore Railway Station,Furniture,48792,4704,19,YCH,8 Bulim Ave,Singapore,China,11-Dec-24,21-Dec-24,Domestic,0.04516620545791599
+355,Shanghai Railway Station,Shanghai Railway Station,Pharmaceuticals,52474,3386,89,YCH,8 Bulim Ave,Malaysia,Singapore,12-Dec-24,22-Dec-24,International,0.08074856165893307
+356,Wuxi Port,Shanghai Railway Station,Electronics,3284,191,70,YCH,8 Bulim Ave,China,China,13-Dec-24,23-Dec-24,International,0.08074628931030076
+357,Wuxi Railway Station,Malaysia Airport,Textiles,60302,2512,66,YCH,8 Bulim Ave,Malaysia,Malaysia,14-Dec-24,24-Dec-24,International,0.1396317439634531
+358,Wuxi Airport,Shanghai Warehouse,Furniture,44403,2629,35,YCH,8 Bulim Ave,China,China,15-Dec-24,25-Dec-24,International,0.059465958980725764
+359,Wuxi Port,Singapore Warehouse,Textiles,15152,1538,50,YCH,8 Bulim Ave,Malaysia,Singapore,16-Dec-24,26-Dec-24,Domestic,0.0729111597732047
+360,Shanghai Port,Singapore Airport,Furniture,14024,1106,60,YCH,8 Bulim Ave,Singapore,China,17-Dec-24,27-Dec-24,Domestic,0.10903228469937355
+361,Singapore Warehouse,Wuxi Port,Textiles,55627,3705,73,YCH,8 Bulim Ave,China,Malaysia,18-Dec-24,28-Dec-24,International,0.09324383983493344
+362,Wuxi Warehouse,Malaysia Port,Textiles,1552,2386,87,YCH,8 Bulim Ave,Malaysia,China,19-Dec-24,29-Dec-24,International,0.02114240679506781
+363,Malaysia Warehouse,Shanghai Port,Electronics,80472,3175,3,YCH,8 Bulim Ave,China,Malaysia,20-Dec-24,30-Dec-24,Domestic,0.04489759245367837
+364,Shanghai Railway Station,Malaysia Railway Station,Textiles,62448,3076,88,YCH,8 Bulim Ave,China,Singapore,21-Dec-24,31-Dec-24,International,0.0717991090577965
+365,Singapore Port,Shanghai Airport,Textiles,42686,650,88,YCH,8 Bulim Ave,Malaysia,Malaysia,22-Dec-24,01-Jan-25,International,0.06569765819939355
+366,Singapore Warehouse,Wuxi Warehouse,Pharmaceuticals,2631,4355,59,YCH,8 Bulim Ave,Malaysia,China,23-Dec-24,02-Jan-25,Domestic,0.10064105362772766
+367,Singapore Warehouse,Wuxi Railway Station,Furniture,53053,4426,63,YCH,8 Bulim Ave,China,China,24-Dec-24,03-Jan-25,International,0.01766338286871848
+368,Shanghai Railway Station,Singapore Airport,Pharmaceuticals,77600,2249,33,YCH,8 Bulim Ave,China,Singapore,25-Dec-24,04-Jan-25,International,0.025165752736242088
+369,Wuxi Airport,Wuxi Airport,Pharmaceuticals,92591,4328,32,YCH,8 Bulim Ave,Singapore,Singapore,26-Dec-24,05-Jan-25,Domestic,0.07926974535628542
+370,Singapore Railway Station,Malaysia Airport,Furniture,52419,4287,98,YCH,8 Bulim Ave,Malaysia,Malaysia,27-Dec-24,06-Jan-25,Domestic,0.12900149581987652
+371,Singapore Warehouse,Singapore Warehouse,Furniture,78906,1948,99,YCH,8 Bulim Ave,China,China,28-Dec-24,07-Jan-25,Domestic,0.07152427114161641
+372,Singapore Warehouse,Shanghai Airport,Furniture,37220,752,18,YCH,8 Bulim Ave,Malaysia,China,29-Dec-24,08-Jan-25,Domestic,0.14753161270524456
+373,Singapore Airport,Wuxi Railway Station,Pharmaceuticals,32634,3666,28,YCH,8 Bulim Ave,Singapore,Malaysia,30-Dec-24,09-Jan-25,Domestic,0.10773841354250904
+374,Wuxi Airport,Singapore Warehouse,Textiles,77286,3311,81,YCH,8 Bulim Ave,China,Singapore,31-Dec-24,10-Jan-25,International,0.055156659529899205
+375,Wuxi Warehouse,Singapore Railway Station,Furniture,4592,3382,71,YCH,8 Bulim Ave,Malaysia,China,01-Jan-25,11-Jan-25,Domestic,0.06537088957544268
+376,Malaysia Warehouse,Singapore Railway Station,Electronics,21235,2467,38,YCH,8 Bulim Ave,Singapore,China,02-Jan-25,12-Jan-25,International,0.057364790507086184
+377,Shanghai Port,Shanghai Port,Electronics,6327,2348,27,YCH,8 Bulim Ave,Malaysia,Malaysia,03-Jan-25,13-Jan-25,International,0.03668906862280589
+378,Wuxi Port,Singapore Port,Furniture,69329,4484,99,YCH,8 Bulim Ave,China,Malaysia,04-Jan-25,14-Jan-25,International,0.07983964464303682
+379,Malaysia Warehouse,Malaysia Railway Station,Furniture,5711,1560,20,YCH,8 Bulim Ave,Malaysia,China,05-Jan-25,15-Jan-25,Domestic,0.09203497062932045
+380,Malaysia Airport,Malaysia Airport,Pharmaceuticals,90160,3140,7,YCH,8 Bulim Ave,Malaysia,China,06-Jan-25,16-Jan-25,International,0.1356591372323567
+381,Shanghai Warehouse,Malaysia Warehouse,Pharmaceuticals,48601,2833,87,YCH,8 Bulim Ave,Malaysia,Malaysia,07-Jan-25,17-Jan-25,Domestic,0.08390209133950885
+382,Wuxi Port,Shanghai Airport,Textiles,67472,2272,93,YCH,8 Bulim Ave,Singapore,China,08-Jan-25,18-Jan-25,International,0.07619044954915963
+383,Shanghai Warehouse,Shanghai Warehouse,Furniture,68392,2611,76,YCH,8 Bulim Ave,China,Malaysia,09-Jan-25,19-Jan-25,International,0.07954694419390393
+384,Wuxi Railway Station,Malaysia Port,Textiles,78344,1102,93,YCH,8 Bulim Ave,China,Malaysia,10-Jan-25,20-Jan-25,International,0.07588845689281948
+385,Wuxi Airport,Malaysia Railway Station,Textiles,29296,84,49,YCH,8 Bulim Ave,China,China,11-Jan-25,21-Jan-25,Domestic,0.026427717127925653
+386,Singapore Airport,Shanghai Railway Station,Pharmaceuticals,59183,4721,46,YCH,8 Bulim Ave,China,Singapore,12-Jan-25,22-Jan-25,International,0.03383362441671261
+387,Wuxi Port,Malaysia Airport,Textiles,75002,3799,76,YCH,8 Bulim Ave,Singapore,Singapore,13-Jan-25,23-Jan-25,Domestic,0.051056955002428975
+388,Shanghai Warehouse,Malaysia Airport,Electronics,93462,1973,8,YCH,8 Bulim Ave,Singapore,China,14-Jan-25,24-Jan-25,International,0.10724750130003886
+389,Malaysia Warehouse,Shanghai Railway Station,Pharmaceuticals,44091,3650,70,YCH,8 Bulim Ave,Malaysia,China,15-Jan-25,25-Jan-25,Domestic,0.11292630194710088
+390,Malaysia Railway Station,Singapore Railway Station,Furniture,47527,1700,5,YCH,8 Bulim Ave,Malaysia,Malaysia,16-Jan-25,26-Jan-25,International,0.03062451245412847
+391,Malaysia Warehouse,Wuxi Airport,Furniture,47107,3667,59,YCH,8 Bulim Ave,Malaysia,Singapore,17-Jan-25,27-Jan-25,International,0.06396466339781777
+392,Wuxi Railway Station,Singapore Airport,Furniture,93499,4450,94,YCH,8 Bulim Ave,Malaysia,China,18-Jan-25,28-Jan-25,Domestic,0.1453964726422079
+393,Wuxi Warehouse,Wuxi Airport,Pharmaceuticals,61333,315,95,YCH,8 Bulim Ave,Singapore,China,19-Jan-25,29-Jan-25,Domestic,0.10855070964241827
+394,Singapore Warehouse,Singapore Railway Station,Pharmaceuticals,77260,2715,71,YCH,8 Bulim Ave,China,China,20-Jan-25,30-Jan-25,Domestic,0.018109495074382538
+395,Shanghai Airport,Shanghai Warehouse,Electronics,64536,1596,44,YCH,8 Bulim Ave,Malaysia,Singapore,21-Jan-25,31-Jan-25,Domestic,0.0586556680972102
+396,Shanghai Railway Station,Malaysia Airport,Electronics,93500,2912,98,YCH,8 Bulim Ave,Singapore,Malaysia,22-Jan-25,01-Feb-25,International,0.10046924801590161
+397,Wuxi Warehouse,Singapore Port,Pharmaceuticals,27673,4976,97,YCH,8 Bulim Ave,Singapore,China,23-Jan-25,02-Feb-25,International,0.029900719958313976
+398,Singapore Warehouse,Singapore Railway Station,Furniture,94831,1981,85,YCH,8 Bulim Ave,Malaysia,Malaysia,24-Jan-25,03-Feb-25,International,0.024948788333716228
+399,Singapore Railway Station,Singapore Warehouse,Furniture,53989,1119,27,YCH,8 Bulim Ave,China,Singapore,25-Jan-25,04-Feb-25,Domestic,0.03664902954784628
+400,Shanghai Warehouse,Wuxi Railway Station,Pharmaceuticals,12545,1374,18,YCH,8 Bulim Ave,Malaysia,China,26-Jan-25,05-Feb-25,Domestic,0.11026004420715595
+401,Wuxi Railway Station,Malaysia Airport,Textiles,93757,2672,28,YCH,8 Bulim Ave,China,Singapore,27-Jan-25,06-Feb-25,International,0.020668297836327912
+402,Malaysia Airport,Shanghai Railway Station,Furniture,21471,2470,29,YCH,8 Bulim Ave,China,China,28-Jan-25,07-Feb-25,International,0.07584596526495699
+403,Wuxi Airport,Wuxi Port,Pharmaceuticals,51953,3142,15,YCH,8 Bulim Ave,Malaysia,China,29-Jan-25,08-Feb-25,Domestic,0.12631943624060543
+404,Shanghai Port,Malaysia Railway Station,Furniture,14708,1332,46,YCH,8 Bulim Ave,China,Singapore,30-Jan-25,09-Feb-25,International,0.14839042386775453
+405,Singapore Port,Singapore Airport,Pharmaceuticals,26166,4352,26,YCH,8 Bulim Ave,Malaysia,Singapore,31-Jan-25,10-Feb-25,Domestic,0.09684908928402841
+406,Wuxi Port,Wuxi Railway Station,Textiles,32051,3497,18,YCH,8 Bulim Ave,China,Malaysia,01-Feb-25,11-Feb-25,International,0.07655755699873565
+407,Malaysia Port,Shanghai Warehouse,Textiles,98958,2245,52,YCH,8 Bulim Ave,Singapore,Singapore,02-Feb-25,12-Feb-25,Domestic,0.026423492521210054
+408,Singapore Port,Wuxi Airport,Textiles,43965,2022,92,YCH,8 Bulim Ave,Singapore,Singapore,03-Feb-25,13-Feb-25,Domestic,0.11812589184853818
+409,Wuxi Airport,Malaysia Airport,Furniture,33986,1579,37,YCH,8 Bulim Ave,Singapore,Singapore,04-Feb-25,14-Feb-25,International,0.09953050864738465
+410,Wuxi Airport,Wuxi Railway Station,Furniture,68260,4547,21,YCH,8 Bulim Ave,Malaysia,Malaysia,05-Feb-25,15-Feb-25,International,0.020616394157821894
+411,Malaysia Airport,Wuxi Warehouse,Pharmaceuticals,25789,924,18,YCH,8 Bulim Ave,China,China,06-Feb-25,16-Feb-25,International,0.08063322656149147
+412,Shanghai Warehouse,Shanghai Warehouse,Textiles,86908,4048,95,YCH,8 Bulim Ave,Singapore,Singapore,07-Feb-25,17-Feb-25,Domestic,0.03335042714700794
+413,Malaysia Warehouse,Shanghai Port,Furniture,14689,3407,26,YCH,8 Bulim Ave,Malaysia,Malaysia,08-Feb-25,18-Feb-25,Domestic,0.0537946549449455
+414,Malaysia Railway Station,Wuxi Railway Station,Electronics,62195,1116,21,YCH,8 Bulim Ave,Malaysia,Singapore,09-Feb-25,19-Feb-25,International,0.07259486673453988
+415,Wuxi Airport,Shanghai Port,Furniture,43268,3618,11,YCH,8 Bulim Ave,China,Malaysia,10-Feb-25,20-Feb-25,International,0.015757525301469337
+416,Wuxi Port,Singapore Railway Station,Textiles,40715,4038,88,YCH,8 Bulim Ave,Singapore,China,11-Feb-25,21-Feb-25,International,0.024709757300107507
+417,Wuxi Railway Station,Singapore Port,Textiles,63050,3317,76,YCH,8 Bulim Ave,Malaysia,China,12-Feb-25,22-Feb-25,International,0.1374847928946083
+418,Shanghai Airport,Wuxi Railway Station,Electronics,75138,814,6,YCH,8 Bulim Ave,Singapore,Singapore,13-Feb-25,23-Feb-25,International,0.018382008655605353
+419,Shanghai Port,Shanghai Airport,Textiles,33569,1915,73,YCH,8 Bulim Ave,Singapore,China,14-Feb-25,24-Feb-25,International,0.12497912285341073
+420,Malaysia Railway Station,Shanghai Airport,Furniture,46653,635,53,YCH,8 Bulim Ave,Singapore,China,15-Feb-25,25-Feb-25,Domestic,0.06483902238026719
+421,Shanghai Warehouse,Shanghai Railway Station,Electronics,83955,1848,45,YCH,8 Bulim Ave,China,China,16-Feb-25,26-Feb-25,Domestic,0.01723846977688298
+422,Shanghai Port,Shanghai Airport,Furniture,24277,2659,37,YCH,8 Bulim Ave,China,Singapore,17-Feb-25,27-Feb-25,Domestic,0.02759279924888869
+423,Shanghai Airport,Singapore Railway Station,Pharmaceuticals,29592,4558,28,YCH,8 Bulim Ave,Malaysia,China,18-Feb-25,28-Feb-25,International,0.050153306324924034
+424,Singapore Port,Singapore Railway Station,Electronics,85048,2233,16,YCH,8 Bulim Ave,China,Singapore,19-Feb-25,01-Mar-25,International,0.03138478210333265
+425,Shanghai Airport,Malaysia Railway Station,Electronics,83892,1519,22,YCH,8 Bulim Ave,China,China,20-Feb-25,02-Mar-25,Domestic,0.13463675600783698
+426,Malaysia Airport,Malaysia Warehouse,Pharmaceuticals,14856,645,91,YCH,8 Bulim Ave,China,China,21-Feb-25,03-Mar-25,Domestic,0.03034042949304664
+427,Singapore Warehouse,Singapore Railway Station,Pharmaceuticals,51209,3410,93,YCH,8 Bulim Ave,China,Singapore,22-Feb-25,04-Mar-25,Domestic,0.06737592528174645
+428,Shanghai Airport,Singapore Airport,Electronics,81499,2674,99,YCH,8 Bulim Ave,Singapore,Singapore,23-Feb-25,05-Mar-25,Domestic,0.12486677853618301
+429,Malaysia Port,Shanghai Airport,Pharmaceuticals,77721,581,10,YCH,8 Bulim Ave,Malaysia,Malaysia,24-Feb-25,06-Mar-25,International,0.08409758937694896
+430,Singapore Port,Shanghai Warehouse,Pharmaceuticals,37875,3263,38,YCH,8 Bulim Ave,China,China,25-Feb-25,07-Mar-25,Domestic,0.14252025891969716
+431,Malaysia Railway Station,Singapore Railway Station,Pharmaceuticals,68848,1150,27,YCH,8 Bulim Ave,Malaysia,China,26-Feb-25,08-Mar-25,Domestic,0.06718976065851869
+432,Singapore Port,Malaysia Airport,Electronics,55580,4737,61,YCH,8 Bulim Ave,Singapore,Malaysia,27-Feb-25,09-Mar-25,Domestic,0.08143657016375758
+433,Malaysia Airport,Malaysia Warehouse,Furniture,43117,225,75,YCH,8 Bulim Ave,Malaysia,Singapore,28-Feb-25,10-Mar-25,Domestic,0.11569532313549692
+434,Shanghai Port,Wuxi Port,Textiles,94225,2998,99,YCH,8 Bulim Ave,China,China,01-Mar-25,11-Mar-25,International,0.10770706714597314
+435,Malaysia Airport,Wuxi Railway Station,Furniture,47855,4027,6,YCH,8 Bulim Ave,Malaysia,Malaysia,02-Mar-25,12-Mar-25,International,0.07719967042193822
+436,Shanghai Railway Station,Malaysia Airport,Furniture,88460,1891,20,YCH,8 Bulim Ave,Malaysia,China,03-Mar-25,13-Mar-25,International,0.09716952084095776
+437,Malaysia Railway Station,Malaysia Warehouse,Electronics,42974,128,89,YCH,8 Bulim Ave,Malaysia,Singapore,04-Mar-25,14-Mar-25,International,0.032650321143799774
+438,Shanghai Airport,Shanghai Airport,Textiles,56155,3977,2,YCH,8 Bulim Ave,Malaysia,China,05-Mar-25,15-Mar-25,Domestic,0.06391806031840554
+439,Singapore Airport,Singapore Warehouse,Textiles,15467,205,72,YCH,8 Bulim Ave,China,Singapore,06-Mar-25,16-Mar-25,International,0.13412985749716508
+440,Malaysia Railway Station,Shanghai Warehouse,Furniture,67376,3254,9,YCH,8 Bulim Ave,Malaysia,Malaysia,07-Mar-25,17-Mar-25,Domestic,0.07869753819615835
+441,Wuxi Railway Station,Shanghai Port,Textiles,32216,3304,63,YCH,8 Bulim Ave,China,China,08-Mar-25,18-Mar-25,Domestic,0.10373278779938236
+442,Malaysia Port,Shanghai Railway Station,Pharmaceuticals,77834,4677,90,YCH,8 Bulim Ave,China,Singapore,09-Mar-25,19-Mar-25,International,0.09682089011622856
+443,Malaysia Airport,Shanghai Airport,Textiles,42530,1839,51,YCH,8 Bulim Ave,Singapore,Singapore,10-Mar-25,20-Mar-25,International,0.026741162346348178
+444,Shanghai Port,Malaysia Railway Station,Furniture,59483,232,6,YCH,8 Bulim Ave,Malaysia,Singapore,11-Mar-25,21-Mar-25,International,0.056658108401875476
+445,Shanghai Railway Station,Malaysia Airport,Textiles,20830,3852,77,YCH,8 Bulim Ave,Singapore,Malaysia,12-Mar-25,22-Mar-25,International,0.05225795716701609
+446,Singapore Port,Singapore Port,Furniture,41273,677,97,YCH,8 Bulim Ave,Malaysia,Malaysia,13-Mar-25,23-Mar-25,International,0.10254234970177287
+447,Malaysia Warehouse,Singapore Warehouse,Textiles,93415,3710,27,YCH,8 Bulim Ave,China,China,14-Mar-25,24-Mar-25,Domestic,0.028947211559979216
+448,Singapore Railway Station,Shanghai Port,Pharmaceuticals,11596,3154,13,YCH,8 Bulim Ave,China,Singapore,15-Mar-25,25-Mar-25,Domestic,0.015383384267868117
+449,Singapore Railway Station,Wuxi Railway Station,Pharmaceuticals,67370,3623,36,YCH,8 Bulim Ave,Malaysia,Malaysia,16-Mar-25,26-Mar-25,Domestic,0.04090291851102807
+450,Wuxi Warehouse,Singapore Airport,Textiles,56766,1386,9,YCH,8 Bulim Ave,Singapore,Malaysia,17-Mar-25,27-Mar-25,International,0.11678094638846621
+451,Malaysia Airport,Singapore Port,Electronics,24436,1479,22,YCH,8 Bulim Ave,Malaysia,Malaysia,18-Mar-25,28-Mar-25,International,0.0723838463419556
+452,Malaysia Port,Shanghai Warehouse,Pharmaceuticals,74454,2400,31,YCH,8 Bulim Ave,China,China,19-Mar-25,29-Mar-25,International,0.11112259015515077
+453,Wuxi Airport,Shanghai Railway Station,Pharmaceuticals,68232,140,22,YCH,8 Bulim Ave,China,Singapore,20-Mar-25,30-Mar-25,Domestic,0.11165752434430992
+454,Singapore Airport,Shanghai Port,Electronics,55759,2086,55,YCH,8 Bulim Ave,Malaysia,Malaysia,21-Mar-25,31-Mar-25,International,0.02572572107690515
+455,Singapore Warehouse,Shanghai Airport,Furniture,85037,2004,77,YCH,8 Bulim Ave,Singapore,China,22-Mar-25,01-Apr-25,International,0.056678480597962023
+456,Shanghai Railway Station,Singapore Port,Electronics,60512,573,13,YCH,8 Bulim Ave,Malaysia,China,23-Mar-25,02-Apr-25,Domestic,0.13978541003738496
+457,Wuxi Port,Wuxi Airport,Electronics,96148,1266,13,YCH,8 Bulim Ave,China,Malaysia,24-Mar-25,03-Apr-25,Domestic,0.09246548393243831
+458,Malaysia Port,Singapore Airport,Electronics,88374,4157,8,YCH,8 Bulim Ave,China,Singapore,25-Mar-25,04-Apr-25,International,0.1410657666297152
+459,Shanghai Railway Station,Malaysia Railway Station,Textiles,62668,834,44,YCH,8 Bulim Ave,Singapore,Malaysia,26-Mar-25,05-Apr-25,Domestic,0.01330763272692161
+460,Malaysia Warehouse,Singapore Airport,Electronics,81226,1612,61,YCH,8 Bulim Ave,Malaysia,Singapore,27-Mar-25,06-Apr-25,International,0.09972954756108769
+461,Shanghai Port,Singapore Port,Electronics,30541,2746,22,YCH,8 Bulim Ave,Malaysia,China,28-Mar-25,07-Apr-25,Domestic,0.04068784144003789
+462,Shanghai Railway Station,Wuxi Port,Pharmaceuticals,42222,265,4,YCH,8 Bulim Ave,Singapore,Malaysia,29-Mar-25,08-Apr-25,International,0.14282992053275265
+463,Singapore Airport,Shanghai Port,Furniture,50163,3658,42,YCH,8 Bulim Ave,Singapore,Singapore,30-Mar-25,09-Apr-25,Domestic,0.03657258310274323
+464,Wuxi Port,Shanghai Port,Textiles,88747,4728,28,YCH,8 Bulim Ave,China,Singapore,31-Mar-25,10-Apr-25,International,0.09833719264140711
+465,Wuxi Warehouse,Shanghai Port,Pharmaceuticals,22084,2429,62,YCH,8 Bulim Ave,Singapore,Malaysia,01-Apr-25,11-Apr-25,International,0.017913292713991252
+466,Shanghai Railway Station,Malaysia Railway Station,Textiles,98821,391,21,YCH,8 Bulim Ave,Singapore,Malaysia,02-Apr-25,12-Apr-25,Domestic,0.0368058826104718
+467,Shanghai Airport,Shanghai Railway Station,Textiles,5903,2606,10,YCH,8 Bulim Ave,Malaysia,Malaysia,03-Apr-25,13-Apr-25,International,0.10445032730579845
+468,Shanghai Port,Singapore Airport,Electronics,67551,2880,4,YCH,8 Bulim Ave,Malaysia,Singapore,04-Apr-25,14-Apr-25,Domestic,0.053931979852768305
+469,Wuxi Airport,Shanghai Airport,Electronics,87774,1226,43,YCH,8 Bulim Ave,China,Singapore,05-Apr-25,15-Apr-25,International,0.03369733880506138
+470,Malaysia Warehouse,Shanghai Railway Station,Furniture,64647,592,68,YCH,8 Bulim Ave,China,Malaysia,06-Apr-25,16-Apr-25,Domestic,0.12222868871017252
+471,Shanghai Railway Station,Shanghai Warehouse,Pharmaceuticals,58020,3485,68,YCH,8 Bulim Ave,Malaysia,Malaysia,07-Apr-25,17-Apr-25,International,0.08254638744368936
+472,Wuxi Port,Malaysia Warehouse,Electronics,93806,3089,98,YCH,8 Bulim Ave,China,Singapore,08-Apr-25,18-Apr-25,Domestic,0.026449519029662777
+473,Wuxi Airport,Singapore Warehouse,Pharmaceuticals,20340,1597,60,YCH,8 Bulim Ave,Malaysia,China,09-Apr-25,19-Apr-25,International,0.07759092337785388
+474,Wuxi Railway Station,Shanghai Port,Electronics,88196,1981,19,YCH,8 Bulim Ave,China,China,10-Apr-25,20-Apr-25,International,0.030148504902202486
+475,Malaysia Port,Malaysia Port,Electronics,98539,142,77,YCH,8 Bulim Ave,China,China,11-Apr-25,21-Apr-25,International,0.012725629486727858
+476,Wuxi Airport,Shanghai Port,Electronics,65221,2632,88,YCH,8 Bulim Ave,Singapore,China,12-Apr-25,22-Apr-25,International,0.0439448614531415
+477,Malaysia Railway Station,Singapore Warehouse,Furniture,91478,3728,4,YCH,8 Bulim Ave,China,China,13-Apr-25,23-Apr-25,Domestic,0.14337941000494078
+478,Singapore Warehouse,Shanghai Airport,Textiles,83794,3676,44,YCH,8 Bulim Ave,Singapore,China,14-Apr-25,24-Apr-25,International,0.09305340389806178
+479,Singapore Railway Station,Wuxi Airport,Furniture,28630,3813,22,YCH,8 Bulim Ave,Malaysia,Singapore,15-Apr-25,25-Apr-25,International,0.13946695537023873
+480,Wuxi Warehouse,Malaysia Railway Station,Furniture,39002,3675,67,YCH,8 Bulim Ave,Malaysia,Singapore,16-Apr-25,26-Apr-25,International,0.12284254811906743
+481,Malaysia Railway Station,Shanghai Railway Station,Furniture,71480,4214,23,YCH,8 Bulim Ave,Malaysia,Singapore,17-Apr-25,27-Apr-25,International,0.050395308709523516
+482,Malaysia Port,Malaysia Railway Station,Textiles,38197,4194,88,YCH,8 Bulim Ave,Singapore,Malaysia,18-Apr-25,28-Apr-25,Domestic,0.0987278549176767
+483,Singapore Warehouse,Singapore Airport,Electronics,80331,700,76,YCH,8 Bulim Ave,Singapore,Malaysia,19-Apr-25,29-Apr-25,Domestic,0.013203363442466282
+484,Wuxi Port,Malaysia Port,Electronics,71385,1311,60,YCH,8 Bulim Ave,China,Malaysia,20-Apr-25,30-Apr-25,International,0.1260861286979643
+485,Singapore Airport,Wuxi Port,Electronics,91072,1147,27,YCH,8 Bulim Ave,Singapore,Singapore,21-Apr-25,01-May-25,International,0.1486059750524772
+486,Wuxi Port,Malaysia Airport,Electronics,56192,4499,50,YCH,8 Bulim Ave,Singapore,Singapore,22-Apr-25,02-May-25,Domestic,0.07710459187247747
+487,Shanghai Airport,Wuxi Airport,Textiles,23618,3106,59,YCH,8 Bulim Ave,China,Malaysia,23-Apr-25,03-May-25,Domestic,0.13918483970989348
+488,Shanghai Railway Station,Shanghai Railway Station,Electronics,31241,3719,96,YCH,8 Bulim Ave,China,Malaysia,24-Apr-25,04-May-25,Domestic,0.038561021810187265
+489,Shanghai Port,Malaysia Railway Station,Pharmaceuticals,79989,3599,8,YCH,8 Bulim Ave,Malaysia,Malaysia,25-Apr-25,05-May-25,International,0.048726616677926056
+490,Wuxi Railway Station,Shanghai Railway Station,Pharmaceuticals,97089,4864,82,YCH,8 Bulim Ave,China,Singapore,26-Apr-25,06-May-25,Domestic,0.12625682873750696
+491,Singapore Warehouse,Shanghai Port,Pharmaceuticals,38737,1329,92,YCH,8 Bulim Ave,China,Malaysia,27-Apr-25,07-May-25,Domestic,0.1475835365427452
+492,Shanghai Port,Shanghai Port,Textiles,84365,655,89,YCH,8 Bulim Ave,Malaysia,Malaysia,28-Apr-25,08-May-25,International,0.09985686990756275
+493,Wuxi Airport,Wuxi Port,Furniture,26623,4579,11,YCH,8 Bulim Ave,China,Singapore,29-Apr-25,09-May-25,International,0.115716028073832
+494,Wuxi Railway Station,Wuxi Port,Electronics,21023,1349,50,YCH,8 Bulim Ave,Malaysia,China,30-Apr-25,10-May-25,International,0.12229922695021805
+495,Wuxi Railway Station,Shanghai Railway Station,Electronics,94178,1564,26,YCH,8 Bulim Ave,China,Singapore,01-May-25,11-May-25,International,0.06575222748803158
+496,Singapore Port,Malaysia Railway Station,Furniture,62302,2321,97,YCH,8 Bulim Ave,Malaysia,Singapore,02-May-25,12-May-25,International,0.035336023460185835
+497,Singapore Warehouse,Singapore Railway Station,Pharmaceuticals,1462,1241,39,YCH,8 Bulim Ave,Malaysia,Malaysia,03-May-25,13-May-25,Domestic,0.04470142841326944
+498,Wuxi Port,Singapore Railway Station,Electronics,71700,4208,6,YCH,8 Bulim Ave,Malaysia,Malaysia,04-May-25,14-May-25,International,0.13537653994344193
+499,Wuxi Warehouse,Wuxi Port,Furniture,92752,2882,83,YCH,8 Bulim Ave,Malaysia,Malaysia,05-May-25,15-May-25,Domestic,0.12301802335399116
+500,Shanghai Railway Station,Shanghai Port,Electronics,67870,2215,4,YCH,8 Bulim Ave,Malaysia,Malaysia,06-May-25,16-May-25,Domestic,0.02581460019731653
+501,Wuxi Warehouse,Singapore Railway Station,Furniture,60160,2782,48,YCH,8 Bulim Ave,China,Singapore,07-May-25,17-May-25,Domestic,0.03029153165462154
+502,Malaysia Port,Shanghai Airport,Furniture,64853,4332,14,YCH,8 Bulim Ave,Malaysia,Malaysia,08-May-25,18-May-25,Domestic,0.03308221962634864
+503,Singapore Airport,Shanghai Warehouse,Electronics,1673,1479,55,YCH,8 Bulim Ave,Singapore,Singapore,09-May-25,19-May-25,International,0.010137369974541703
+504,Singapore Warehouse,Wuxi Airport,Furniture,64001,4648,4,YCH,8 Bulim Ave,Singapore,Singapore,10-May-25,20-May-25,International,0.08036843404533214
+505,Wuxi Port,Singapore Warehouse,Pharmaceuticals,56676,2224,34,YCH,8 Bulim Ave,China,Malaysia,11-May-25,21-May-25,International,0.024616109495651975
+506,Malaysia Warehouse,Singapore Warehouse,Textiles,69033,122,43,YCH,8 Bulim Ave,Singapore,China,12-May-25,22-May-25,Domestic,0.12740920437174225
+507,Singapore Railway Station,Malaysia Railway Station,Furniture,30506,2490,66,YCH,8 Bulim Ave,Singapore,China,13-May-25,23-May-25,Domestic,0.013919124133980686
+508,Singapore Railway Station,Shanghai Airport,Pharmaceuticals,68802,1914,55,YCH,8 Bulim Ave,Malaysia,Malaysia,14-May-25,24-May-25,Domestic,0.04447465400693339
+509,Wuxi Airport,Singapore Warehouse,Textiles,78957,292,24,YCH,8 Bulim Ave,China,Singapore,15-May-25,25-May-25,Domestic,0.020012187699278445
+510,Singapore Railway Station,Wuxi Railway Station,Electronics,47285,2848,60,YCH,8 Bulim Ave,Malaysia,China,16-May-25,26-May-25,International,0.06296291438742066
+511,Malaysia Airport,Wuxi Railway Station,Pharmaceuticals,35302,666,52,YCH,8 Bulim Ave,Malaysia,Malaysia,17-May-25,27-May-25,Domestic,0.11358289142137663
+512,Shanghai Airport,Shanghai Port,Pharmaceuticals,77694,2556,22,YCH,8 Bulim Ave,Singapore,China,18-May-25,28-May-25,Domestic,0.08066558524564102
+513,Singapore Port,Shanghai Airport,Furniture,72737,196,86,YCH,8 Bulim Ave,Singapore,Malaysia,19-May-25,29-May-25,International,0.09487543624463944
+514,Shanghai Warehouse,Wuxi Port,Electronics,35006,3890,64,YCH,8 Bulim Ave,Malaysia,Malaysia,20-May-25,30-May-25,Domestic,0.030454215593118374
+515,Malaysia Warehouse,Malaysia Railway Station,Pharmaceuticals,1531,696,13,YCH,8 Bulim Ave,Singapore,Malaysia,21-May-25,31-May-25,Domestic,0.06780294701603089
+516,Shanghai Airport,Shanghai Railway Station,Pharmaceuticals,91886,3385,27,YCH,8 Bulim Ave,Singapore,Malaysia,22-May-25,01-Jun-25,International,0.11446781909899749
+517,Singapore Railway Station,Singapore Railway Station,Textiles,20154,3989,81,YCH,8 Bulim Ave,Malaysia,Malaysia,23-May-25,02-Jun-25,Domestic,0.020819601603804
+518,Wuxi Warehouse,Singapore Warehouse,Furniture,15418,4883,23,YCH,8 Bulim Ave,Malaysia,Malaysia,24-May-25,03-Jun-25,International,0.049778198730323166
+519,Malaysia Airport,Singapore Airport,Furniture,50502,774,50,YCH,8 Bulim Ave,Malaysia,China,25-May-25,04-Jun-25,International,0.07084797668173969
+520,Malaysia Airport,Singapore Port,Electronics,90447,807,53,YCH,8 Bulim Ave,Malaysia,Singapore,26-May-25,05-Jun-25,Domestic,0.14104934639097516
+521,Malaysia Airport,Shanghai Airport,Electronics,5332,3985,34,YCH,8 Bulim Ave,China,Singapore,27-May-25,06-Jun-25,International,0.014510916195964816
+522,Shanghai Airport,Malaysia Airport,Pharmaceuticals,41468,600,33,YCH,8 Bulim Ave,Singapore,Malaysia,28-May-25,07-Jun-25,International,0.027722411546364248
+523,Wuxi Warehouse,Malaysia Warehouse,Furniture,58032,509,71,YCH,8 Bulim Ave,China,China,29-May-25,08-Jun-25,International,0.0691901554124312
+524,Wuxi Railway Station,Shanghai Railway Station,Textiles,36505,2422,96,YCH,8 Bulim Ave,Singapore,Singapore,30-May-25,09-Jun-25,International,0.04636309022222272
+525,Malaysia Port,Malaysia Port,Pharmaceuticals,31322,245,75,YCH,8 Bulim Ave,Malaysia,Malaysia,31-May-25,10-Jun-25,Domestic,0.0630351569174411
+526,Shanghai Warehouse,Malaysia Port,Pharmaceuticals,86224,3279,26,YCH,8 Bulim Ave,China,China,01-Jun-25,11-Jun-25,Domestic,0.14487950021778812
+527,Shanghai Airport,Wuxi Railway Station,Pharmaceuticals,1897,4479,42,YCH,8 Bulim Ave,Malaysia,Singapore,02-Jun-25,12-Jun-25,International,0.1421058281203832
+528,Singapore Airport,Wuxi Port,Furniture,9237,4357,70,YCH,8 Bulim Ave,Malaysia,Malaysia,03-Jun-25,13-Jun-25,International,0.045807454716022065
+529,Malaysia Warehouse,Wuxi Warehouse,Electronics,24463,1308,97,YCH,8 Bulim Ave,Malaysia,Singapore,04-Jun-25,14-Jun-25,Domestic,0.06242574877796615
+530,Malaysia Airport,Wuxi Port,Electronics,39010,2022,28,YCH,8 Bulim Ave,Malaysia,China,05-Jun-25,15-Jun-25,International,0.016107317329312303
+531,Shanghai Airport,Shanghai Railway Station,Pharmaceuticals,60576,4723,96,YCH,8 Bulim Ave,China,China,06-Jun-25,16-Jun-25,Domestic,0.12960568663430894
+532,Singapore Airport,Singapore Airport,Textiles,7464,4057,49,YCH,8 Bulim Ave,Malaysia,Singapore,07-Jun-25,17-Jun-25,Domestic,0.054522552211409045
+533,Malaysia Airport,Wuxi Railway Station,Furniture,74070,3874,95,YCH,8 Bulim Ave,Singapore,Singapore,08-Jun-25,18-Jun-25,Domestic,0.07038881419707611
+534,Malaysia Railway Station,Wuxi Railway Station,Furniture,93668,472,65,YCH,8 Bulim Ave,Malaysia,Malaysia,09-Jun-25,19-Jun-25,International,0.07584494000538772
+535,Singapore Airport,Singapore Port,Electronics,97067,2480,13,YCH,8 Bulim Ave,Singapore,China,10-Jun-25,20-Jun-25,Domestic,0.0664052019386315
+536,Malaysia Warehouse,Wuxi Port,Textiles,10030,1108,68,YCH,8 Bulim Ave,Malaysia,Malaysia,11-Jun-25,21-Jun-25,Domestic,0.013655483270843342
+537,Wuxi Warehouse,Malaysia Railway Station,Pharmaceuticals,48204,878,49,YCH,8 Bulim Ave,Malaysia,Singapore,12-Jun-25,22-Jun-25,Domestic,0.10351079265314123
+538,Wuxi Airport,Malaysia Warehouse,Furniture,94208,4697,90,YCH,8 Bulim Ave,China,Malaysia,13-Jun-25,23-Jun-25,Domestic,0.06733980020156166
+539,Malaysia Warehouse,Shanghai Railway Station,Pharmaceuticals,93821,2652,87,YCH,8 Bulim Ave,China,Malaysia,14-Jun-25,24-Jun-25,International,0.06849729579033242
+540,Shanghai Railway Station,Malaysia Airport,Furniture,89533,1306,74,YCH,8 Bulim Ave,Malaysia,China,15-Jun-25,25-Jun-25,International,0.010109679699423413
+541,Shanghai Railway Station,Singapore Warehouse,Electronics,19607,1250,27,YCH,8 Bulim Ave,Malaysia,Malaysia,16-Jun-25,26-Jun-25,International,0.08284610260916682
+542,Shanghai Railway Station,Shanghai Railway Station,Electronics,42248,4604,95,YCH,8 Bulim Ave,Singapore,China,17-Jun-25,27-Jun-25,International,0.14643705686811803
+543,Wuxi Port,Singapore Railway Station,Electronics,93853,1092,29,YCH,8 Bulim Ave,Malaysia,Malaysia,18-Jun-25,28-Jun-25,Domestic,0.039469451217757495
+544,Shanghai Railway Station,Shanghai Warehouse,Electronics,59349,3440,23,YCH,8 Bulim Ave,China,Singapore,19-Jun-25,29-Jun-25,International,0.09966848658543837
+545,Malaysia Airport,Shanghai Port,Pharmaceuticals,15012,3572,52,YCH,8 Bulim Ave,Singapore,China,20-Jun-25,30-Jun-25,International,0.011847480476558293
+546,Wuxi Airport,Wuxi Port,Pharmaceuticals,42855,693,37,YCH,8 Bulim Ave,China,Malaysia,21-Jun-25,01-Jul-25,Domestic,0.043177864299862874
+547,Wuxi Warehouse,Singapore Port,Furniture,55859,2596,83,YCH,8 Bulim Ave,China,Singapore,22-Jun-25,02-Jul-25,Domestic,0.01676629103249918
+548,Shanghai Airport,Wuxi Warehouse,Furniture,50824,2706,98,YCH,8 Bulim Ave,Malaysia,Malaysia,23-Jun-25,03-Jul-25,Domestic,0.011794552605680644
+549,Malaysia Warehouse,Singapore Warehouse,Textiles,87628,4975,17,YCH,8 Bulim Ave,China,Malaysia,24-Jun-25,04-Jul-25,Domestic,0.09594854954660727
+550,Wuxi Airport,Shanghai Port,Electronics,20534,687,50,YCH,8 Bulim Ave,Malaysia,Singapore,25-Jun-25,05-Jul-25,Domestic,0.09927569676921959
+551,Shanghai Railway Station,Wuxi Warehouse,Pharmaceuticals,33200,1371,43,YCH,8 Bulim Ave,China,Malaysia,26-Jun-25,06-Jul-25,International,0.11604523866438064
+552,Shanghai Airport,Shanghai Warehouse,Furniture,50368,1631,65,YCH,8 Bulim Ave,Singapore,Malaysia,27-Jun-25,07-Jul-25,Domestic,0.07521974502625639
+553,Singapore Port,Shanghai Airport,Pharmaceuticals,35002,4368,21,YCH,8 Bulim Ave,Singapore,China,28-Jun-25,08-Jul-25,International,0.0660053699938387
+554,Wuxi Railway Station,Wuxi Warehouse,Electronics,4513,3823,62,YCH,8 Bulim Ave,China,China,29-Jun-25,09-Jul-25,International,0.03265637705093681
+555,Malaysia Airport,Wuxi Port,Textiles,60467,3474,20,YCH,8 Bulim Ave,Singapore,China,30-Jun-25,10-Jul-25,International,0.09054899042227689
+556,Malaysia Airport,Wuxi Railway Station,Textiles,93622,2225,90,YCH,8 Bulim Ave,Singapore,Malaysia,01-Jul-25,11-Jul-25,Domestic,0.07516684620665931
+557,Malaysia Airport,Malaysia Port,Pharmaceuticals,48542,3975,9,YCH,8 Bulim Ave,Malaysia,China,02-Jul-25,12-Jul-25,International,0.09907718379181235
+558,Singapore Port,Wuxi Airport,Pharmaceuticals,74741,3076,12,YCH,8 Bulim Ave,China,China,03-Jul-25,13-Jul-25,International,0.010449097312976906
+559,Wuxi Warehouse,Malaysia Railway Station,Pharmaceuticals,18373,2873,60,YCH,8 Bulim Ave,Malaysia,Singapore,04-Jul-25,14-Jul-25,Domestic,0.1025053929349894
+560,Malaysia Port,Singapore Warehouse,Electronics,20242,2524,24,YCH,8 Bulim Ave,Singapore,Malaysia,05-Jul-25,15-Jul-25,International,0.14897949456637133
+561,Shanghai Warehouse,Shanghai Airport,Pharmaceuticals,16287,3086,73,YCH,8 Bulim Ave,Singapore,China,06-Jul-25,16-Jul-25,International,0.09157230292548568
+562,Shanghai Airport,Shanghai Railway Station,Furniture,51212,464,10,YCH,8 Bulim Ave,China,Singapore,07-Jul-25,17-Jul-25,International,0.09207054013183397
+563,Shanghai Warehouse,Singapore Railway Station,Electronics,80505,1832,2,YCH,8 Bulim Ave,Malaysia,Singapore,08-Jul-25,18-Jul-25,International,0.06227152437079149
+564,Malaysia Railway Station,Shanghai Port,Textiles,36511,3474,34,YCH,8 Bulim Ave,China,Singapore,09-Jul-25,19-Jul-25,Domestic,0.09911349120312322
+565,Malaysia Warehouse,Malaysia Railway Station,Electronics,47569,2820,30,YCH,8 Bulim Ave,Malaysia,Singapore,10-Jul-25,20-Jul-25,International,0.014794498057952733
+566,Wuxi Warehouse,Wuxi Airport,Textiles,18679,3597,22,YCH,8 Bulim Ave,China,Singapore,11-Jul-25,21-Jul-25,International,0.12276806480791533
+567,Malaysia Railway Station,Singapore Airport,Furniture,19418,2155,74,YCH,8 Bulim Ave,Singapore,China,12-Jul-25,22-Jul-25,International,0.0860045923196157
+568,Malaysia Railway Station,Shanghai Railway Station,Furniture,64616,799,85,YCH,8 Bulim Ave,Singapore,Singapore,13-Jul-25,23-Jul-25,Domestic,0.1297052323491081
+569,Singapore Port,Shanghai Warehouse,Furniture,56059,1930,89,YCH,8 Bulim Ave,China,Malaysia,14-Jul-25,24-Jul-25,International,0.0821570112533156
+570,Singapore Warehouse,Singapore Airport,Textiles,66224,2820,14,YCH,8 Bulim Ave,China,Malaysia,15-Jul-25,25-Jul-25,Domestic,0.07298043860201381
+571,Malaysia Warehouse,Malaysia Railway Station,Electronics,67838,4610,7,YCH,8 Bulim Ave,Singapore,Malaysia,16-Jul-25,26-Jul-25,International,0.08109600472018727
+572,Shanghai Railway Station,Wuxi Airport,Textiles,93906,370,20,YCH,8 Bulim Ave,China,Singapore,17-Jul-25,27-Jul-25,Domestic,0.12162109425830395
+573,Singapore Airport,Wuxi Railway Station,Electronics,76302,4921,44,YCH,8 Bulim Ave,Malaysia,Singapore,18-Jul-25,28-Jul-25,Domestic,0.062028019562296415
+574,Wuxi Warehouse,Shanghai Port,Electronics,6519,2927,58,YCH,8 Bulim Ave,China,Singapore,19-Jul-25,29-Jul-25,Domestic,0.04628318585603071
+575,Singapore Airport,Shanghai Warehouse,Textiles,39587,4856,35,YCH,8 Bulim Ave,China,China,20-Jul-25,30-Jul-25,International,0.03810267382961445
+576,Shanghai Port,Singapore Railway Station,Electronics,40054,4386,80,YCH,8 Bulim Ave,Malaysia,Singapore,21-Jul-25,31-Jul-25,Domestic,0.05824400619639055
+577,Wuxi Port,Malaysia Railway Station,Furniture,56960,251,30,YCH,8 Bulim Ave,Malaysia,Singapore,22-Jul-25,01-Aug-25,International,0.10125167288197223
+578,Shanghai Airport,Singapore Airport,Pharmaceuticals,86921,3841,88,YCH,8 Bulim Ave,China,Malaysia,23-Jul-25,02-Aug-25,International,0.14053784446078793
+579,Shanghai Warehouse,Singapore Airport,Furniture,57517,2838,7,YCH,8 Bulim Ave,Malaysia,China,24-Jul-25,03-Aug-25,Domestic,0.12763161278542426
+580,Shanghai Airport,Malaysia Railway Station,Textiles,30685,1033,73,YCH,8 Bulim Ave,Malaysia,Malaysia,25-Jul-25,04-Aug-25,International,0.12230333958804632
+581,Singapore Railway Station,Singapore Railway Station,Furniture,99612,3986,63,YCH,8 Bulim Ave,China,Singapore,26-Jul-25,05-Aug-25,International,0.08147926430493674
+582,Malaysia Warehouse,Malaysia Airport,Electronics,79490,2403,20,YCH,8 Bulim Ave,Malaysia,Malaysia,27-Jul-25,06-Aug-25,Domestic,0.12110890233136348
+583,Singapore Railway Station,Shanghai Airport,Electronics,6101,4534,92,YCH,8 Bulim Ave,Malaysia,China,28-Jul-25,07-Aug-25,Domestic,0.014835673685209256
+584,Singapore Railway Station,Malaysia Airport,Electronics,90750,2573,95,YCH,8 Bulim Ave,Malaysia,Singapore,29-Jul-25,08-Aug-25,Domestic,0.07157436325966074
+585,Wuxi Railway Station,Singapore Port,Pharmaceuticals,12937,4435,8,YCH,8 Bulim Ave,Singapore,Singapore,30-Jul-25,09-Aug-25,Domestic,0.09023914021472798
+586,Malaysia Railway Station,Wuxi Railway Station,Furniture,9541,103,42,YCH,8 Bulim Ave,Singapore,China,31-Jul-25,10-Aug-25,International,0.07965932653233977
+587,Wuxi Railway Station,Shanghai Warehouse,Textiles,56831,2620,38,YCH,8 Bulim Ave,Singapore,China,01-Aug-25,11-Aug-25,Domestic,0.08483482244659124
+588,Shanghai Port,Malaysia Airport,Textiles,30960,3204,32,YCH,8 Bulim Ave,Singapore,Singapore,02-Aug-25,12-Aug-25,International,0.029806327188793856
+589,Wuxi Port,Wuxi Railway Station,Textiles,7338,1198,38,YCH,8 Bulim Ave,Singapore,Singapore,03-Aug-25,13-Aug-25,International,0.12674458851689213
+590,Wuxi Railway Station,Singapore Airport,Furniture,41346,3214,56,YCH,8 Bulim Ave,Malaysia,Singapore,04-Aug-25,14-Aug-25,International,0.06998843327928861
+591,Shanghai Railway Station,Singapore Railway Station,Electronics,76540,2454,69,YCH,8 Bulim Ave,Singapore,Singapore,05-Aug-25,15-Aug-25,Domestic,0.1066636987557825
+592,Malaysia Warehouse,Shanghai Port,Textiles,11296,3189,57,YCH,8 Bulim Ave,Malaysia,China,06-Aug-25,16-Aug-25,International,0.05378352365199823
+593,Singapore Warehouse,Shanghai Warehouse,Pharmaceuticals,59284,4262,85,YCH,8 Bulim Ave,Singapore,Malaysia,07-Aug-25,17-Aug-25,International,0.13437025579483602
+594,Malaysia Railway Station,Wuxi Warehouse,Textiles,61294,4842,48,YCH,8 Bulim Ave,Malaysia,China,08-Aug-25,18-Aug-25,International,0.1406825111112572
+595,Shanghai Port,Wuxi Airport,Textiles,50345,1573,3,YCH,8 Bulim Ave,China,Singapore,09-Aug-25,19-Aug-25,International,0.010607464136015606
+596,Singapore Railway Station,Malaysia Railway Station,Pharmaceuticals,3447,4672,24,YCH,8 Bulim Ave,Singapore,China,10-Aug-25,20-Aug-25,Domestic,0.019513838250669595
+597,Malaysia Port,Wuxi Airport,Electronics,57514,3668,17,YCH,8 Bulim Ave,Malaysia,Malaysia,11-Aug-25,21-Aug-25,International,0.026949701369518755
+598,Malaysia Railway Station,Wuxi Railway Station,Textiles,32248,2588,32,YCH,8 Bulim Ave,Singapore,Singapore,12-Aug-25,22-Aug-25,International,0.11315148759320441
+599,Singapore Airport,Shanghai Port,Furniture,19268,385,2,YCH,8 Bulim Ave,Malaysia,Malaysia,13-Aug-25,23-Aug-25,Domestic,0.14068492420988
+600,Shanghai Port,Shanghai Railway Station,Textiles,23564,3173,14,YCH,8 Bulim Ave,Malaysia,China,14-Aug-25,24-Aug-25,International,0.044517198425739576
+601,Wuxi Port,Wuxi Railway Station,Electronics,44804,1229,47,YCH,8 Bulim Ave,Malaysia,Singapore,15-Aug-25,25-Aug-25,Domestic,0.0488360185414512
+602,Wuxi Warehouse,Malaysia Airport,Furniture,67259,2375,66,YCH,8 Bulim Ave,Malaysia,Singapore,16-Aug-25,26-Aug-25,International,0.014362934573570026
+603,Wuxi Airport,Wuxi Port,Furniture,4358,3883,9,YCH,8 Bulim Ave,China,Singapore,17-Aug-25,27-Aug-25,Domestic,0.07171036734876839
+604,Shanghai Warehouse,Singapore Port,Electronics,11819,4855,29,YCH,8 Bulim Ave,Singapore,Malaysia,18-Aug-25,28-Aug-25,Domestic,0.07251062638991469
+605,Malaysia Warehouse,Malaysia Railway Station,Furniture,98546,4204,46,YCH,8 Bulim Ave,Singapore,China,19-Aug-25,29-Aug-25,International,0.08098468618395961
+606,Singapore Airport,Wuxi Railway Station,Pharmaceuticals,34488,1311,87,YCH,8 Bulim Ave,Malaysia,Singapore,20-Aug-25,30-Aug-25,International,0.09099104006354052
+607,Shanghai Airport,Shanghai Airport,Textiles,69645,3812,92,YCH,8 Bulim Ave,China,Singapore,21-Aug-25,31-Aug-25,International,0.10231692840683597
+608,Shanghai Warehouse,Wuxi Warehouse,Pharmaceuticals,3362,3555,33,YCH,8 Bulim Ave,Singapore,Singapore,22-Aug-25,01-Sep-25,Domestic,0.10952988261121543
+609,Malaysia Airport,Shanghai Warehouse,Pharmaceuticals,30205,2345,48,YCH,8 Bulim Ave,Singapore,China,23-Aug-25,02-Sep-25,Domestic,0.113801116377096
+610,Shanghai Airport,Malaysia Warehouse,Textiles,36152,1448,81,YCH,8 Bulim Ave,Singapore,Singapore,24-Aug-25,03-Sep-25,International,0.02959426531049912
+611,Malaysia Warehouse,Wuxi Airport,Furniture,96524,3734,69,YCH,8 Bulim Ave,Singapore,China,25-Aug-25,04-Sep-25,Domestic,0.011245454692420822
+612,Singapore Warehouse,Singapore Railway Station,Furniture,49711,4165,1,YCH,8 Bulim Ave,Singapore,Malaysia,26-Aug-25,05-Sep-25,Domestic,0.032398693805050484
+613,Shanghai Railway Station,Malaysia Warehouse,Electronics,82737,2756,96,YCH,8 Bulim Ave,China,Malaysia,27-Aug-25,06-Sep-25,Domestic,0.1393223628426139
+614,Malaysia Railway Station,Wuxi Port,Pharmaceuticals,58228,3370,7,YCH,8 Bulim Ave,Singapore,Malaysia,28-Aug-25,07-Sep-25,Domestic,0.1412418476111104
+615,Malaysia Port,Shanghai Port,Pharmaceuticals,62636,4521,81,YCH,8 Bulim Ave,Singapore,Singapore,29-Aug-25,08-Sep-25,Domestic,0.04069134099103671
+616,Wuxi Port,Wuxi Airport,Electronics,14961,1697,62,YCH,8 Bulim Ave,Malaysia,Singapore,30-Aug-25,09-Sep-25,Domestic,0.05642887029611582
+617,Wuxi Port,Malaysia Airport,Electronics,12678,1834,48,YCH,8 Bulim Ave,Malaysia,China,31-Aug-25,10-Sep-25,International,0.012042818018398682
+618,Wuxi Airport,Wuxi Port,Electronics,93442,1795,35,YCH,8 Bulim Ave,China,Singapore,01-Sep-25,11-Sep-25,International,0.14634511939108677
+619,Shanghai Warehouse,Malaysia Railway Station,Furniture,86235,3678,99,YCH,8 Bulim Ave,China,Singapore,02-Sep-25,12-Sep-25,Domestic,0.10112486007975982
+620,Wuxi Airport,Wuxi Airport,Textiles,88711,3978,11,YCH,8 Bulim Ave,Singapore,Malaysia,03-Sep-25,13-Sep-25,Domestic,0.11436656857302317
+621,Singapore Warehouse,Singapore Warehouse,Electronics,33659,463,39,YCH,8 Bulim Ave,China,Malaysia,04-Sep-25,14-Sep-25,Domestic,0.046803949956088664
+622,Malaysia Airport,Malaysia Railway Station,Furniture,6171,3483,81,YCH,8 Bulim Ave,Singapore,Malaysia,05-Sep-25,15-Sep-25,Domestic,0.06568823311482062
+623,Singapore Airport,Wuxi Warehouse,Electronics,13967,173,69,YCH,8 Bulim Ave,Singapore,China,06-Sep-25,16-Sep-25,International,0.14949888680720314
+624,Malaysia Railway Station,Shanghai Airport,Pharmaceuticals,22108,3280,61,YCH,8 Bulim Ave,China,China,07-Sep-25,17-Sep-25,International,0.08792764201842578
+625,Wuxi Airport,Malaysia Railway Station,Textiles,83273,2777,29,YCH,8 Bulim Ave,Singapore,China,08-Sep-25,18-Sep-25,Domestic,0.05392987817729583
+626,Malaysia Port,Shanghai Port,Electronics,5618,2006,43,YCH,8 Bulim Ave,Singapore,Malaysia,09-Sep-25,19-Sep-25,International,0.0551521196700349
+627,Malaysia Warehouse,Singapore Warehouse,Furniture,11746,743,24,YCH,8 Bulim Ave,Malaysia,Singapore,10-Sep-25,20-Sep-25,Domestic,0.09117259242944545
+628,Shanghai Warehouse,Wuxi Railway Station,Furniture,30750,1676,88,YCH,8 Bulim Ave,China,China,11-Sep-25,21-Sep-25,Domestic,0.145910184952446
+629,Shanghai Warehouse,Shanghai Airport,Pharmaceuticals,60130,2399,26,YCH,8 Bulim Ave,China,China,12-Sep-25,22-Sep-25,Domestic,0.13648089898280857
+630,Shanghai Railway Station,Singapore Railway Station,Pharmaceuticals,92971,3846,91,YCH,8 Bulim Ave,Malaysia,China,13-Sep-25,23-Sep-25,International,0.08258194095126846
+631,Singapore Warehouse,Singapore Port,Textiles,41655,3612,41,YCH,8 Bulim Ave,Malaysia,Singapore,14-Sep-25,24-Sep-25,International,0.1449773529245112
+632,Wuxi Airport,Malaysia Airport,Furniture,21882,342,50,YCH,8 Bulim Ave,Malaysia,Malaysia,15-Sep-25,25-Sep-25,International,0.032408901199449114
+633,Malaysia Railway Station,Malaysia Railway Station,Textiles,49350,1516,82,YCH,8 Bulim Ave,China,Malaysia,16-Sep-25,26-Sep-25,Domestic,0.14191440664910399
+634,Malaysia Port,Wuxi Warehouse,Electronics,26113,2808,87,YCH,8 Bulim Ave,Malaysia,Malaysia,17-Sep-25,27-Sep-25,International,0.05278604560648106
+635,Shanghai Railway Station,Shanghai Port,Electronics,50170,330,63,YCH,8 Bulim Ave,Singapore,Singapore,18-Sep-25,28-Sep-25,Domestic,0.05222119105846297
+636,Singapore Railway Station,Wuxi Railway Station,Electronics,53325,3513,67,YCH,8 Bulim Ave,Singapore,Singapore,19-Sep-25,29-Sep-25,Domestic,0.06710537523686337
+637,Wuxi Airport,Wuxi Railway Station,Textiles,42850,4905,48,YCH,8 Bulim Ave,Singapore,Malaysia,20-Sep-25,30-Sep-25,Domestic,0.06694089864766799
+638,Shanghai Airport,Malaysia Airport,Pharmaceuticals,69167,1301,49,YCH,8 Bulim Ave,Malaysia,Malaysia,21-Sep-25,01-Oct-25,International,0.12817026030459608
+639,Malaysia Port,Shanghai Port,Textiles,25106,3188,31,YCH,8 Bulim Ave,China,Singapore,22-Sep-25,02-Oct-25,Domestic,0.1048405690520738
+640,Singapore Port,Wuxi Port,Furniture,59868,4076,24,YCH,8 Bulim Ave,Malaysia,Malaysia,23-Sep-25,03-Oct-25,International,0.102553085825635
+641,Shanghai Warehouse,Wuxi Warehouse,Pharmaceuticals,54077,2493,35,YCH,8 Bulim Ave,Singapore,China,24-Sep-25,04-Oct-25,Domestic,0.12356149159568297
+642,Shanghai Port,Singapore Warehouse,Pharmaceuticals,36926,4791,14,YCH,8 Bulim Ave,China,Singapore,25-Sep-25,05-Oct-25,International,0.025933032536398018
+643,Malaysia Port,Singapore Port,Pharmaceuticals,6121,4576,25,YCH,8 Bulim Ave,Singapore,China,26-Sep-25,06-Oct-25,Domestic,0.14577950834172493
+644,Shanghai Port,Wuxi Railway Station,Textiles,93196,3284,94,YCH,8 Bulim Ave,Malaysia,China,27-Sep-25,07-Oct-25,Domestic,0.06844585958580299
+645,Malaysia Airport,Malaysia Port,Furniture,43377,1095,18,YCH,8 Bulim Ave,Singapore,Malaysia,28-Sep-25,08-Oct-25,International,0.07001963132668788
+646,Malaysia Airport,Malaysia Airport,Pharmaceuticals,99330,3402,15,YCH,8 Bulim Ave,Malaysia,Malaysia,29-Sep-25,09-Oct-25,Domestic,0.042766607520758664
+647,Shanghai Railway Station,Singapore Port,Pharmaceuticals,2470,3042,96,YCH,8 Bulim Ave,China,Malaysia,30-Sep-25,10-Oct-25,International,0.1404497770887023
+648,Malaysia Port,Shanghai Railway Station,Pharmaceuticals,13903,15,92,YCH,8 Bulim Ave,Singapore,Singapore,01-Oct-25,11-Oct-25,International,0.024746647090007914
+649,Shanghai Railway Station,Wuxi Railway Station,Pharmaceuticals,38195,771,44,YCH,8 Bulim Ave,Singapore,Malaysia,02-Oct-25,12-Oct-25,International,0.03577863058316454
+650,Shanghai Port,Singapore Warehouse,Pharmaceuticals,96666,422,22,YCH,8 Bulim Ave,China,China,03-Oct-25,13-Oct-25,Domestic,0.055566879912448054
+651,Malaysia Railway Station,Wuxi Railway Station,Textiles,76993,4167,73,YCH,8 Bulim Ave,Singapore,Malaysia,04-Oct-25,14-Oct-25,International,0.11456578742692611
+652,Shanghai Port,Wuxi Railway Station,Pharmaceuticals,4499,1119,59,YCH,8 Bulim Ave,China,Malaysia,05-Oct-25,15-Oct-25,Domestic,0.0564392782951685
+653,Wuxi Warehouse,Singapore Port,Textiles,94201,4940,39,YCH,8 Bulim Ave,Malaysia,Malaysia,06-Oct-25,16-Oct-25,Domestic,0.12660294632554958
+654,Shanghai Airport,Wuxi Railway Station,Textiles,31910,1427,87,YCH,8 Bulim Ave,China,China,07-Oct-25,17-Oct-25,International,0.11569777223445672
+655,Shanghai Warehouse,Shanghai Airport,Textiles,3744,211,31,YCH,8 Bulim Ave,Singapore,China,08-Oct-25,18-Oct-25,International,0.017910845189862468
+656,Shanghai Airport,Shanghai Warehouse,Textiles,87371,304,20,YCH,8 Bulim Ave,Singapore,Malaysia,09-Oct-25,19-Oct-25,Domestic,0.09196347993668756
+657,Malaysia Port,Wuxi Airport,Furniture,68173,191,20,YCH,8 Bulim Ave,Malaysia,China,10-Oct-25,20-Oct-25,Domestic,0.13570672949247842
+658,Malaysia Warehouse,Malaysia Warehouse,Pharmaceuticals,71328,4784,7,YCH,8 Bulim Ave,Singapore,Malaysia,11-Oct-25,21-Oct-25,International,0.02817705569211594
+659,Malaysia Airport,Shanghai Warehouse,Furniture,77715,1116,89,YCH,8 Bulim Ave,Singapore,China,12-Oct-25,22-Oct-25,Domestic,0.09520973316210897
+660,Singapore Airport,Malaysia Railway Station,Pharmaceuticals,47771,1859,19,YCH,8 Bulim Ave,China,Singapore,13-Oct-25,23-Oct-25,Domestic,0.08021310261195161
+661,Singapore Airport,Singapore Railway Station,Textiles,45102,1246,48,YCH,8 Bulim Ave,Singapore,Singapore,14-Oct-25,24-Oct-25,International,0.019137997698314986
+662,Malaysia Railway Station,Wuxi Airport,Furniture,35270,2528,18,YCH,8 Bulim Ave,Malaysia,Singapore,15-Oct-25,25-Oct-25,Domestic,0.07493651576413357
+663,Malaysia Airport,Singapore Port,Electronics,90332,1073,82,YCH,8 Bulim Ave,China,Singapore,16-Oct-25,26-Oct-25,Domestic,0.06169445487372319
+664,Wuxi Railway Station,Malaysia Port,Furniture,31356,1419,97,YCH,8 Bulim Ave,Malaysia,Malaysia,17-Oct-25,27-Oct-25,International,0.14957265281336465
+665,Wuxi Port,Singapore Warehouse,Electronics,47660,996,47,YCH,8 Bulim Ave,China,Singapore,18-Oct-25,28-Oct-25,Domestic,0.06192307944082874
+666,Wuxi Warehouse,Singapore Warehouse,Electronics,78241,4289,68,YCH,8 Bulim Ave,Malaysia,Malaysia,19-Oct-25,29-Oct-25,Domestic,0.0349089368739098
+667,Malaysia Port,Singapore Railway Station,Textiles,24246,1521,36,YCH,8 Bulim Ave,Singapore,China,20-Oct-25,30-Oct-25,International,0.02869201089243814
+668,Wuxi Railway Station,Malaysia Port,Pharmaceuticals,99061,2873,77,YCH,8 Bulim Ave,Malaysia,Singapore,21-Oct-25,31-Oct-25,Domestic,0.026736690891776396
+669,Shanghai Railway Station,Malaysia Railway Station,Pharmaceuticals,90784,1616,78,YCH,8 Bulim Ave,Singapore,Malaysia,22-Oct-25,01-Nov-25,International,0.04106319891251639
+670,Malaysia Airport,Singapore Warehouse,Pharmaceuticals,70916,2887,33,YCH,8 Bulim Ave,China,China,23-Oct-25,02-Nov-25,Domestic,0.10103637687943418
+671,Shanghai Port,Shanghai Warehouse,Pharmaceuticals,21842,4344,32,YCH,8 Bulim Ave,China,Malaysia,24-Oct-25,03-Nov-25,Domestic,0.07605092377844885
+672,Wuxi Port,Wuxi Railway Station,Pharmaceuticals,2527,2088,18,YCH,8 Bulim Ave,Singapore,China,25-Oct-25,04-Nov-25,Domestic,0.10053341698008067
+673,Malaysia Warehouse,Wuxi Railway Station,Textiles,91418,3137,54,YCH,8 Bulim Ave,Malaysia,Malaysia,26-Oct-25,05-Nov-25,Domestic,0.10704066053389807
+674,Malaysia Airport,Singapore Warehouse,Furniture,65058,3535,52,YCH,8 Bulim Ave,China,China,27-Oct-25,06-Nov-25,Domestic,0.1461809921877396
+675,Malaysia Airport,Wuxi Airport,Textiles,25584,4659,38,YCH,8 Bulim Ave,Singapore,Singapore,28-Oct-25,07-Nov-25,Domestic,0.032136104456270874
+676,Shanghai Airport,Malaysia Airport,Pharmaceuticals,76086,173,57,YCH,8 Bulim Ave,Singapore,Singapore,29-Oct-25,08-Nov-25,Domestic,0.12098942322475621
+677,Malaysia Airport,Malaysia Airport,Electronics,33385,2618,10,YCH,8 Bulim Ave,China,Singapore,30-Oct-25,09-Nov-25,International,0.09413942321284073
+678,Shanghai Port,Singapore Warehouse,Textiles,35125,1352,61,YCH,8 Bulim Ave,Malaysia,China,31-Oct-25,10-Nov-25,Domestic,0.06170819772433541
+679,Wuxi Warehouse,Malaysia Railway Station,Furniture,14772,580,43,YCH,8 Bulim Ave,Malaysia,Malaysia,01-Nov-25,11-Nov-25,Domestic,0.09963964451165484
+680,Shanghai Warehouse,Wuxi Warehouse,Furniture,74296,544,6,YCH,8 Bulim Ave,Malaysia,Malaysia,02-Nov-25,12-Nov-25,Domestic,0.06093034283111374
+681,Shanghai Railway Station,Wuxi Port,Pharmaceuticals,72216,1019,57,YCH,8 Bulim Ave,Malaysia,Malaysia,03-Nov-25,13-Nov-25,International,0.12396290619052575
+682,Singapore Railway Station,Singapore Port,Textiles,62892,2673,85,YCH,8 Bulim Ave,Singapore,China,04-Nov-25,14-Nov-25,Domestic,0.08532648350850795
+683,Singapore Port,Wuxi Port,Pharmaceuticals,27764,1416,71,YCH,8 Bulim Ave,China,China,05-Nov-25,15-Nov-25,Domestic,0.13470349912854246
+684,Wuxi Airport,Shanghai Railway Station,Furniture,17013,1639,71,YCH,8 Bulim Ave,Malaysia,Malaysia,06-Nov-25,16-Nov-25,Domestic,0.048737749935108335
+685,Malaysia Port,Malaysia Warehouse,Furniture,36054,383,19,YCH,8 Bulim Ave,Malaysia,Singapore,07-Nov-25,17-Nov-25,Domestic,0.11939355778601277
+686,Wuxi Warehouse,Malaysia Warehouse,Furniture,22639,2138,1,YCH,8 Bulim Ave,Singapore,Malaysia,08-Nov-25,18-Nov-25,Domestic,0.025389907917532352
+687,Wuxi Port,Singapore Port,Electronics,96160,603,8,YCH,8 Bulim Ave,Malaysia,China,09-Nov-25,19-Nov-25,Domestic,0.1486315769572324
+688,Wuxi Port,Singapore Warehouse,Furniture,78453,356,21,YCH,8 Bulim Ave,Malaysia,China,10-Nov-25,20-Nov-25,International,0.07391445947655445
+689,Wuxi Port,Singapore Railway Station,Textiles,50692,1751,43,YCH,8 Bulim Ave,China,Singapore,11-Nov-25,21-Nov-25,Domestic,0.04060031607813771
+690,Malaysia Railway Station,Wuxi Railway Station,Pharmaceuticals,37142,3491,6,YCH,8 Bulim Ave,China,Malaysia,12-Nov-25,22-Nov-25,International,0.1024739720631354
+691,Shanghai Port,Malaysia Airport,Pharmaceuticals,74319,2156,66,YCH,8 Bulim Ave,Singapore,China,13-Nov-25,23-Nov-25,International,0.11245113878952188
+692,Singapore Railway Station,Singapore Warehouse,Furniture,81156,4703,75,YCH,8 Bulim Ave,China,Malaysia,14-Nov-25,24-Nov-25,Domestic,0.14430387037422396
+693,Malaysia Port,Shanghai Airport,Electronics,94295,2210,91,YCH,8 Bulim Ave,Malaysia,Malaysia,15-Nov-25,25-Nov-25,International,0.016734264150384967
+694,Singapore Airport,Wuxi Warehouse,Textiles,85568,3300,29,YCH,8 Bulim Ave,China,Singapore,16-Nov-25,26-Nov-25,Domestic,0.13174666504895868
+695,Malaysia Warehouse,Shanghai Railway Station,Furniture,79600,2628,13,YCH,8 Bulim Ave,Malaysia,Malaysia,17-Nov-25,27-Nov-25,International,0.048023940317769354
+696,Wuxi Airport,Shanghai Railway Station,Furniture,79468,4864,49,YCH,8 Bulim Ave,China,Malaysia,18-Nov-25,28-Nov-25,International,0.03693075070579194
+697,Singapore Warehouse,Shanghai Port,Pharmaceuticals,99320,1537,42,YCH,8 Bulim Ave,Malaysia,Malaysia,19-Nov-25,29-Nov-25,Domestic,0.12840100302581192
+698,Malaysia Warehouse,Singapore Railway Station,Furniture,8332,155,6,YCH,8 Bulim Ave,Singapore,Singapore,20-Nov-25,30-Nov-25,International,0.09035049387970782
+699,Malaysia Port,Malaysia Port,Electronics,33457,2271,23,YCH,8 Bulim Ave,Malaysia,Malaysia,21-Nov-25,01-Dec-25,Domestic,0.049167051505175696
+700,Malaysia Warehouse,Malaysia Warehouse,Pharmaceuticals,91481,1532,6,YCH,8 Bulim Ave,Singapore,Malaysia,22-Nov-25,02-Dec-25,Domestic,0.014628733285629664
+701,Shanghai Railway Station,Malaysia Port,Electronics,85111,3425,29,YCH,8 Bulim Ave,China,Singapore,23-Nov-25,03-Dec-25,International,0.14936583338320755
+702,Shanghai Port,Shanghai Warehouse,Pharmaceuticals,63750,4673,57,YCH,8 Bulim Ave,Malaysia,Singapore,24-Nov-25,04-Dec-25,International,0.07639176032374585
+703,Singapore Railway Station,Singapore Railway Station,Electronics,85068,2207,1,YCH,8 Bulim Ave,Malaysia,China,25-Nov-25,05-Dec-25,International,0.06149907261827403
+704,Shanghai Port,Wuxi Port,Furniture,81934,2310,91,YCH,8 Bulim Ave,Singapore,China,26-Nov-25,06-Dec-25,Domestic,0.04286425538213057
+705,Singapore Railway Station,Shanghai Warehouse,Textiles,36791,2512,19,YCH,8 Bulim Ave,Singapore,Singapore,27-Nov-25,07-Dec-25,Domestic,0.036629129490124486
+706,Wuxi Airport,Wuxi Port,Textiles,97092,4005,36,YCH,8 Bulim Ave,Malaysia,Malaysia,28-Nov-25,08-Dec-25,International,0.08188506090497
+707,Shanghai Airport,Singapore Airport,Electronics,90050,3091,48,YCH,8 Bulim Ave,Malaysia,Malaysia,29-Nov-25,09-Dec-25,Domestic,0.1412138444254743
+708,Malaysia Port,Shanghai Warehouse,Electronics,71336,2524,19,YCH,8 Bulim Ave,Malaysia,China,30-Nov-25,10-Dec-25,Domestic,0.039619654249346534
+709,Malaysia Railway Station,Wuxi Warehouse,Furniture,78654,2228,46,YCH,8 Bulim Ave,Singapore,Malaysia,01-Dec-25,11-Dec-25,Domestic,0.0271382605697292
+710,Shanghai Warehouse,Singapore Railway Station,Textiles,17277,78,95,YCH,8 Bulim Ave,China,China,02-Dec-25,12-Dec-25,Domestic,0.06251551089777826
+711,Wuxi Airport,Wuxi Airport,Furniture,97170,3059,84,YCH,8 Bulim Ave,China,China,03-Dec-25,13-Dec-25,Domestic,0.13469109716824854
+712,Malaysia Port,Singapore Railway Station,Textiles,78239,1789,75,YCH,8 Bulim Ave,Singapore,Singapore,04-Dec-25,14-Dec-25,International,0.024230954481170422
+713,Singapore Railway Station,Shanghai Warehouse,Electronics,60194,1149,83,YCH,8 Bulim Ave,Singapore,Singapore,05-Dec-25,15-Dec-25,International,0.07410984572386621
+714,Wuxi Warehouse,Shanghai Warehouse,Electronics,5146,2749,25,YCH,8 Bulim Ave,China,China,06-Dec-25,16-Dec-25,Domestic,0.12078899831196464
+715,Wuxi Warehouse,Singapore Railway Station,Textiles,6654,4847,51,YCH,8 Bulim Ave,China,China,07-Dec-25,17-Dec-25,Domestic,0.032590433817151425
+716,Shanghai Airport,Wuxi Port,Pharmaceuticals,1429,4786,53,YCH,8 Bulim Ave,Singapore,China,08-Dec-25,18-Dec-25,Domestic,0.03309130102054855
+717,Wuxi Railway Station,Shanghai Railway Station,Furniture,97152,698,55,YCH,8 Bulim Ave,Malaysia,Malaysia,09-Dec-25,19-Dec-25,Domestic,0.047557629693472915
+718,Wuxi Railway Station,Wuxi Port,Electronics,17562,1642,75,YCH,8 Bulim Ave,Malaysia,China,10-Dec-25,20-Dec-25,Domestic,0.11712622621460657
+719,Singapore Warehouse,Singapore Port,Electronics,11758,2004,61,YCH,8 Bulim Ave,Malaysia,China,11-Dec-25,21-Dec-25,International,0.10932084933316863
+720,Shanghai Airport,Malaysia Port,Furniture,34533,404,10,YCH,8 Bulim Ave,China,China,12-Dec-25,22-Dec-25,International,0.12436632775494676
+721,Shanghai Port,Wuxi Railway Station,Furniture,99995,2601,78,YCH,8 Bulim Ave,China,Malaysia,13-Dec-25,23-Dec-25,International,0.12576388725370932
+722,Malaysia Warehouse,Wuxi Warehouse,Textiles,12493,462,33,YCH,8 Bulim Ave,Malaysia,Malaysia,14-Dec-25,24-Dec-25,Domestic,0.11182112544180807
+723,Malaysia Warehouse,Malaysia Warehouse,Electronics,84646,3969,30,YCH,8 Bulim Ave,China,Singapore,15-Dec-25,25-Dec-25,Domestic,0.041721879819385264
+724,Singapore Warehouse,Malaysia Railway Station,Electronics,22974,3446,55,YCH,8 Bulim Ave,Singapore,Malaysia,16-Dec-25,26-Dec-25,International,0.03361146656174271
+725,Shanghai Railway Station,Singapore Port,Electronics,2626,187,33,YCH,8 Bulim Ave,Malaysia,Malaysia,17-Dec-25,27-Dec-25,Domestic,0.019799366324491433
+726,Malaysia Airport,Singapore Airport,Furniture,65195,1928,13,YCH,8 Bulim Ave,Singapore,China,18-Dec-25,28-Dec-25,Domestic,0.07279687566784415
+727,Singapore Railway Station,Singapore Railway Station,Textiles,23567,2002,77,YCH,8 Bulim Ave,Singapore,China,19-Dec-25,29-Dec-25,Domestic,0.09079412437131813
+728,Wuxi Warehouse,Wuxi Warehouse,Pharmaceuticals,65860,1074,45,YCH,8 Bulim Ave,China,Singapore,20-Dec-25,30-Dec-25,International,0.0801653889685089
+729,Malaysia Airport,Shanghai Warehouse,Furniture,33398,4555,1,YCH,8 Bulim Ave,China,Singapore,21-Dec-25,31-Dec-25,Domestic,0.06799421102594413
+730,Malaysia Warehouse,Shanghai Railway Station,Furniture,40729,2208,1,YCH,8 Bulim Ave,China,China,22-Dec-25,01-Jan-26,International,0.0774483104521839
+731,Shanghai Railway Station,Malaysia Railway Station,Pharmaceuticals,4480,798,29,YCH,8 Bulim Ave,Malaysia,Malaysia,23-Dec-25,02-Jan-26,International,0.049280654222279736
+732,Shanghai Port,Malaysia Airport,Electronics,82070,3110,71,YCH,8 Bulim Ave,Singapore,Singapore,24-Dec-25,03-Jan-26,Domestic,0.028718570176031438
+733,Wuxi Warehouse,Singapore Railway Station,Electronics,56407,2230,72,YCH,8 Bulim Ave,Singapore,China,25-Dec-25,04-Jan-26,Domestic,0.14828639835402402
+734,Wuxi Railway Station,Singapore Railway Station,Pharmaceuticals,22645,1052,3,YCH,8 Bulim Ave,Singapore,China,26-Dec-25,05-Jan-26,Domestic,0.14697236704350036
+735,Shanghai Warehouse,Shanghai Railway Station,Furniture,67063,776,3,YCH,8 Bulim Ave,Malaysia,Singapore,27-Dec-25,06-Jan-26,International,0.09277648934202333
+736,Shanghai Airport,Shanghai Railway Station,Electronics,5544,3410,21,YCH,8 Bulim Ave,Singapore,Singapore,28-Dec-25,07-Jan-26,Domestic,0.09546550871132652
+737,Malaysia Railway Station,Wuxi Airport,Pharmaceuticals,53847,1319,3,YCH,8 Bulim Ave,Malaysia,China,29-Dec-25,08-Jan-26,Domestic,0.015316853029339701
+738,Singapore Warehouse,Singapore Port,Textiles,24605,3585,13,YCH,8 Bulim Ave,China,China,30-Dec-25,09-Jan-26,Domestic,0.020007547547759286
+739,Shanghai Airport,Malaysia Warehouse,Furniture,15729,1265,54,YCH,8 Bulim Ave,Singapore,Malaysia,31-Dec-25,10-Jan-26,Domestic,0.020050525990987826
+740,Shanghai Railway Station,Singapore Warehouse,Textiles,18718,4617,31,YCH,8 Bulim Ave,Malaysia,China,01-Jan-26,11-Jan-26,Domestic,0.1193759815254144
+741,Shanghai Railway Station,Singapore Warehouse,Textiles,7553,3305,11,YCH,8 Bulim Ave,Malaysia,Malaysia,02-Jan-26,12-Jan-26,International,0.037493320612144936
+742,Singapore Warehouse,Malaysia Warehouse,Furniture,57657,1031,42,YCH,8 Bulim Ave,Singapore,Singapore,03-Jan-26,13-Jan-26,Domestic,0.06742559174749303
+743,Singapore Railway Station,Shanghai Port,Pharmaceuticals,10500,1905,57,YCH,8 Bulim Ave,Singapore,China,04-Jan-26,14-Jan-26,Domestic,0.06286732515735105
+744,Wuxi Railway Station,Shanghai Airport,Textiles,32409,3192,27,YCH,8 Bulim Ave,Malaysia,Malaysia,05-Jan-26,15-Jan-26,Domestic,0.13020424126965396
+745,Shanghai Warehouse,Shanghai Airport,Pharmaceuticals,85796,4608,33,YCH,8 Bulim Ave,China,China,06-Jan-26,16-Jan-26,Domestic,0.024433337328661785
+746,Singapore Airport,Shanghai Airport,Pharmaceuticals,56551,579,12,YCH,8 Bulim Ave,Singapore,Singapore,07-Jan-26,17-Jan-26,International,0.049396175579440656
+747,Singapore Warehouse,Malaysia Railway Station,Textiles,33846,1969,23,YCH,8 Bulim Ave,Malaysia,Malaysia,08-Jan-26,18-Jan-26,Domestic,0.0656159036324883
+748,Wuxi Railway Station,Malaysia Warehouse,Pharmaceuticals,77937,2992,41,YCH,8 Bulim Ave,Singapore,China,09-Jan-26,19-Jan-26,Domestic,0.09804651217350811
+749,Wuxi Railway Station,Singapore Port,Electronics,28246,1949,42,YCH,8 Bulim Ave,China,Singapore,10-Jan-26,20-Jan-26,Domestic,0.0972970096914984
+750,Malaysia Warehouse,Wuxi Warehouse,Furniture,38594,3869,19,YCH,8 Bulim Ave,Malaysia,China,11-Jan-26,21-Jan-26,Domestic,0.03162568635667157
+751,Shanghai Airport,Shanghai Port,Pharmaceuticals,34305,1143,80,YCH,8 Bulim Ave,Malaysia,China,12-Jan-26,22-Jan-26,International,0.13227258510592832
+752,Singapore Airport,Malaysia Warehouse,Pharmaceuticals,41517,4884,55,YCH,8 Bulim Ave,China,Malaysia,13-Jan-26,23-Jan-26,Domestic,0.12078993425162125
+753,Wuxi Airport,Wuxi Airport,Textiles,28478,4396,2,YCH,8 Bulim Ave,Malaysia,Singapore,14-Jan-26,24-Jan-26,International,0.05170679322619446
+754,Malaysia Port,Singapore Railway Station,Electronics,55136,1681,84,YCH,8 Bulim Ave,Singapore,Malaysia,15-Jan-26,25-Jan-26,International,0.016046829324019424
+755,Shanghai Airport,Wuxi Warehouse,Pharmaceuticals,9850,3156,61,YCH,8 Bulim Ave,China,China,16-Jan-26,26-Jan-26,International,0.03765074010058231
+756,Shanghai Warehouse,Singapore Port,Textiles,24395,1698,2,YCH,8 Bulim Ave,China,Singapore,17-Jan-26,27-Jan-26,International,0.08485313716224427
+757,Wuxi Airport,Shanghai Airport,Textiles,43590,558,41,YCH,8 Bulim Ave,China,Singapore,18-Jan-26,28-Jan-26,Domestic,0.01659036950518461
+758,Shanghai Warehouse,Malaysia Railway Station,Pharmaceuticals,71237,1439,6,YCH,8 Bulim Ave,Malaysia,Malaysia,19-Jan-26,29-Jan-26,International,0.1095932682794165
+759,Singapore Airport,Wuxi Warehouse,Furniture,64936,1960,89,YCH,8 Bulim Ave,China,China,20-Jan-26,30-Jan-26,Domestic,0.036947259557273085
+760,Shanghai Airport,Shanghai Airport,Textiles,8570,2733,85,YCH,8 Bulim Ave,Malaysia,Singapore,21-Jan-26,31-Jan-26,International,0.045726396413905517
+761,Wuxi Railway Station,Singapore Port,Textiles,60194,497,99,YCH,8 Bulim Ave,China,Malaysia,22-Jan-26,01-Feb-26,International,0.04155734331165235
+762,Shanghai Airport,Singapore Port,Textiles,44179,38,63,YCH,8 Bulim Ave,China,China,23-Jan-26,02-Feb-26,Domestic,0.13799794118862524
+763,Singapore Warehouse,Shanghai Railway Station,Textiles,71804,4727,24,YCH,8 Bulim Ave,Singapore,Malaysia,24-Jan-26,03-Feb-26,International,0.14373303147385272
+764,Singapore Warehouse,Wuxi Railway Station,Pharmaceuticals,84084,27,97,YCH,8 Bulim Ave,Singapore,Singapore,25-Jan-26,04-Feb-26,International,0.06648071526847742
+765,Singapore Railway Station,Singapore Port,Pharmaceuticals,43129,513,5,YCH,8 Bulim Ave,Singapore,China,26-Jan-26,05-Feb-26,Domestic,0.08784109169445854
+766,Malaysia Airport,Shanghai Warehouse,Electronics,33830,590,19,YCH,8 Bulim Ave,Malaysia,Singapore,27-Jan-26,06-Feb-26,International,0.017912833445114774
+767,Wuxi Port,Wuxi Airport,Electronics,16055,58,27,YCH,8 Bulim Ave,Singapore,China,28-Jan-26,07-Feb-26,International,0.05519377173524968
+768,Singapore Port,Singapore Airport,Pharmaceuticals,99768,476,48,YCH,8 Bulim Ave,Singapore,Singapore,29-Jan-26,08-Feb-26,Domestic,0.052210112750742166
+769,Wuxi Port,Malaysia Airport,Textiles,80487,4879,37,YCH,8 Bulim Ave,China,China,30-Jan-26,09-Feb-26,Domestic,0.14165874808249213
+770,Singapore Port,Shanghai Port,Furniture,42175,734,52,YCH,8 Bulim Ave,China,Singapore,31-Jan-26,10-Feb-26,Domestic,0.11266329822813673
+771,Malaysia Railway Station,Wuxi Airport,Electronics,11512,2656,70,YCH,8 Bulim Ave,Singapore,Singapore,01-Feb-26,11-Feb-26,International,0.12102376029119667
+772,Singapore Airport,Shanghai Port,Furniture,55355,153,93,YCH,8 Bulim Ave,Singapore,China,02-Feb-26,12-Feb-26,International,0.10091771679372195
+773,Singapore Airport,Malaysia Airport,Furniture,55422,2658,83,YCH,8 Bulim Ave,Singapore,Singapore,03-Feb-26,13-Feb-26,Domestic,0.052777563586764734
+774,Singapore Warehouse,Singapore Warehouse,Pharmaceuticals,49696,4495,67,YCH,8 Bulim Ave,Singapore,Malaysia,04-Feb-26,14-Feb-26,International,0.12293303902467981
+775,Shanghai Warehouse,Malaysia Warehouse,Electronics,82783,1825,58,YCH,8 Bulim Ave,Singapore,Singapore,05-Feb-26,15-Feb-26,International,0.09485409016089644
+776,Singapore Airport,Shanghai Port,Electronics,3763,1371,5,YCH,8 Bulim Ave,China,China,06-Feb-26,16-Feb-26,International,0.026703450970101697
+777,Wuxi Airport,Singapore Airport,Pharmaceuticals,26893,779,26,YCH,8 Bulim Ave,Malaysia,Malaysia,07-Feb-26,17-Feb-26,International,0.05729665623097891
+778,Shanghai Warehouse,Singapore Warehouse,Electronics,10988,233,98,YCH,8 Bulim Ave,Singapore,Malaysia,08-Feb-26,18-Feb-26,International,0.10552452825819938
+779,Singapore Port,Shanghai Airport,Electronics,57404,1887,80,YCH,8 Bulim Ave,Malaysia,China,09-Feb-26,19-Feb-26,Domestic,0.037856347101011156
+780,Singapore Warehouse,Singapore Airport,Electronics,37467,1075,32,YCH,8 Bulim Ave,Singapore,China,10-Feb-26,20-Feb-26,International,0.04066466292718741
+781,Wuxi Railway Station,Wuxi Railway Station,Pharmaceuticals,84595,2174,95,YCH,8 Bulim Ave,Singapore,Singapore,11-Feb-26,21-Feb-26,International,0.1444917427346206
+782,Malaysia Warehouse,Shanghai Warehouse,Pharmaceuticals,74725,792,1,YCH,8 Bulim Ave,Singapore,Malaysia,12-Feb-26,22-Feb-26,Domestic,0.052559223433067806
+783,Malaysia Airport,Malaysia Warehouse,Electronics,92186,191,74,YCH,8 Bulim Ave,China,Singapore,13-Feb-26,23-Feb-26,Domestic,0.14882419018431203
+784,Malaysia Port,Shanghai Railway Station,Pharmaceuticals,41949,599,58,YCH,8 Bulim Ave,China,Malaysia,14-Feb-26,24-Feb-26,International,0.09851546407184737
+785,Singapore Railway Station,Singapore Railway Station,Pharmaceuticals,78090,2953,28,YCH,8 Bulim Ave,Malaysia,China,15-Feb-26,25-Feb-26,Domestic,0.053392728095985796
+786,Singapore Port,Malaysia Warehouse,Electronics,70008,1182,35,YCH,8 Bulim Ave,China,China,16-Feb-26,26-Feb-26,Domestic,0.10263931895159698
+787,Shanghai Railway Station,Wuxi Airport,Pharmaceuticals,95663,3450,66,YCH,8 Bulim Ave,China,China,17-Feb-26,27-Feb-26,International,0.015971280451687928
+788,Malaysia Airport,Malaysia Railway Station,Furniture,21383,627,71,YCH,8 Bulim Ave,Singapore,Malaysia,18-Feb-26,28-Feb-26,Domestic,0.05279811183108581
+789,Malaysia Warehouse,Malaysia Warehouse,Textiles,61244,1262,5,YCH,8 Bulim Ave,Singapore,Singapore,19-Feb-26,01-Mar-26,International,0.059996198147862924
+790,Singapore Railway Station,Shanghai Port,Textiles,98735,3097,26,YCH,8 Bulim Ave,China,China,20-Feb-26,02-Mar-26,Domestic,0.020755294878724673
+791,Singapore Airport,Shanghai Warehouse,Pharmaceuticals,55779,2283,94,YCH,8 Bulim Ave,Singapore,Malaysia,21-Feb-26,03-Mar-26,International,0.07272294154325169
+792,Wuxi Port,Malaysia Warehouse,Pharmaceuticals,4646,2537,54,YCH,8 Bulim Ave,Malaysia,Malaysia,22-Feb-26,04-Mar-26,Domestic,0.1177377668222896
+793,Singapore Railway Station,Wuxi Airport,Furniture,49780,1151,59,YCH,8 Bulim Ave,Singapore,Singapore,23-Feb-26,05-Mar-26,International,0.12237068682720076
+794,Shanghai Airport,Malaysia Port,Furniture,81000,2344,58,YCH,8 Bulim Ave,Malaysia,China,24-Feb-26,06-Mar-26,Domestic,0.07410922050408957
+795,Singapore Airport,Shanghai Railway Station,Pharmaceuticals,93313,3155,41,YCH,8 Bulim Ave,China,Malaysia,25-Feb-26,07-Mar-26,International,0.02289322832748042
+796,Wuxi Airport,Shanghai Warehouse,Electronics,90634,4574,57,YCH,8 Bulim Ave,Singapore,Singapore,26-Feb-26,08-Mar-26,Domestic,0.04430999465179744
+797,Wuxi Railway Station,Malaysia Airport,Electronics,34385,2998,80,YCH,8 Bulim Ave,China,Singapore,27-Feb-26,09-Mar-26,Domestic,0.11114155738616388
+798,Wuxi Railway Station,Malaysia Airport,Electronics,57535,635,50,YCH,8 Bulim Ave,Malaysia,China,28-Feb-26,10-Mar-26,International,0.13074998592068188
+799,Shanghai Warehouse,Shanghai Airport,Textiles,19461,1100,72,YCH,8 Bulim Ave,Singapore,China,01-Mar-26,11-Mar-26,Domestic,0.08113781978066711
+800,Shanghai Airport,Malaysia Warehouse,Electronics,76324,4653,68,YCH,8 Bulim Ave,Singapore,China,02-Mar-26,12-Mar-26,International,0.07473135124095959
+801,Shanghai Warehouse,Singapore Warehouse,Furniture,77464,3749,10,YCH,8 Bulim Ave,China,China,03-Mar-26,13-Mar-26,International,0.07097149080896985
+802,Malaysia Port,Wuxi Airport,Electronics,59832,3194,24,YCH,8 Bulim Ave,Malaysia,Malaysia,04-Mar-26,14-Mar-26,Domestic,0.11393102889018938
+803,Malaysia Airport,Wuxi Port,Electronics,5679,697,21,YCH,8 Bulim Ave,China,Malaysia,05-Mar-26,15-Mar-26,International,0.10767417602015278
+804,Singapore Warehouse,Wuxi Airport,Electronics,97686,2154,34,YCH,8 Bulim Ave,China,Malaysia,06-Mar-26,16-Mar-26,International,0.10144949935231276
+805,Singapore Port,Wuxi Port,Electronics,32312,2202,53,YCH,8 Bulim Ave,China,China,07-Mar-26,17-Mar-26,Domestic,0.0830354696802266
+806,Singapore Railway Station,Singapore Railway Station,Pharmaceuticals,59029,2122,18,YCH,8 Bulim Ave,Singapore,China,08-Mar-26,18-Mar-26,International,0.0848029842191043
+807,Wuxi Railway Station,Singapore Port,Furniture,48116,1887,43,YCH,8 Bulim Ave,China,Malaysia,09-Mar-26,19-Mar-26,International,0.05626675155602936
+808,Malaysia Railway Station,Shanghai Railway Station,Furniture,11905,4515,80,YCH,8 Bulim Ave,China,China,10-Mar-26,20-Mar-26,Domestic,0.019175089268183274
+809,Singapore Airport,Shanghai Warehouse,Furniture,54067,2019,93,YCH,8 Bulim Ave,Malaysia,Singapore,11-Mar-26,21-Mar-26,Domestic,0.12962608694007227
+810,Singapore Railway Station,Singapore Warehouse,Electronics,40576,477,25,YCH,8 Bulim Ave,China,China,12-Mar-26,22-Mar-26,International,0.11202763314946115
+811,Singapore Railway Station,Malaysia Port,Electronics,3078,3023,86,YCH,8 Bulim Ave,Singapore,Malaysia,13-Mar-26,23-Mar-26,International,0.11039055302149398
+812,Singapore Port,Malaysia Railway Station,Textiles,69073,3190,14,YCH,8 Bulim Ave,China,Malaysia,14-Mar-26,24-Mar-26,International,0.028070955283106228
+813,Shanghai Railway Station,Shanghai Warehouse,Pharmaceuticals,6809,4666,85,YCH,8 Bulim Ave,China,Singapore,15-Mar-26,25-Mar-26,International,0.03923623536390585
+814,Singapore Port,Shanghai Airport,Textiles,90215,1155,54,YCH,8 Bulim Ave,China,Singapore,16-Mar-26,26-Mar-26,Domestic,0.12001919264972531
+815,Malaysia Airport,Singapore Airport,Pharmaceuticals,84792,1062,5,YCH,8 Bulim Ave,Singapore,China,17-Mar-26,27-Mar-26,International,0.10914495206046543
+816,Malaysia Railway Station,Malaysia Warehouse,Furniture,99173,4725,50,YCH,8 Bulim Ave,Singapore,Malaysia,18-Mar-26,28-Mar-26,International,0.03652342400047945
+817,Wuxi Port,Singapore Railway Station,Textiles,71384,761,53,YCH,8 Bulim Ave,Malaysia,Malaysia,19-Mar-26,29-Mar-26,Domestic,0.14713034423244678
+818,Singapore Railway Station,Wuxi Port,Textiles,65704,4375,52,YCH,8 Bulim Ave,Singapore,Malaysia,20-Mar-26,30-Mar-26,Domestic,0.018369102355050234
+819,Shanghai Railway Station,Shanghai Port,Textiles,75795,3117,23,YCH,8 Bulim Ave,Malaysia,Malaysia,21-Mar-26,31-Mar-26,Domestic,0.021837119901898728
+820,Shanghai Port,Malaysia Port,Pharmaceuticals,25812,2249,90,YCH,8 Bulim Ave,Singapore,China,22-Mar-26,01-Apr-26,Domestic,0.033957157229138106
+821,Shanghai Port,Wuxi Airport,Furniture,64526,718,29,YCH,8 Bulim Ave,Malaysia,Singapore,23-Mar-26,02-Apr-26,International,0.13781944978955088
+822,Shanghai Port,Malaysia Warehouse,Textiles,65504,4878,82,YCH,8 Bulim Ave,Malaysia,Singapore,24-Mar-26,03-Apr-26,Domestic,0.1133697137086143
+823,Malaysia Railway Station,Malaysia Warehouse,Electronics,93364,2658,6,YCH,8 Bulim Ave,Malaysia,Malaysia,25-Mar-26,04-Apr-26,International,0.06242343876936975
+824,Wuxi Airport,Wuxi Warehouse,Furniture,29446,3916,36,YCH,8 Bulim Ave,Singapore,Malaysia,26-Mar-26,05-Apr-26,International,0.12314050642527616
+825,Singapore Railway Station,Singapore Railway Station,Pharmaceuticals,69445,295,86,YCH,8 Bulim Ave,Singapore,Malaysia,27-Mar-26,06-Apr-26,International,0.127249959417248
+826,Wuxi Airport,Wuxi Warehouse,Textiles,78111,3651,72,YCH,8 Bulim Ave,Singapore,Malaysia,28-Mar-26,07-Apr-26,Domestic,0.14383378276784864
+827,Malaysia Port,Wuxi Airport,Pharmaceuticals,87033,3620,29,YCH,8 Bulim Ave,Singapore,China,29-Mar-26,08-Apr-26,Domestic,0.01568801988637728
+828,Singapore Airport,Singapore Railway Station,Electronics,97145,1875,80,YCH,8 Bulim Ave,Singapore,Malaysia,30-Mar-26,09-Apr-26,Domestic,0.017980650188953437
+829,Shanghai Port,Singapore Railway Station,Furniture,26022,577,60,YCH,8 Bulim Ave,China,China,31-Mar-26,10-Apr-26,Domestic,0.12530937703094375
+830,Wuxi Railway Station,Shanghai Warehouse,Electronics,80213,3601,43,YCH,8 Bulim Ave,Singapore,China,01-Apr-26,11-Apr-26,International,0.09184268190993537
+831,Singapore Airport,Singapore Railway Station,Electronics,77664,4692,13,YCH,8 Bulim Ave,Singapore,Singapore,02-Apr-26,12-Apr-26,Domestic,0.010147824719751
+832,Malaysia Port,Shanghai Airport,Textiles,46435,110,7,YCH,8 Bulim Ave,China,Singapore,03-Apr-26,13-Apr-26,International,0.14038174899433165
+833,Singapore Warehouse,Malaysia Warehouse,Textiles,45467,220,9,YCH,8 Bulim Ave,China,Malaysia,04-Apr-26,14-Apr-26,Domestic,0.14333617801292722
+834,Singapore Warehouse,Wuxi Airport,Textiles,23205,2452,42,YCH,8 Bulim Ave,Malaysia,China,05-Apr-26,15-Apr-26,International,0.08320815573756432
+835,Shanghai Warehouse,Malaysia Airport,Electronics,14312,327,72,YCH,8 Bulim Ave,Singapore,Singapore,06-Apr-26,16-Apr-26,Domestic,0.034685055263491985
+836,Malaysia Airport,Shanghai Port,Textiles,55567,2200,95,YCH,8 Bulim Ave,Singapore,China,07-Apr-26,17-Apr-26,Domestic,0.01610308520488632
+837,Malaysia Warehouse,Malaysia Warehouse,Electronics,78027,990,4,YCH,8 Bulim Ave,Singapore,Singapore,08-Apr-26,18-Apr-26,Domestic,0.011735624698540581
+838,Wuxi Warehouse,Shanghai Railway Station,Electronics,59036,3704,26,YCH,8 Bulim Ave,China,China,09-Apr-26,19-Apr-26,Domestic,0.1173546747538675
+839,Wuxi Railway Station,Wuxi Airport,Furniture,8036,4142,29,YCH,8 Bulim Ave,Singapore,China,10-Apr-26,20-Apr-26,International,0.11862646003709981
+840,Wuxi Railway Station,Shanghai Airport,Pharmaceuticals,71738,2242,79,YCH,8 Bulim Ave,Singapore,Singapore,11-Apr-26,21-Apr-26,Domestic,0.021300144784247424
+841,Wuxi Port,Malaysia Airport,Furniture,66908,3956,1,YCH,8 Bulim Ave,China,China,12-Apr-26,22-Apr-26,International,0.1339493421458304
+842,Shanghai Railway Station,Malaysia Airport,Electronics,3806,4630,22,YCH,8 Bulim Ave,Singapore,Singapore,13-Apr-26,23-Apr-26,International,0.021993514954430027
+843,Singapore Airport,Singapore Airport,Textiles,85033,1471,43,YCH,8 Bulim Ave,Malaysia,Singapore,14-Apr-26,24-Apr-26,Domestic,0.04316404064751103
+844,Shanghai Airport,Malaysia Railway Station,Pharmaceuticals,8209,3298,91,YCH,8 Bulim Ave,Malaysia,Singapore,15-Apr-26,25-Apr-26,Domestic,0.02982813108121505
+845,Singapore Warehouse,Wuxi Airport,Pharmaceuticals,61534,2084,98,YCH,8 Bulim Ave,Malaysia,Malaysia,16-Apr-26,26-Apr-26,Domestic,0.08977488130267477
+846,Malaysia Airport,Shanghai Airport,Pharmaceuticals,31223,1724,81,YCH,8 Bulim Ave,Singapore,Singapore,17-Apr-26,27-Apr-26,International,0.10731264646448066
+847,Malaysia Airport,Malaysia Warehouse,Pharmaceuticals,99251,3247,28,YCH,8 Bulim Ave,Singapore,China,18-Apr-26,28-Apr-26,International,0.13307060498444595
+848,Singapore Airport,Shanghai Airport,Electronics,27058,940,80,YCH,8 Bulim Ave,Singapore,China,19-Apr-26,29-Apr-26,Domestic,0.13315131393551718
+849,Malaysia Railway Station,Shanghai Railway Station,Furniture,8369,811,54,YCH,8 Bulim Ave,Singapore,Singapore,20-Apr-26,30-Apr-26,Domestic,0.029222332215808056
+850,Malaysia Railway Station,Singapore Warehouse,Pharmaceuticals,97454,1100,24,YCH,8 Bulim Ave,China,China,21-Apr-26,01-May-26,International,0.033876317602868154
+851,Wuxi Airport,Shanghai Railway Station,Pharmaceuticals,41683,1626,6,YCH,8 Bulim Ave,Malaysia,Singapore,22-Apr-26,02-May-26,International,0.13639643948437702
+852,Wuxi Port,Singapore Warehouse,Furniture,53550,1945,9,YCH,8 Bulim Ave,Malaysia,Singapore,23-Apr-26,03-May-26,Domestic,0.11712903191214244
+853,Shanghai Airport,Wuxi Port,Textiles,63186,2585,35,YCH,8 Bulim Ave,Singapore,China,24-Apr-26,04-May-26,International,0.0124474968969313
+854,Malaysia Warehouse,Malaysia Airport,Furniture,85673,3943,11,YCH,8 Bulim Ave,Malaysia,Singapore,25-Apr-26,05-May-26,International,0.14831366943537008
+855,Wuxi Warehouse,Wuxi Airport,Pharmaceuticals,49676,3223,64,YCH,8 Bulim Ave,China,China,26-Apr-26,06-May-26,Domestic,0.04825657702468697
+856,Malaysia Port,Wuxi Railway Station,Pharmaceuticals,4749,3217,7,YCH,8 Bulim Ave,Singapore,China,27-Apr-26,07-May-26,International,0.04008023763667064
+857,Wuxi Airport,Wuxi Port,Furniture,47464,641,51,YCH,8 Bulim Ave,China,Singapore,28-Apr-26,08-May-26,Domestic,0.03118522148009118
+858,Malaysia Port,Singapore Port,Textiles,69326,2045,20,YCH,8 Bulim Ave,Singapore,Malaysia,29-Apr-26,09-May-26,International,0.1456736513366871
+859,Malaysia Airport,Shanghai Port,Furniture,32276,3261,29,YCH,8 Bulim Ave,China,Malaysia,30-Apr-26,10-May-26,International,0.13076614236480025
+860,Shanghai Airport,Shanghai Port,Furniture,18534,3086,97,YCH,8 Bulim Ave,Malaysia,Malaysia,01-May-26,11-May-26,International,0.10702059425310846
+861,Shanghai Port,Wuxi Railway Station,Pharmaceuticals,63334,3833,61,YCH,8 Bulim Ave,Singapore,Singapore,02-May-26,12-May-26,International,0.02914954283722903
+862,Singapore Airport,Shanghai Port,Furniture,85909,4009,46,YCH,8 Bulim Ave,China,Singapore,03-May-26,13-May-26,International,0.12454077991551517
+863,Shanghai Port,Singapore Airport,Electronics,52157,3645,34,YCH,8 Bulim Ave,Malaysia,China,04-May-26,14-May-26,International,0.09446977198682248
+864,Wuxi Port,Wuxi Railway Station,Furniture,61612,3794,83,YCH,8 Bulim Ave,Singapore,China,05-May-26,15-May-26,International,0.013670426825522893
+865,Wuxi Railway Station,Wuxi Warehouse,Furniture,74499,981,85,YCH,8 Bulim Ave,Singapore,Malaysia,06-May-26,16-May-26,Domestic,0.13359937279529285
+866,Singapore Railway Station,Shanghai Port,Pharmaceuticals,8209,4110,90,YCH,8 Bulim Ave,China,Singapore,07-May-26,17-May-26,Domestic,0.044109621938846794
+867,Malaysia Warehouse,Wuxi Airport,Textiles,60038,1055,89,YCH,8 Bulim Ave,Singapore,China,08-May-26,18-May-26,International,0.08934324954765312
+868,Wuxi Railway Station,Shanghai Railway Station,Electronics,13627,2074,95,YCH,8 Bulim Ave,Malaysia,Singapore,09-May-26,19-May-26,Domestic,0.08076882374282729
+869,Malaysia Port,Malaysia Warehouse,Furniture,1432,1910,33,YCH,8 Bulim Ave,Singapore,Malaysia,10-May-26,20-May-26,International,0.07182709491102478
+870,Wuxi Railway Station,Shanghai Airport,Textiles,51608,4662,65,YCH,8 Bulim Ave,China,China,11-May-26,21-May-26,International,0.04913028144705773
+871,Malaysia Railway Station,Singapore Warehouse,Electronics,67440,3468,31,YCH,8 Bulim Ave,Singapore,Singapore,12-May-26,22-May-26,Domestic,0.08379799070640835
+872,Malaysia Port,Shanghai Port,Furniture,72754,414,23,YCH,8 Bulim Ave,Singapore,China,13-May-26,23-May-26,International,0.0686887821801984
+873,Wuxi Warehouse,Singapore Port,Electronics,91345,4833,50,YCH,8 Bulim Ave,China,Singapore,14-May-26,24-May-26,International,0.14980114918497997
+874,Singapore Airport,Singapore Warehouse,Furniture,93678,4570,53,YCH,8 Bulim Ave,Singapore,China,15-May-26,25-May-26,International,0.10264526344113702
+875,Shanghai Railway Station,Wuxi Railway Station,Furniture,94616,3388,46,YCH,8 Bulim Ave,Malaysia,China,16-May-26,26-May-26,Domestic,0.10315168383682467
+876,Wuxi Warehouse,Wuxi Railway Station,Furniture,74039,3266,66,YCH,8 Bulim Ave,Malaysia,China,17-May-26,27-May-26,Domestic,0.0472241587310159
+877,Wuxi Port,Shanghai Port,Electronics,91562,2146,13,YCH,8 Bulim Ave,Malaysia,China,18-May-26,28-May-26,International,0.054161604701017406
+878,Wuxi Warehouse,Singapore Warehouse,Pharmaceuticals,68342,2582,27,YCH,8 Bulim Ave,Singapore,Malaysia,19-May-26,29-May-26,Domestic,0.06535135125496323
+879,Shanghai Airport,Shanghai Railway Station,Pharmaceuticals,54455,3387,54,YCH,8 Bulim Ave,Singapore,Singapore,20-May-26,30-May-26,International,0.04877125026838625
+880,Shanghai Warehouse,Malaysia Warehouse,Textiles,41046,1756,94,YCH,8 Bulim Ave,Singapore,Malaysia,21-May-26,31-May-26,Domestic,0.11547256894360193
+881,Wuxi Railway Station,Shanghai Warehouse,Pharmaceuticals,38556,4144,28,YCH,8 Bulim Ave,Singapore,China,22-May-26,01-Jun-26,Domestic,0.13514433731187595
+882,Shanghai Airport,Malaysia Railway Station,Pharmaceuticals,43923,593,81,YCH,8 Bulim Ave,Singapore,Singapore,23-May-26,02-Jun-26,Domestic,0.0822959296972188
+883,Singapore Airport,Shanghai Port,Furniture,84163,1431,89,YCH,8 Bulim Ave,China,Malaysia,24-May-26,03-Jun-26,Domestic,0.019284035534564516
+884,Singapore Port,Shanghai Port,Textiles,43814,1412,85,YCH,8 Bulim Ave,Malaysia,Singapore,25-May-26,04-Jun-26,International,0.07198551002385588
+885,Singapore Airport,Shanghai Warehouse,Electronics,42867,1223,86,YCH,8 Bulim Ave,China,Singapore,26-May-26,05-Jun-26,Domestic,0.1448941561117176
+886,Shanghai Railway Station,Singapore Port,Textiles,98434,585,51,YCH,8 Bulim Ave,Singapore,Malaysia,27-May-26,06-Jun-26,International,0.0677773381872838
+887,Shanghai Warehouse,Wuxi Warehouse,Pharmaceuticals,35051,291,9,YCH,8 Bulim Ave,China,China,28-May-26,07-Jun-26,International,0.04422833134506125
+888,Singapore Warehouse,Malaysia Warehouse,Furniture,74978,4514,1,YCH,8 Bulim Ave,Singapore,Singapore,29-May-26,08-Jun-26,Domestic,0.04116532671670091
+889,Shanghai Port,Malaysia Airport,Furniture,44153,3972,43,YCH,8 Bulim Ave,Singapore,Malaysia,30-May-26,09-Jun-26,International,0.11955768500159551
+890,Malaysia Port,Malaysia Airport,Pharmaceuticals,30424,2090,26,YCH,8 Bulim Ave,China,China,31-May-26,10-Jun-26,International,0.0562339916240164
+891,Singapore Warehouse,Singapore Warehouse,Pharmaceuticals,89985,4114,34,YCH,8 Bulim Ave,China,China,01-Jun-26,11-Jun-26,Domestic,0.09981063043524814
+892,Malaysia Warehouse,Singapore Railway Station,Electronics,6151,300,75,YCH,8 Bulim Ave,Malaysia,China,02-Jun-26,12-Jun-26,Domestic,0.07462027194687065
+893,Malaysia Warehouse,Shanghai Warehouse,Textiles,58673,4538,15,YCH,8 Bulim Ave,Malaysia,Singapore,03-Jun-26,13-Jun-26,Domestic,0.08452200719886112
+894,Singapore Warehouse,Singapore Port,Pharmaceuticals,9117,2656,58,YCH,8 Bulim Ave,China,Singapore,04-Jun-26,14-Jun-26,International,0.028198451312660057
+895,Singapore Warehouse,Wuxi Port,Furniture,75391,4894,22,YCH,8 Bulim Ave,Malaysia,Malaysia,05-Jun-26,15-Jun-26,International,0.04543115295809658
+896,Malaysia Railway Station,Shanghai Airport,Textiles,34237,902,74,YCH,8 Bulim Ave,Singapore,China,06-Jun-26,16-Jun-26,Domestic,0.12917680708189588
+897,Malaysia Airport,Wuxi Airport,Pharmaceuticals,76446,965,60,YCH,8 Bulim Ave,China,Singapore,07-Jun-26,17-Jun-26,International,0.057233314280297626
+898,Malaysia Port,Wuxi Railway Station,Electronics,63892,2110,83,YCH,8 Bulim Ave,Singapore,China,08-Jun-26,18-Jun-26,International,0.045490653590416284
+899,Wuxi Airport,Shanghai Railway Station,Pharmaceuticals,37353,4053,56,YCH,8 Bulim Ave,Singapore,Singapore,09-Jun-26,19-Jun-26,International,0.042796581897029645
+900,Wuxi Port,Singapore Airport,Textiles,9927,640,65,YCH,8 Bulim Ave,China,China,10-Jun-26,20-Jun-26,International,0.13189563079629127
+901,Wuxi Warehouse,Malaysia Warehouse,Furniture,5202,4201,35,YCH,8 Bulim Ave,Singapore,Singapore,11-Jun-26,21-Jun-26,Domestic,0.055677112623839994
+902,Malaysia Airport,Malaysia Railway Station,Pharmaceuticals,62681,2366,38,YCH,8 Bulim Ave,Malaysia,Malaysia,12-Jun-26,22-Jun-26,Domestic,0.02227518527568966
+903,Wuxi Railway Station,Singapore Airport,Textiles,56971,4416,3,YCH,8 Bulim Ave,Malaysia,Malaysia,13-Jun-26,23-Jun-26,International,0.0748932022268417
+904,Shanghai Port,Wuxi Port,Textiles,56224,4187,26,YCH,8 Bulim Ave,Singapore,China,14-Jun-26,24-Jun-26,International,0.13893865607010356
+905,Malaysia Port,Singapore Railway Station,Textiles,98887,2073,52,YCH,8 Bulim Ave,China,Singapore,15-Jun-26,25-Jun-26,Domestic,0.041960023803254136
+906,Singapore Warehouse,Singapore Airport,Furniture,69625,1209,36,YCH,8 Bulim Ave,China,China,16-Jun-26,26-Jun-26,Domestic,0.10644080376671837
+907,Singapore Port,Singapore Railway Station,Electronics,17880,1478,24,YCH,8 Bulim Ave,China,China,17-Jun-26,27-Jun-26,Domestic,0.09825325117028856
+908,Shanghai Railway Station,Malaysia Railway Station,Electronics,18265,1936,70,YCH,8 Bulim Ave,Singapore,Singapore,18-Jun-26,28-Jun-26,Domestic,0.13348503632684097
+909,Malaysia Port,Singapore Railway Station,Pharmaceuticals,58127,1769,80,YCH,8 Bulim Ave,China,Malaysia,19-Jun-26,29-Jun-26,International,0.08883310183590402
+910,Shanghai Airport,Shanghai Warehouse,Pharmaceuticals,68208,1408,18,YCH,8 Bulim Ave,Singapore,Malaysia,20-Jun-26,30-Jun-26,International,0.026743501024998652
+911,Wuxi Railway Station,Malaysia Airport,Pharmaceuticals,74336,1744,47,YCH,8 Bulim Ave,Singapore,Singapore,21-Jun-26,01-Jul-26,International,0.010341389648872957
+912,Singapore Port,Singapore Airport,Furniture,68736,3193,74,YCH,8 Bulim Ave,Singapore,Malaysia,22-Jun-26,02-Jul-26,Domestic,0.08769926935724666
+913,Shanghai Port,Singapore Warehouse,Textiles,30849,432,70,YCH,8 Bulim Ave,China,Singapore,23-Jun-26,03-Jul-26,Domestic,0.06196315209487534
+914,Malaysia Airport,Wuxi Airport,Furniture,73027,607,77,YCH,8 Bulim Ave,Singapore,China,24-Jun-26,04-Jul-26,Domestic,0.06943350330049189
+915,Malaysia Warehouse,Malaysia Port,Furniture,19195,3286,60,YCH,8 Bulim Ave,Malaysia,China,25-Jun-26,05-Jul-26,Domestic,0.012899440033317843
+916,Shanghai Airport,Wuxi Airport,Furniture,69728,2910,9,YCH,8 Bulim Ave,China,China,26-Jun-26,06-Jul-26,International,0.12654713957964855
+917,Shanghai Port,Singapore Port,Pharmaceuticals,35230,2643,88,YCH,8 Bulim Ave,Malaysia,Singapore,27-Jun-26,07-Jul-26,International,0.020456356859169644
+918,Singapore Port,Wuxi Port,Pharmaceuticals,90386,951,41,YCH,8 Bulim Ave,Malaysia,China,28-Jun-26,08-Jul-26,International,0.13684533576674593
+919,Singapore Railway Station,Wuxi Railway Station,Textiles,32887,247,51,YCH,8 Bulim Ave,Malaysia,Malaysia,29-Jun-26,09-Jul-26,Domestic,0.024753893002286163
+920,Singapore Warehouse,Wuxi Port,Pharmaceuticals,98633,2191,65,YCH,8 Bulim Ave,Malaysia,Malaysia,30-Jun-26,10-Jul-26,International,0.10173542288982951
+921,Shanghai Railway Station,Wuxi Railway Station,Textiles,36548,3435,38,YCH,8 Bulim Ave,China,Malaysia,01-Jul-26,11-Jul-26,International,0.12056148254518437
+922,Shanghai Airport,Shanghai Warehouse,Furniture,33420,3425,8,YCH,8 Bulim Ave,China,Malaysia,02-Jul-26,12-Jul-26,Domestic,0.12097357958036495
+923,Shanghai Port,Wuxi Railway Station,Textiles,18917,2851,63,YCH,8 Bulim Ave,Malaysia,Singapore,03-Jul-26,13-Jul-26,Domestic,0.13576081165402518
+924,Shanghai Port,Shanghai Railway Station,Textiles,74919,1671,31,YCH,8 Bulim Ave,China,Malaysia,04-Jul-26,14-Jul-26,International,0.11464616843113737
+925,Singapore Railway Station,Shanghai Port,Textiles,62015,230,37,YCH,8 Bulim Ave,China,Malaysia,05-Jul-26,15-Jul-26,International,0.1372696921800674
+926,Shanghai Railway Station,Wuxi Warehouse,Electronics,46594,1839,61,YCH,8 Bulim Ave,Singapore,Singapore,06-Jul-26,16-Jul-26,Domestic,0.1352315845792524
+927,Singapore Airport,Malaysia Railway Station,Pharmaceuticals,73454,3505,10,YCH,8 Bulim Ave,Malaysia,Malaysia,07-Jul-26,17-Jul-26,Domestic,0.01143218799257659
+928,Malaysia Port,Shanghai Port,Textiles,4340,147,65,YCH,8 Bulim Ave,Singapore,China,08-Jul-26,18-Jul-26,Domestic,0.04966070591665298
+929,Singapore Railway Station,Shanghai Railway Station,Pharmaceuticals,81173,87,32,YCH,8 Bulim Ave,Singapore,Malaysia,09-Jul-26,19-Jul-26,Domestic,0.07479154208145815
+930,Shanghai Airport,Shanghai Railway Station,Electronics,19908,1982,27,YCH,8 Bulim Ave,China,Malaysia,10-Jul-26,20-Jul-26,International,0.10131452879005
+931,Wuxi Railway Station,Shanghai Port,Textiles,32550,246,60,YCH,8 Bulim Ave,China,Malaysia,11-Jul-26,21-Jul-26,International,0.1436759139242313
+932,Singapore Port,Singapore Railway Station,Furniture,15403,3205,12,YCH,8 Bulim Ave,Malaysia,Malaysia,12-Jul-26,22-Jul-26,International,0.1066242821621513
+933,Malaysia Airport,Malaysia Warehouse,Furniture,6346,1101,36,YCH,8 Bulim Ave,Malaysia,Singapore,13-Jul-26,23-Jul-26,International,0.14768593787502596
+934,Shanghai Warehouse,Wuxi Airport,Textiles,20470,1681,68,YCH,8 Bulim Ave,Singapore,China,14-Jul-26,24-Jul-26,International,0.040406881277464286
+935,Wuxi Port,Wuxi Airport,Furniture,7717,192,62,YCH,8 Bulim Ave,Singapore,Singapore,15-Jul-26,25-Jul-26,Domestic,0.07513895728439635
+936,Shanghai Airport,Singapore Warehouse,Textiles,2344,1663,41,YCH,8 Bulim Ave,China,Singapore,16-Jul-26,26-Jul-26,Domestic,0.01908224883554455
+937,Malaysia Warehouse,Shanghai Airport,Pharmaceuticals,83672,3607,31,YCH,8 Bulim Ave,China,Malaysia,17-Jul-26,27-Jul-26,Domestic,0.14732040568752156
+938,Singapore Airport,Singapore Railway Station,Electronics,5139,3418,2,YCH,8 Bulim Ave,Singapore,China,18-Jul-26,28-Jul-26,International,0.1484067282733879
+939,Shanghai Railway Station,Shanghai Port,Electronics,25277,4034,98,YCH,8 Bulim Ave,Singapore,Malaysia,19-Jul-26,29-Jul-26,International,0.03110260053329514
+940,Shanghai Airport,Wuxi Railway Station,Electronics,15740,964,24,YCH,8 Bulim Ave,China,Malaysia,20-Jul-26,30-Jul-26,International,0.09833831828037384
+941,Shanghai Airport,Malaysia Warehouse,Electronics,80596,2651,54,YCH,8 Bulim Ave,Singapore,Singapore,21-Jul-26,31-Jul-26,International,0.08441898022377205
+942,Shanghai Port,Singapore Warehouse,Electronics,18068,4371,7,YCH,8 Bulim Ave,Malaysia,Malaysia,22-Jul-26,01-Aug-26,Domestic,0.09997857843809031
+943,Shanghai Airport,Malaysia Railway Station,Textiles,74252,3862,83,YCH,8 Bulim Ave,Malaysia,Malaysia,23-Jul-26,02-Aug-26,International,0.02204360883836979
+944,Wuxi Airport,Shanghai Warehouse,Furniture,80381,2160,44,YCH,8 Bulim Ave,China,Singapore,24-Jul-26,03-Aug-26,Domestic,0.12164578709622055
+945,Shanghai Warehouse,Singapore Railway Station,Pharmaceuticals,79669,1949,96,YCH,8 Bulim Ave,China,China,25-Jul-26,04-Aug-26,Domestic,0.09157931169444643
+946,Malaysia Railway Station,Singapore Port,Furniture,75868,1076,38,YCH,8 Bulim Ave,China,Singapore,26-Jul-26,05-Aug-26,International,0.01993993395306805
+947,Singapore Airport,Wuxi Port,Pharmaceuticals,98957,2053,4,YCH,8 Bulim Ave,China,China,27-Jul-26,06-Aug-26,International,0.04278999919027434
+948,Wuxi Airport,Shanghai Railway Station,Furniture,56695,1686,81,YCH,8 Bulim Ave,Malaysia,China,28-Jul-26,07-Aug-26,International,0.09774606488278385
+949,Wuxi Airport,Singapore Railway Station,Pharmaceuticals,32637,2293,86,YCH,8 Bulim Ave,Singapore,Singapore,29-Jul-26,08-Aug-26,Domestic,0.1261939210593409
+950,Shanghai Railway Station,Wuxi Airport,Furniture,94596,3335,48,YCH,8 Bulim Ave,Malaysia,China,30-Jul-26,09-Aug-26,International,0.11773305278918174
+951,Shanghai Airport,Malaysia Port,Electronics,18910,1009,12,YCH,8 Bulim Ave,Malaysia,Singapore,31-Jul-26,10-Aug-26,International,0.07092926652847983
+952,Shanghai Airport,Malaysia Airport,Electronics,76626,999,65,YCH,8 Bulim Ave,Singapore,China,01-Aug-26,11-Aug-26,Domestic,0.07408693081001703
+953,Singapore Warehouse,Wuxi Airport,Electronics,48994,3736,97,YCH,8 Bulim Ave,Malaysia,Singapore,02-Aug-26,12-Aug-26,International,0.03009411531131974
+954,Singapore Warehouse,Shanghai Warehouse,Textiles,73132,4477,2,YCH,8 Bulim Ave,China,Malaysia,03-Aug-26,13-Aug-26,Domestic,0.051746880072540795
+955,Malaysia Airport,Wuxi Warehouse,Textiles,10471,427,8,YCH,8 Bulim Ave,Singapore,China,04-Aug-26,14-Aug-26,Domestic,0.039206196695665975
+956,Wuxi Railway Station,Malaysia Airport,Textiles,69960,3792,93,YCH,8 Bulim Ave,China,China,05-Aug-26,15-Aug-26,Domestic,0.048679697960872285
+957,Malaysia Warehouse,Wuxi Port,Textiles,47819,4584,38,YCH,8 Bulim Ave,Singapore,Singapore,06-Aug-26,16-Aug-26,International,0.1353554967847375
+958,Malaysia Port,Malaysia Railway Station,Pharmaceuticals,73935,3384,61,YCH,8 Bulim Ave,China,China,07-Aug-26,17-Aug-26,Domestic,0.056479695382707536
+959,Shanghai Railway Station,Singapore Airport,Pharmaceuticals,65128,1874,42,YCH,8 Bulim Ave,China,Singapore,08-Aug-26,18-Aug-26,International,0.1225296968055957
+960,Singapore Port,Wuxi Railway Station,Pharmaceuticals,21004,3741,56,YCH,8 Bulim Ave,China,China,09-Aug-26,19-Aug-26,Domestic,0.07202231165914937
+961,Malaysia Airport,Singapore Warehouse,Furniture,30680,907,7,YCH,8 Bulim Ave,Malaysia,Malaysia,10-Aug-26,20-Aug-26,Domestic,0.019449301277372072
+962,Singapore Railway Station,Wuxi Airport,Pharmaceuticals,31189,4072,7,YCH,8 Bulim Ave,Malaysia,Malaysia,11-Aug-26,21-Aug-26,Domestic,0.10444326914901049
+963,Singapore Warehouse,Wuxi Warehouse,Pharmaceuticals,82484,4810,11,YCH,8 Bulim Ave,Singapore,Singapore,12-Aug-26,22-Aug-26,International,0.07896987180704583
+964,Singapore Airport,Malaysia Warehouse,Furniture,40569,3752,20,YCH,8 Bulim Ave,Singapore,Malaysia,13-Aug-26,23-Aug-26,International,0.010975866964866148
+965,Shanghai Airport,Malaysia Port,Electronics,80222,380,22,YCH,8 Bulim Ave,China,China,14-Aug-26,24-Aug-26,International,0.09187704780274354
+966,Wuxi Warehouse,Shanghai Port,Electronics,82155,2172,81,YCH,8 Bulim Ave,China,Singapore,15-Aug-26,25-Aug-26,International,0.02553515578061767
+967,Wuxi Airport,Malaysia Railway Station,Pharmaceuticals,73983,167,66,YCH,8 Bulim Ave,Malaysia,China,16-Aug-26,26-Aug-26,International,0.0692812281270281
+968,Wuxi Railway Station,Shanghai Port,Furniture,89443,4867,81,YCH,8 Bulim Ave,Malaysia,Malaysia,17-Aug-26,27-Aug-26,Domestic,0.04403002207357645
+969,Shanghai Airport,Wuxi Warehouse,Furniture,41483,699,99,YCH,8 Bulim Ave,China,Malaysia,18-Aug-26,28-Aug-26,International,0.14881477540159996
+970,Wuxi Port,Malaysia Railway Station,Textiles,72547,1296,44,YCH,8 Bulim Ave,Singapore,Malaysia,19-Aug-26,29-Aug-26,International,0.09002688077999972
+971,Singapore Warehouse,Wuxi Railway Station,Pharmaceuticals,20402,548,13,YCH,8 Bulim Ave,Malaysia,China,20-Aug-26,30-Aug-26,Domestic,0.14324974119314166
+972,Shanghai Railway Station,Shanghai Railway Station,Electronics,60892,3714,1,YCH,8 Bulim Ave,Singapore,China,21-Aug-26,31-Aug-26,Domestic,0.06859798222847055
+973,Wuxi Railway Station,Wuxi Warehouse,Electronics,81288,157,17,YCH,8 Bulim Ave,Singapore,Singapore,22-Aug-26,01-Sep-26,International,0.06506347103544974
+974,Singapore Airport,Malaysia Port,Pharmaceuticals,55719,3210,8,YCH,8 Bulim Ave,Singapore,Malaysia,23-Aug-26,02-Sep-26,International,0.01475401775118703
+975,Wuxi Railway Station,Singapore Port,Electronics,10761,569,36,YCH,8 Bulim Ave,Malaysia,Singapore,24-Aug-26,03-Sep-26,International,0.11034899127730655
+976,Shanghai Port,Singapore Warehouse,Electronics,80645,2618,42,YCH,8 Bulim Ave,Singapore,China,25-Aug-26,04-Sep-26,Domestic,0.10636101289416665
+977,Malaysia Railway Station,Shanghai Port,Pharmaceuticals,6667,279,58,YCH,8 Bulim Ave,Malaysia,China,26-Aug-26,05-Sep-26,International,0.12747081263691476
+978,Malaysia Railway Station,Singapore Port,Electronics,50070,496,55,YCH,8 Bulim Ave,China,Malaysia,27-Aug-26,06-Sep-26,Domestic,0.032064576306545224
+979,Shanghai Airport,Singapore Airport,Furniture,37761,4886,57,YCH,8 Bulim Ave,Malaysia,China,28-Aug-26,07-Sep-26,International,0.10898834190851411
+980,Singapore Airport,Shanghai Railway Station,Electronics,56050,3667,2,YCH,8 Bulim Ave,China,China,29-Aug-26,08-Sep-26,Domestic,0.035678031085711145
+981,Shanghai Port,Malaysia Port,Textiles,61493,79,34,YCH,8 Bulim Ave,Malaysia,China,30-Aug-26,09-Sep-26,International,0.11119818551360931
+982,Malaysia Railway Station,Shanghai Railway Station,Textiles,65569,2744,58,YCH,8 Bulim Ave,China,China,31-Aug-26,10-Sep-26,International,0.06500057296137751
+983,Singapore Warehouse,Singapore Railway Station,Electronics,97535,1380,41,YCH,8 Bulim Ave,Malaysia,China,01-Sep-26,11-Sep-26,Domestic,0.14592040854936747
+984,Shanghai Port,Singapore Warehouse,Electronics,1327,4034,11,YCH,8 Bulim Ave,Singapore,Singapore,02-Sep-26,12-Sep-26,Domestic,0.11004614996553883
+985,Malaysia Railway Station,Wuxi Port,Furniture,87483,3852,47,YCH,8 Bulim Ave,Singapore,Singapore,03-Sep-26,13-Sep-26,International,0.09010314195697366
+986,Shanghai Port,Shanghai Port,Textiles,6344,35,78,YCH,8 Bulim Ave,Malaysia,China,04-Sep-26,14-Sep-26,International,0.111861976229728
+987,Wuxi Port,Shanghai Airport,Textiles,52090,262,19,YCH,8 Bulim Ave,Singapore,Singapore,05-Sep-26,15-Sep-26,Domestic,0.041754565795481965
+988,Wuxi Airport,Malaysia Port,Pharmaceuticals,12019,1929,45,YCH,8 Bulim Ave,Malaysia,China,06-Sep-26,16-Sep-26,International,0.0494077146142675
+989,Shanghai Warehouse,Shanghai Railway Station,Pharmaceuticals,97430,4993,37,YCH,8 Bulim Ave,China,Singapore,07-Sep-26,17-Sep-26,Domestic,0.05376711451351026
+990,Malaysia Airport,Shanghai Warehouse,Textiles,23382,203,65,YCH,8 Bulim Ave,China,Singapore,08-Sep-26,18-Sep-26,Domestic,0.031224963361236813
+991,Singapore Warehouse,Shanghai Port,Electronics,66603,1685,8,YCH,8 Bulim Ave,Singapore,Singapore,09-Sep-26,19-Sep-26,International,0.08303894745404815
+992,Malaysia Airport,Singapore Airport,Textiles,65612,2223,97,YCH,8 Bulim Ave,Malaysia,Malaysia,10-Sep-26,20-Sep-26,International,0.095814150113448
+993,Singapore Warehouse,Shanghai Railway Station,Electronics,6463,111,63,YCH,8 Bulim Ave,China,China,11-Sep-26,21-Sep-26,Domestic,0.07602784451741962
+994,Shanghai Warehouse,Shanghai Railway Station,Electronics,8905,3252,12,YCH,8 Bulim Ave,China,China,12-Sep-26,22-Sep-26,Domestic,0.046140435246168794
+995,Shanghai Warehouse,Singapore Warehouse,Pharmaceuticals,25720,4406,32,YCH,8 Bulim Ave,Malaysia,Singapore,13-Sep-26,23-Sep-26,International,0.14097365363831296
+996,Singapore Airport,Wuxi Railway Station,Pharmaceuticals,56526,2406,1,YCH,8 Bulim Ave,Singapore,Singapore,14-Sep-26,24-Sep-26,Domestic,0.03174813581294838
+997,Wuxi Airport,Shanghai Railway Station,Electronics,50803,4244,36,YCH,8 Bulim Ave,Singapore,Singapore,15-Sep-26,25-Sep-26,Domestic,0.13876644911851993
+998,Malaysia Railway Station,Shanghai Port,Textiles,93264,786,68,YCH,8 Bulim Ave,Singapore,China,16-Sep-26,26-Sep-26,Domestic,0.14467907975769675
+999,Singapore Port,Wuxi Warehouse,Furniture,16899,4488,63,YCH,8 Bulim Ave,Singapore,Singapore,17-Sep-26,27-Sep-26,Domestic,0.09100581189742415
+1000,Singapore Railway Station,Malaysia Airport,Furniture,98581,4570,3,YCH,8 Bulim Ave,Singapore,Singapore,18-Sep-26,28-Sep-26,International,0.060754440846541066
+1001,Shanghai Railway Station,Shanghai Port,Textiles,22333,4135,7,YCH,8 Bulim Ave,Singapore,China,19-Sep-26,29-Sep-26,International,0.010166772202314463
+1002,Wuxi Warehouse,Singapore Airport,Pharmaceuticals,79213,841,31,YCH,8 Bulim Ave,Malaysia,Singapore,20-Sep-26,30-Sep-26,Domestic,0.06804441782031126
+1003,Singapore Port,Wuxi Railway Station,Textiles,50363,3881,30,YCH,8 Bulim Ave,Malaysia,China,21-Sep-26,01-Oct-26,International,0.05928489189800684
+1004,Malaysia Railway Station,Singapore Airport,Electronics,60992,3788,32,YCH,8 Bulim Ave,Singapore,Singapore,22-Sep-26,02-Oct-26,Domestic,0.06425196273305143
+1005,Wuxi Port,Shanghai Railway Station,Textiles,36172,4318,42,YCH,8 Bulim Ave,Malaysia,Malaysia,23-Sep-26,03-Oct-26,Domestic,0.14820880255576865
+1006,Shanghai Railway Station,Malaysia Port,Pharmaceuticals,14980,2202,66,YCH,8 Bulim Ave,Malaysia,Singapore,24-Sep-26,04-Oct-26,International,0.07169455898215872
+1007,Wuxi Airport,Wuxi Railway Station,Electronics,82076,1537,23,YCH,8 Bulim Ave,Malaysia,Singapore,25-Sep-26,05-Oct-26,Domestic,0.1040259858058991
+1008,Shanghai Port,Shanghai Airport,Textiles,67052,2389,20,YCH,8 Bulim Ave,China,Singapore,26-Sep-26,06-Oct-26,Domestic,0.06606195306356526

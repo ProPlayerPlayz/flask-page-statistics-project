@@ -1,0 +1,152 @@
+/* styles.css */
+
+/* Reset and Body Styles */
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f9;
+    color: #333;
+}
+
+/* Add padding to the entire page for space on the sides */
+.container {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 20px; /* Inner spacing */
+    box-sizing: border-box; /* Includes padding in width calculations */
+}
+
+/* Header styles */
+h1 {
+    text-align: center;
+    color: #444;
+    margin-bottom: 20px;
+}
+
+/* Back link */
+a {
+    display: inline-block;
+    margin-bottom: 20px;
+    color: #007bff;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+/* Form styles */
+form {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    margin-bottom: 20px;
+}
+
+label {
+    margin-right: 10px;
+    margin-left: 15px;
+    font-weight: bold;
+}
+
+select {
+    margin-right: 15px;
+    padding: 5px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+}
+
+button {
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    padding: 8px 16px;
+    margin: 0 20px;
+    border-radius: 4px;
+    cursor: pointer;
+    font-size: 16px;
+}
+
+button:hover {
+    background-color: #0056b3;
+}
+
+/* Image styling */
+img {
+    display: block;
+    margin: 20px auto;
+    max-width: 100%; /* Ensure the image fits within the screen */
+    height: auto;    /* Maintain aspect ratio */
+    border: 1px solid #ccc;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+/* Table Styling */
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin: 20px 0;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    background: white;
+}
+
+/* Scrollable table wrapper */
+.table-scroll {
+    overflow-x: auto; /* Enables horizontal scrolling */
+    width: 100%; /* Ensures the wrapper fits within the container */
+    margin: 5px 0; /* Adds spacing around the scrollable table */
+}
+
+/* Ensure the table fits the scrollable area */
+.table-scroll table {
+    min-width: 800px; /* Set minimum width to trigger horizontal scrolling if necessary */
+    border-collapse: collapse; /* Maintain table styles */
+}
+
+.table-scroll th, .table-scroll td {
+    white-space: nowrap; /* Prevent text wrapping for horizontal scroll */
+}
+
+th, td {
+    text-align: left;
+    padding: 10px;
+    border: 1px solid #ddd;
+}
+
+th {
+    background-color: #f0f0f0;
+    font-weight: bold;
+}
+
+/* Textarea Styling */
+textarea {
+    width: 100%;
+    height: 80px;
+    margin-top: 10px;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    resize: vertical;
+}
+
+/* Center Text Areas */
+textarea {
+    display: block;
+    margin: 0 auto;
+}
+
+/* Responsive Design */
+@media (max-width: 768px) {
+    body {
+        font-size: 14px;
+    }
+
+    table, th, td {
+        font-size: 12px;
+    }
+
+    textarea {
+        height: 60px;
+    }
+}

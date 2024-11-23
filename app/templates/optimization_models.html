@@ -1,0 +1,141 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Optimization Models</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='styles.css') }}">
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+</head>
+<body>
+    <div class="container">
+        <h1>Optimization Models</h1>
+        <a href="{{ url_for('menu') }}">Back to Home</a>
+        <hr>
+
+        <h2>Transportation Problem Optimization</h2>
+        <form id="transportation-form">
+            <label for="transportation-budget">Budget:</label>
+            <input type="number" name="transportation-budget" id="transportation-budget" value="500000000">
+            <button type="button" id="submit-transportation-button">Go</button>
+        </form>
+        <h3>Optimal Usage:</h3>
+        <p class="answer" id="transportation-result">Waiting...</p>
+        <h3>Optimal Shipment Plan:</h3>
+        <img id="transportation-plot" src="{{ url_for('static', filename='images/om_1_shipment_plan.png') }}" alt="Transportation Problem" id="transportation-image">
+    
+        <script>
+            $(document).ready(function () {
+            $('#submit-transportation-button').on('click', function () {
+                const formData = $('#transportation-form').serialize();
+
+                $.ajax({
+                url: "{{ url_for('transportation_optimization') }}",
+                method: "POST",
+                data: formData,
+                success: function (response) {
+                    if (response.success) {
+                        // Update the image source to the new graph
+                        $('#transportation-plot').attr('src', response.image_path + '?t=' + new Date().getTime());
+                        // Update the answer text
+                        $('#transportation-result').text("Budget: "+response.budget + " -> Optimal Usage: " + response.result);
+                    } else {
+                    alert("Error: " + response.error);
+                    }
+                },
+                error: function () {
+                    alert("An error occurred while processing your request.");
+                }
+                });
+            });
+            });
+        </script>
+
+        <hr>
+        <h2>Optimization of Route Costs Using Gradient Descent</h2>
+        <form id="gradient-form">
+            <label for="gradient-learning-rate">Learning Rate:</label>
+            <input type="number" name="gradient-learning-rate" id="gradient-learning-rate" value="0.01">
+            <label for="gradient-iterations">Iterations:</label>
+            <input type="number" name="gradient-iterations" id="gradient-iterations" value="1000">
+            <button type="button" id="submit-gradient-button">Go</button>
+        </form>
+        
+        <h3>Optimal Frieght Cost:</h3>
+        <p class="answer" id="gradient-result-frieght">Waiting...</p>
+        <h3>Optimal Fuel Cost:</h3>
+        <p class="answer" id="gradient-result-fuel">Waiting...</p>
+        <h3>Optimal Handling Cost:</h3>
+        <p class="answer" id="gradient-result-cost">Waiting...</p>
+        <br>
+        <img id="gradient-cost-plot" src="{{ url_for('static', filename='images/om_2_cost_function.png') }}" alt="Cost Function" id="gradient-image">
+        <img id="gradient-plot" src="{{ url_for('static', filename='images/om_2_gradient_descent.png') }}" alt="Gradient Descent" id="gradient-image">
+
+        <script>
+            $(document).ready(function () {
+                $('#submit-gradient-button').on('click', function () {
+                    const formData = $('#gradient-form').serialize();
+
+                    $.ajax({
+                        url: "{{ url_for('gradient_descent') }}",
+                        method: "POST",
+                        data: formData,
+                        success: function (response) {
+                            if (response.success) {
+                                // Update the image source to the new graph
+                                $('#gradient-cost-plot').attr('src', response.cost_image_path + '?t=' + new Date().getTime());
+                                $('#gradient-plot').attr('src', response.gradient_image_path + '?t=' + new Date().getTime());
+                                // Update the answer text
+                                $('#gradient-result-frieght').text(response.freight_cost);
+                                $('#gradient-result-fuel').text(response.fuel_cost);
+                                $('#gradient-result-cost').text(response.total_cost);
+                            } else {
+                                alert("Error: " + response.error);
+                            }
+                        },
+                        error: function () {
+                            alert("An error occurred while processing your request.");
+                        }
+                    });
+                });
+            });
+        </script>
+
+        <hr>
+        <h2>Balanced Knapsack Optimization for Load Distribution</h2>
+        <form id="knapsack-form">
+            <label for="knapsack-capacity">Capacities[in KG] (Enter as Comma Seperated Values):</label>
+            <input type="text" name="knapsack-capacity" id="knapsack-capacity" value="1000,2000,3000">
+            <button type="button" id="submit-knapsack-button">Go</button>
+        </form>
+        <img id="knapsack-desc-img" src="{{ url_for('static', filename='images/om_3_description.png') }}" alt="Knapsack Description">
+        <img id="knapsack-plot" src="{{ url_for('static', filename='images/om_3_knapsack.png') }}" alt="Knapsack Optimization">
+        
+        <script>
+            $(document).ready(function () {
+                $('#submit-knapsack-button').on('click', function () {
+                    const formData = $('#knapsack-form').serialize();
+
+                    $.ajax({
+                        url: "{{ url_for('knapsack_optimization') }}",
+                        method: "POST",
+                        data: formData,
+                        success: function (response) {
+                            if (response.success) {
+                                // Update the image source to the new graph
+                                $('#knapsack-plot').attr('src', response.image_path + '?t=' + new Date().getTime());
+                                $('#knapsack-desc-img').attr('src', response.desc_image_path + '?t=' + new Date().getTime());
+                            } else {
+                                alert("Error: " + response.error);
+                            }
+                        },
+                        error: function () {
+                            alert("An error occurred while processing your request.");
+                        }
+                    });
+                });
+            });
+        </script>
+    </div>
+</body>
+</html>

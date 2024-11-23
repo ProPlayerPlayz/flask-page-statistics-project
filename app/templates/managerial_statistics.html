@@ -1,0 +1,178 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Managerial Statistics</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='styles.css') }}">
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+</head>
+<body>
+    <div class="container">
+        <h1>Managerial Statistics</h1>
+        <a href="{{ url_for('menu') }}">Back to Home</a>
+        <hr>
+
+        <h2>Bayesian Inference Using Beta Distribution</h2>
+        <form id="bayesian-form">
+            <label for="column">Column:</label>
+            <select name="bayesian-column" id="column">
+                <option value="Route Number">Route Number</option>
+                <option value="Source">Source</option>
+                <option value="Destination">Destination</option>
+                <option value="Container Size">Container Size</option>
+                <option value="Carrier">Carrier</option>
+                <option value="Travel Mode">Travel Mode</option>
+                <option value="Fixed Freight Cost">Fixed Freight Cost</option>
+                <option value="Port/Airport/Rail Handling Cost">Port/Airport/Rail Handling Cost</option>
+                <option value="Bunker/ Fuel Cost">Bunker/ Fuel Cost</option>
+                <option value="Documentation Cost">Documentation Cost</option>
+                <option value="Equipment Cost">Equipment Cost</option>
+                <option value="Extra Cost">Extra Cost</option>
+                <option value="Warehouse Cost">Warehouse Cost</option>
+                <option value="Transit Duty">Transit Duty</option>
+                <option value="CustomClearance time (hours)">CustomClearance time (hours)</option>
+                <option value="Port/Airport/Rail Handling time (hours)">Port/Airport/Rail Handling time (hours)</option>
+                <option value="Extra Time">Extra Time</option>
+                <option value="Transit time (hours)">Transit time (hours)</option>
+                <option value="Monday">Monday</option>
+                <option value="Tuesday">Tuesday</option>
+                <option value="Wednesday">Wednesday</option>
+                <option value="Thursday">Thursday</option>
+                <option value="Friday">Friday</option>
+                <option value="Saturday">Saturday</option>
+                <option value="Sunday">Sunday</option>
+            </select>
+            <label for="alpha">Alpha:</label>
+            <input type="number" name="bayesian-alpha" id="alpha" value="2">
+            <label for="beta">Beta:</label>
+            <input type="number" name="bayesian-beta" id="beta" value="1">
+            <button type="button" id="submit-button">Go</button>
+        </form>
+        <img id="bayesian-plot" src="{{ url_for('static', filename='images/ms_1_bayesian_inference_beta.png') }}" alt="Bayesian Inference Using Beta Distribution">
+
+        <script>
+            $(document).ready(function () {
+                $('#submit-button').on('click', function () {
+                    const formData = $('#bayesian-form').serialize();
+
+                    $.ajax({
+                        url: "{{ url_for('bayesian_inference') }}",
+                        method: "POST",
+                        data: formData,
+                        success: function (response) {
+                            if (response.success) {
+                                // Update the image source to the new graph
+                                $('#bayesian-plot').attr('src', response.image_path + '?t=' + new Date().getTime());
+                            } else {
+                                alert("Error: " + response.error);
+                            }
+                        },
+                        error: function () {
+                            alert("An error occurred while processing your request.");
+                        }
+                    });
+                });
+            });
+        </script>
+        <hr>
+
+        <h2>Poisson Distribution for Weekly Orders</h2>
+        <form id="poisson-form">
+            <div>
+                <div>
+                    <div>
+                        <label>Source:</label>
+                        <select name="poisson-source">
+                            <option>Singapore Port</option>
+                            <option>Shanghai Port</option>
+                            <option>Malaysia Port</option>
+                            <option>Wuxi Port</option>
+                            <option>Singapore Airport</option>
+                            <option>Shanghai Airport</option>
+                            <option>Malaysia Airport</option>
+                            <option>Wuxi Airport</option>
+                            <option>Shanghai Railway Station</option>
+                            <option>Wuxi Railway Station</option>
+                            <option>Singapore Railway Station</option>
+                            <option>Malaysia Railway Station</option>
+                            <option>Singapore Warehouse</option>
+                            <option>Malaysia Warehouse</option>
+                            <option>Wuxi Warehouse</option>
+                            <option>Shanghai Warehouse</option>
+                        </select>
+                        <label>Destination:</label>
+                        <select name="poisson-destination">
+                            <option>Singapore Port</option>
+                            <option>Shanghai Port</option>
+                            <option>Malaysia Port</option>
+                            <option>Wuxi Port</option>
+                            <option>Singapore Airport</option>
+                            <option>Shanghai Airport</option>
+                            <option>Malaysia Airport</option>
+                            <option>Wuxi Airport</option>
+                            <option>Shanghai Railway Station</option>
+                            <option>Wuxi Railway Station</option>
+                            <option>Singapore Railway Station</option>
+                            <option>Malaysia Railway Station</option>
+                            <option>Singapore Warehouse</option>
+                            <option>Malaysia Warehouse</option>
+                            <option>Wuxi Warehouse</option>
+                            <option>Shanghai Warehouse</option>
+                        </select>
+                    </div>
+                    <div>
+                        <label>Order Min. Range:</label>
+                        <input type="number" name="poisson-min" value="1">
+                        <label>Order Max. Range:</label>
+                        <input type="number" name="poisson-max" value="5">
+                    </div>
+                </div>
+                <button type="button" id="poisson-submit">Go</button>
+            </div>
+        </form>
+        <img id="poisson-plot" src="{{ url_for('static', filename='images/ms_2_poisson_distribution.png') }}" alt="Poisson Distribution for Weekly Orders">
+
+        <script>
+            $(document).ready(function () {
+                $('#poisson-submit').on('click', function () {
+                    const formData = $('#poisson-form').serialize();
+
+                    $.ajax({
+                        url: "{{ url_for('poisson_distribution') }}",
+                        method: "POST",
+                        data: formData,
+                        success: function (response) {
+                            if (response.success) {
+                                // Update the image source to the new graph
+                                $('#poisson-plot').attr('src', response.image_path + '?t=' + new Date().getTime());
+                            } else {
+                                alert("Error: " + response.error);
+                            }
+                        },
+                        error: function () {
+                            alert("An error occurred while processing your request.");
+                        }
+                    });
+                });
+            });
+        </script>
+
+        <hr>
+        <h2>Exponential Distribution</h2>
+        <img id="exponential-plot" src="{{ url_for('static', filename='images/ms_3_exponential_distribution.png') }}" alt="Exponential Distribution">
+        
+        <hr>
+        <h2>Binomial Distribution</h2>
+        <img src="{{ url_for('static', filename='images/ms_4_binomial_distribution.png') }}" alt="Binomial Distribution">
+
+        <hr>
+        <h2>Negative Binomial Distribution</h2>
+        <img src="{{ url_for('static', filename='images/ms_5_negative_binomial_distribution.jpg') }}" alt="Negative Binomial Distribution">
+
+        <hr>
+        <h2>Gamma Distribution</h2>
+        <img src="{{ url_for('static', filename='images/ms_6_gamma_distribution.jpg') }}" alt="Negative Binomial Distribution">
+    </div>
+</body>
+</html>

@@ -1,0 +1,179 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Explorative Data Analysis</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='styles.css') }}">
+</head>
+<body>
+    <div class="container">
+        <h1>Explorative Data Analysis</h1>
+        <a href="{{ url_for('menu') }}">Back to Home</a>
+
+        <hr>
+        <h2>Introduction</h2>
+        <p>Exploratory Data Analysis (EDA) is an approach to analyzing data sets to summarize their main characteristics, often with visual methods. A statistical model can be used or not, but primarily EDA is for seeing what the data can tell us beyond the formal modeling or hypothesis testing task. EDA is a crucial step in the data analysis process and should be done before the modeling process. It is a good practice to understand the data first and try to gather as many insights as possible before moving on to the modeling process.</p>
+
+        <hr>
+        <h2>Few rows from the data</h2>
+        <h3>Route Data</h3>
+        <div class="table-scroll">
+            <table>
+                <thead>
+                    <tr>
+                        {% for column in route_head.columns %}
+                            <th>{{ column }}</th>
+                        {% endfor %}
+                    </tr>
+                </thead>
+                <tbody>
+                    {% for row in route_head.values %}
+                        <tr>
+                            {% for cell in row %}
+                                <td>{{ cell }}</td>
+                            {% endfor %}
+                        </tr>
+                    {% endfor %}
+                </tbody>
+            </table>
+        </div>
+
+        <h3>Order Data</h3>
+        <div class="table-scroll">
+            <table>
+                <thead>
+                    <tr>
+                        {% for column in order_head.columns %}
+                            <th>{{ column }}</th>
+                        {% endfor %}
+                    </tr>
+                </thead>
+                <tbody>
+                    {% for row in order_head.values %}
+                        <tr>
+                            {% for cell in row %}
+                                <td>{{ cell }}</td>
+                            {% endfor %}
+                        </tr>
+                    {% endfor %}
+                </tbody>
+            </table>
+        </div>
+
+        <hr>
+        <h2>1. Check for Missing Values in the Datasets</h2>
+        <h3>Route Data</h3>
+        <table>
+            <tr>
+                <th>Column</th><th>Missing Values</th>
+            </tr>
+            {% for column, missing_values in route_missing.items() %}
+                <tr>
+                    <td>{{ column }}</td><td>{{ missing_values }}</td>
+                </tr>
+            {% endfor %}
+        </table>
+        <br>
+        <h3>Order Data</h3>
+        <table>
+            <tr>
+                <th>Column</th><th>Missing Values</th>
+            </tr>
+            {% for column, missing_values in order_missing.items() %}
+                <tr>
+                    <td>{{ column }}</td><td>{{ missing_values }}</td>
+                </tr>
+            {% endfor %}
+        </table>
+
+
+        <hr>
+        <h2>2. Summary Statistics of Numerical Columns</h2>
+        <h3>Route Data</h3>
+            <table>
+                <tr>
+                    <th>Column</th><th>Mean</th><th>Standard Deviation</th><th>Minimum</th><th>25%</th><th>50%</th><th>75%</th><th>Maximum</th>
+                </tr>
+                {% for column, stats in route_num_summary.items() %}
+                    <tr>
+                        <td>{{ column }}</td>
+                        <td>{{ stats['mean'] }}</td>
+                        <td>{{ stats['std'] }}</td>
+                        <td>{{ stats['min'] }}</td>
+                        <td>{{ stats['25%'] }}</td>
+                        <td>{{ stats['50%'] }}</td>
+                        <td>{{ stats['75%'] }}</td>
+                        <td>{{ stats['max'] }}</td>
+                    </tr>
+                {% endfor %}
+            </table>
+        <br>
+        <h3>Order Data</h3>
+            <table>
+                <tr>
+                    <th>Column</th><th>Mean</th><th>Standard Deviation</th><th>Minimum</th><th>25%</th><th>50%</th><th>75%</th><th>Maximum</th>
+                </tr>
+                {% for column, stats in order_num_summary.items() %}
+                    <tr>
+                        <td>{{ column }}</td>
+                        <td>{{ stats['mean'] }}</td>
+                        <td>{{ stats['std'] }}</td>
+                        <td>{{ stats['min'] }}</td>
+                        <td>{{ stats['25%'] }}</td>
+                        <td>{{ stats['50%'] }}</td>
+                        <td>{{ stats['75%'] }}</td>
+                        <td>{{ stats['max'] }}</td>
+                    </tr>
+                {% endfor %}
+            </table>
+        <h4></h4>
+
+        <hr>
+        <h2>3. Distribution of Travel Modes in Route Data</h2>
+        <img src="{{ url_for('static', filename='images/eda_3_travel_mode_distribution.png') }}" alt="Distribution of Travel Modes">
+        
+
+        <hr>
+        <h2>4. Correlation of Costs in Route Data</h2>
+        <img src="{{ url_for('static', filename='images/eda_4_cost_correlation_heatmap.png') }}" alt="Correlation of Costs in Route Data">
+        
+
+        <hr>
+        <h2>5. Correlation of Time-Related Attributes in Route Data</h2>
+        <img src="{{ url_for('static', filename='images/eda_5_time_correlation_heatmap.png') }}" alt="Correlation of Time-Related Attributes in Route Data">
+        
+
+        <hr>
+        <h2>6. Clustering Analysis</h2>
+        <img src="{{ url_for('static', filename='images/eda_7_cluster_analysis.png') }}" alt="Clustering Analysis">
+        
+
+        <hr>
+        <h2>7. Feature Importance</h2>
+        <table>
+            <tr>
+                <th>Feature</th><th>Importance</th>
+            </tr>
+            <!--{'Feature': ['Tax Percentage', 'Weight (KG)', 'Volume'], 'Importance': [0.4463092569137266, 0.3836685290692132, 0.1700222140170603]}-->
+            {% for feature, importance in feature_importance.items() %}
+                <tr>
+                    <td>{{ feature }}</td><td>{{ importance }}</td>
+                </tr>
+            {% endfor %}
+        </table>
+        <img src="{{ url_for('static', filename='images/eda_8_feature_importance.png') }}" alt="Feature Importance using Random Forest">
+        
+
+        <hr>
+        <h2>8. Geospatial Analysis of Routes</h2>
+        <img src="{{ url_for('static', filename='images/eda_9_geospacial_analysis.png') }}" alt="Geospatial Analysis of Routes">
+        
+
+        <hr>
+        <h2>9. Dependency Analysis with Decision Trees</h2>
+        <img src="{{ url_for('static', filename='images/eda_10_dependency_analysis.png') }}" alt="Dependency Analysis with Decision Trees">
+        
+    </div>
+</body>
+</html>
